@@ -207,7 +207,7 @@ with g2:
     batch_vals = cases[
         (cases["batch_group"] == row["batch_group"]) &
         (cases["matrix"] == row["matrix"]) &
-        (cases["pathogen"] == row["pathogen'])
+        (cases["pathogen"] == row["pathogen"])
     ][used_col].astype(float).values
     plot_batch_hist(batch_vals, row[used_col], species_mode=species_mode,
                     title_suffix=f"({row['matrix']}, {row['pathogen']})")
