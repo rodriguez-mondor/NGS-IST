@@ -244,15 +244,29 @@ with g1:
 with g2:
     species_mode = is_species_level(row['pathogen'])
     used_col = 'rpm_species' if species_mode else 'rpm_genus'
-    # safe mask for batch
-    mask = (
+
+    # 1) Tous les échantillons du batch pour la même matrice
+    batch_samples = cases[
+        (cases['batch_group'].astype(str) == str(row['batch_group'])) &
+        (cases['matrix'].astype(str) == str(row['matrix']))
+    ]['sample_id'].unique()
+
+    # 2) RPM de la cible pour les échantillons où elle est présente
+    sub = cases[
         (cases['batch_group'].astype(str) == str(row['batch_group'])) &
         (cases['matrix'].astype(str) == str(row['matrix'])) &
         (cases['pathogen'].astype(str) == str(row['pathogen']))
-    )
-    batch_vals = cases.loc[mask, used_col].astype(float).values
+    ][['sample_id', used_col]]
+
+    rpm_map = dict(zip(sub['sample_id'], sub[used_col].astype(float)))
+
+    # 3) Série complète incluant les zéros manquants
+    import numpy as np
+    batch_vals = np.array([float(rpm_map.get(sid, 0.0)) for sid in batch_samples], dtype=float)
+
     title_sfx = f"({row['matrix']}, {row['pathogen']})"
-    plot_batch_hist(batch_vals, float(row[used_col]), species_mode=species_mode, title_suffix=title_sfx, fs=9)
+    plot_batch_hist(batch_vals, float(row[used_col]), species_mode=species_mode, title_suffix=title_sfx)
+
 
 st.markdown('---')
 
