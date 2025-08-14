@@ -215,7 +215,7 @@ with colA:
     st.markdown(f"- **Visite** : {row['visit']}")
 with colB:
     st.subheader('Cible')
-    st.markdown(f"<span style='color:green; font-weight:700'>{row['pathogen']}</span>", unsafe_allow_html=True)
+    st.markdown(f"<h3 style='color:green; font-weight:700; margin:0'>{row['pathogen']}</h3>", unsafe_allow_html=True)
 
 # KPIs
 ratio = (row['rpm_species'] / row['rpm_genus']) if row['rpm_genus'] > 0 else 0.0
