@@ -64,7 +64,7 @@ def plot_four_bars(sample_rpm_species, ctrl_rpm_species, sample_rpm_genus, ctrl_
 def plot_batch_hist(batch_vals, sample_val, species_mode=True, title_suffix='', fs=9):
     # Histogram in default blue; sample line green; thresholds 0/1/10 dotted black
     fig, ax = plt.subplots(figsize=(7.0, 3.2))
-    ax.hist(batch_vals, bins=12)  # default color
+    ax.hist(batch_vals, bins=8)  # default color
     ax.axvline(sample_val, color='green', linestyle='-', linewidth=2, label='Sample')
     for thr in [0, 1, 10]:
         ax.axvline(thr, color='black', linestyle=':', linewidth=1)
