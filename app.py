@@ -246,27 +246,31 @@ with g2:
     used_col = 'rpm_species' if species_mode else 'rpm_genus'
 
     # 1) Tous les échantillons du batch pour la même matrice
-    batch_samples = cases[
+    batch_mask = (
         (cases['batch_group'].astype(str) == str(row['batch_group'])) &
         (cases['matrix'].astype(str) == str(row['matrix']))
-    ]['sample_id'].unique()
+    )
+    batch_samples = (
+        cases.loc[batch_mask, 'sample_id']
+             .dropna()
+             .astype(str)
+             .unique()
+    )
+    n_batch = len(batch_samples)
 
-    # 2) RPM de la cible pour les échantillons où elle est présente
-    sub = cases[
-        (cases['batch_group'].astype(str) == str(row['batch_group'])) &
-        (cases['matrix'].astype(str) == str(row['matrix'])) &
-        (cases['pathogen'].astype(str) == str(row['pathogen']))
-    ][['sample_id', used_col]]
-
+    # 2) RPM de la cible uniquement là où elle est présente
+    target_mask = batch_mask & (cases['pathogen'].astype(str) == str(row['pathogen']))
+    sub = cases.loc[target_mask, ['sample_id', used_col]].copy()
+    sub['sample_id'] = sub['sample_id'].astype(str)
     rpm_map = dict(zip(sub['sample_id'], sub[used_col].astype(float)))
 
-    # 3) Série complète incluant les zéros manquants
+    # 3) Série complète incluant les zéros pour les échantillons sans la cible
     import numpy as np
-    batch_vals = np.array([float(rpm_map.get(sid, 0.0)) for sid in batch_samples], dtype=float)
+    batch_vals = np.array([rpm_map.get(sid, 0.0) for sid in batch_samples], dtype=float)
 
+    # Titre avec N pour vérification visuelle
     title_sfx = f"({row['matrix']}, {row['pathogen']}, N={n_batch})"
     plot_batch_hist(batch_vals, float(row[used_col]), species_mode=species_mode, title_suffix=title_sfx)
-
 
 st.markdown('---')
 
