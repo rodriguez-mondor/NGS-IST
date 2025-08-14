@@ -264,7 +264,7 @@ with g2:
     import numpy as np
     batch_vals = np.array([float(rpm_map.get(sid, 0.0)) for sid in batch_samples], dtype=float)
 
-    title_sfx = f"({row['matrix']}, {row['pathogen']})"
+    title_sfx = f"({row['matrix']}, {row['pathogen']}, N={n_batch})"
     plot_batch_hist(batch_vals, float(row[used_col]), species_mode=species_mode, title_suffix=title_sfx)
 
 
