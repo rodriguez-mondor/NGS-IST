@@ -223,7 +223,7 @@ with c2:
         dfB = long_base[
             (long_base["batch_group"] == row["batch_group"]) &
             (long_base["matrix"] == row["matrix"]) &
-            (long_base["pathogen"] == row["pathogen'])
+            (long_base["pathogen"] == row['pathogen'])
         ].copy()
         if not dfB.empty:
             def _u(r):
