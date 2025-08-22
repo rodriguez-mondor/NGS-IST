@@ -125,7 +125,7 @@ def plot_batch_hist(batch_vals, sample_val, species_mode=True, title_suffix='', 
 
 st.sidebar.header('Configuration')
 
-operator_id = st.sidebar.selectbox("Votre identifiant opérateur", ['op1','op2','op3','op4','op5','admin'], index=0).')
+operator_id = st.sidebar.selectbox("Votre identifiant opérateur", ['op1','op2','op3','op4','op5','admin'], index=0)
 base_csv_source = st.sidebar.radio('Source de la base', ['Fichier dans le repo', 'Upload manuel'], index=0)
 
 default_path = 'cases_questions_v3_1665_with_assignments_withPCR_v3.csv'
