@@ -164,6 +164,7 @@ _mode = st.sidebar.radio('Choisir le mode :', ['— choisir —','Production','T
 if _mode == '— choisir —':
     st.sidebar.warning('Merci de sélectionner un mode (Test ou Production).')
     st.stop()
+mode = _mode
 if operator_id == 'admin':
     base_csv_source = st.sidebar.radio('Source de la base', ['Fichier dans le repo', 'Upload manuel'], index=0)
     default_path = 'cases_questions_v3_1665_with_assignments_withPCR_v3.csv'
