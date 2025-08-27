@@ -1,0 +1,2326 @@
+batch_group,matrix,pathogen,n_total,n_positive,median_pos,count_0_1,count_1_10,count_10_100,count_100_1000,count_ge_1000
+240216_PL1AG,Anal,Campylobacter jejuni,45,35,6.483014,1,21,12,1,0
+240216_PL1AG,Anal,Chlamydia spp,45,1,6.02489,0,1,0,0,0
+240216_PL1AG,Anal,Chlamydia trachomatis,45,1,6.02489,0,1,0,0,0
+240216_PL1AG,Anal,Clostridioides difficile,45,44,92.0,0,5,17,21,1
+240216_PL1AG,Anal,Entamoeba histolytica,45,9,0.202735,8,1,0,0,0
+240216_PL1AG,Anal,Haemophilus ducreyi,45,43,20.0,2,11,29,1,0
+240216_PL1AG,Anal,Haemophilus influenzae,45,15,12.0,1,6,7,1,0
+240216_PL1AG,Anal,Haemophilus parainfluenzae,45,27,11.0,1,12,14,0,0
+240216_PL1AG,Anal,Human alphaherpesvirus 1,45,27,0.183483,26,1,0,0,0
+240216_PL1AG,Anal,Human alphaherpesvirus 2,45,1,0.206039,1,0,0,0,0
+240216_PL1AG,Anal,Mpox,45,0,0.0,0,0,0,0,0
+240216_PL1AG,Anal,Mycoplasma genitalium,45,2,322.0,0,0,0,2,0
+240216_PL1AG,Anal,Mycoplasma hominis,45,15,3.608938,1,10,3,1,0
+240216_PL1AG,Anal,Mycoplasma pneumonae,45,0,0.0,0,0,0,0,0
+240216_PL1AG,Anal,Mycoplasma spp,45,2,322.0,0,0,0,2,0
+240216_PL1AG,Anal,Neisseria gonorrhoeae,45,1,35.0,0,0,1,0,0
+240216_PL1AG,Anal,Neisseria meningitidis,45,9,1.992492,2,7,0,0,0
+240216_PL1AG,Anal,Neisseria spp,45,11,2.823248,3,6,2,0,0
+240216_PL1AG,Anal,Papillomavirus,45,40,19.313562,8,11,12,9,0
+240216_PL1AG,Anal,Shigella spp,45,15,11.915359,0,7,5,3,0
+240216_PL1AG,Anal,Staphylococcus aureus,45,42,14.0,2,17,21,2,0
+240216_PL1AG,Anal,Treponema pallidum,45,0,0.0,0,0,0,0,0
+240216_PL1AG,Anal,Trichomonas vaginalis,45,43,6.933803,9,17,16,1,0
+240216_PL1AG,Anal,Trichophyton spp,45,3,0.319023,3,0,0,0,0
+240216_PL1AG,Anal,Ureaplasma spp,45,6,50.158717499999995,0,2,2,2,0
+240216_PL1AG,Gorge,Campylobacter jejuni,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Chlamydia spp,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Chlamydia trachomatis,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Clostridioides difficile,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Entamoeba histolytica,46,1,0.090934,1,0,0,0,0
+240216_PL1AG,Gorge,Haemophilus ducreyi,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Haemophilus influenzae,46,24,111.5,0,0,9,15,0
+240216_PL1AG,Gorge,Haemophilus parainfluenzae,46,41,398.0,0,0,6,25,10
+240216_PL1AG,Gorge,Human alphaherpesvirus 1,46,31,0.103733,31,0,0,0,0
+240216_PL1AG,Gorge,Human alphaherpesvirus 2,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Mpox,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Mycoplasma genitalium,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Mycoplasma hominis,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Mycoplasma pneumonae,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Mycoplasma spp,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Neisseria gonorrhoeae,46,18,171.5,0,0,3,13,2
+240216_PL1AG,Gorge,Neisseria meningitidis,46,34,413.5,0,1,5,21,7
+240216_PL1AG,Gorge,Neisseria spp,46,37,911.0,0,0,5,16,16
+240216_PL1AG,Gorge,Papillomavirus,46,6,0.1286185,5,1,0,0,0
+240216_PL1AG,Gorge,Shigella spp,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Staphylococcus aureus,46,2,11.269726,0,1,1,0,0
+240216_PL1AG,Gorge,Treponema pallidum,46,0,0.0,0,0,0,0,0
+240216_PL1AG,Gorge,Trichomonas vaginalis,46,6,0.1363665,6,0,0,0,0
+240216_PL1AG,Gorge,Trichophyton spp,46,1,0.151913,1,0,0,0,0
+240216_PL1AG,Gorge,Ureaplasma spp,46,0,0.0,0,0,0,0,0
+240216_PL1U,Urine,Campylobacter jejuni,94,1,3.385464,0,1,0,0,0
+240216_PL1U,Urine,Chlamydia spp,94,0,0.0,0,0,0,0,0
+240216_PL1U,Urine,Chlamydia trachomatis,94,0,0.0,0,0,0,0,0
+240216_PL1U,Urine,Clostridioides difficile,94,14,3.871185,2,7,5,0,0
+240216_PL1U,Urine,Entamoeba histolytica,94,1,0.03044,1,0,0,0,0
+240216_PL1U,Urine,Haemophilus ducreyi,94,24,2.9319655,5,15,4,0,0
+240216_PL1U,Urine,Haemophilus influenzae,94,22,7.913361,2,10,10,0,0
+240216_PL1U,Urine,Haemophilus parainfluenzae,94,26,11.0,1,10,12,3,0
+240216_PL1U,Urine,Human alphaherpesvirus 1,94,27,0.068983,27,0,0,0,0
+240216_PL1U,Urine,Human alphaherpesvirus 2,94,0,0.0,0,0,0,0,0
+240216_PL1U,Urine,Mpox,94,0,0.0,0,0,0,0,0
+240216_PL1U,Urine,Mycoplasma genitalium,94,3,12.0,0,1,2,0,0
+240216_PL1U,Urine,Mycoplasma hominis,94,7,1.970028,2,4,1,0,0
+240216_PL1U,Urine,Mycoplasma pneumonae,94,0,0.0,0,0,0,0,0
+240216_PL1U,Urine,Mycoplasma spp,94,3,12.0,0,1,2,0,0
+240216_PL1U,Urine,Neisseria gonorrhoeae,94,3,1.305695,1,1,0,1,0
+240216_PL1U,Urine,Neisseria meningitidis,94,4,2.991128,1,2,0,1,0
+240216_PL1U,Urine,Neisseria spp,94,9,2.234299,1,6,1,0,1
+240216_PL1U,Urine,Papillomavirus,94,24,0.0986445,23,0,1,0,0
+240216_PL1U,Urine,Shigella spp,94,1,0.070588,1,0,0,0,0
+240216_PL1U,Urine,Staphylococcus aureus,94,66,3.30626,8,51,7,0,0
+240216_PL1U,Urine,Treponema pallidum,94,0,0.0,0,0,0,0,0
+240216_PL1U,Urine,Trichomonas vaginalis,94,46,0.5561585,28,15,3,0,0
+240216_PL1U,Urine,Trichophyton spp,94,2,0.1292045,2,0,0,0,0
+240216_PL1U,Urine,Ureaplasma spp,94,14,16.511057,0,3,9,2,0
+240216_PL2AG,Anal,Campylobacter jejuni,44,38,7.4536055,5,22,11,0,0
+240216_PL2AG,Anal,Chlamydia spp,44,0,0.0,0,0,0,0,0
+240216_PL2AG,Anal,Chlamydia trachomatis,44,0,0.0,0,0,0,0,0
+240216_PL2AG,Anal,Clostridioides difficile,44,43,116.0,1,4,14,24,0
+240216_PL2AG,Anal,Entamoeba histolytica,44,12,0.274364,11,1,0,0,0
+240216_PL2AG,Anal,Haemophilus ducreyi,44,43,17.0,3,12,28,0,0
+240216_PL2AG,Anal,Haemophilus influenzae,44,19,4.904607,4,10,5,0,0
+240216_PL2AG,Anal,Haemophilus parainfluenzae,44,33,5.909256,6,11,13,3,0
+240216_PL2AG,Anal,Human alphaherpesvirus 1,44,25,0.250709,25,0,0,0,0
+240216_PL2AG,Anal,Human alphaherpesvirus 2,44,1,44.0,0,0,1,0,0
+240216_PL2AG,Anal,Mpox,44,0,0.0,0,0,0,0,0
+240216_PL2AG,Anal,Mycoplasma genitalium,44,4,1.0513715000000001,2,2,0,0,0
+240216_PL2AG,Anal,Mycoplasma hominis,44,20,6.853758,1,14,5,0,0
+240216_PL2AG,Anal,Mycoplasma pneumonae,44,0,0.0,0,0,0,0,0
+240216_PL2AG,Anal,Mycoplasma spp,44,5,1.457024,2,3,0,0,0
+240216_PL2AG,Anal,Neisseria gonorrhoeae,44,6,154.57598,0,3,0,2,1
+240216_PL2AG,Anal,Neisseria meningitidis,44,9,3.413004,3,3,3,0,0
+240216_PL2AG,Anal,Neisseria spp,44,12,3.1480815,3,5,1,2,1
+240216_PL2AG,Anal,Papillomavirus,44,24,2.4528109999999996,9,4,7,3,1
+240216_PL2AG,Anal,Shigella spp,44,17,11.482549999999998,3,5,7,2,0
+240216_PL2AG,Anal,Staphylococcus aureus,44,40,5.567449,5,19,16,0,0
+240216_PL2AG,Anal,Treponema pallidum,44,1,4.006137,0,1,0,0,0
+240216_PL2AG,Anal,Trichomonas vaginalis,44,40,3.051997,16,11,13,0,0
+240216_PL2AG,Anal,Trichophyton spp,44,3,0.186639,3,0,0,0,0
+240216_PL2AG,Anal,Ureaplasma spp,44,6,5.599577,2,2,2,0,0
+240216_PL2AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Clostridioides difficile,47,1,5.061988,0,1,0,0,0
+240216_PL2AG,Gorge,Entamoeba histolytica,47,1,0.180224,1,0,0,0,0
+240216_PL2AG,Gorge,Haemophilus ducreyi,47,3,8.554442,0,3,0,0,0
+240216_PL2AG,Gorge,Haemophilus influenzae,47,28,108.0,0,1,12,15,0
+240216_PL2AG,Gorge,Haemophilus parainfluenzae,47,43,265.0,0,0,15,18,10
+240216_PL2AG,Gorge,Human alphaherpesvirus 1,47,18,0.1354265,18,0,0,0,0
+240216_PL2AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Neisseria gonorrhoeae,47,30,94.5,0,0,16,13,1
+240216_PL2AG,Gorge,Neisseria meningitidis,47,39,335.0,0,3,6,22,8
+240216_PL2AG,Gorge,Neisseria spp,47,41,692.0,0,0,5,21,15
+240216_PL2AG,Gorge,Papillomavirus,47,2,0.1262265,2,0,0,0,0
+240216_PL2AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Staphylococcus aureus,47,2,9.0998315,0,1,1,0,0
+240216_PL2AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Trichomonas vaginalis,47,7,0.141333,7,0,0,0,0
+240216_PL2AG,Gorge,Trichophyton spp,47,0,0.0,0,0,0,0,0
+240216_PL2AG,Gorge,Ureaplasma spp,47,1,6.313993,0,1,0,0,0
+240216_PL2U,Urine,Campylobacter jejuni,89,0,0.0,0,0,0,0,0
+240216_PL2U,Urine,Chlamydia spp,89,0,0.0,0,0,0,0,0
+240216_PL2U,Urine,Chlamydia trachomatis,89,0,0.0,0,0,0,0,0
+240216_PL2U,Urine,Clostridioides difficile,89,10,2.910349,1,7,2,0,0
+240216_PL2U,Urine,Entamoeba histolytica,89,2,0.1388415,2,0,0,0,0
+240216_PL2U,Urine,Haemophilus ducreyi,89,6,6.590923,1,4,1,0,0
+240216_PL2U,Urine,Haemophilus influenzae,89,29,6.614689,1,18,8,2,0
+240216_PL2U,Urine,Haemophilus parainfluenzae,89,26,25.5,2,7,13,3,1
+240216_PL2U,Urine,Human alphaherpesvirus 1,89,11,0.079521,11,0,0,0,0
+240216_PL2U,Urine,Human alphaherpesvirus 2,89,1,1.113299,0,1,0,0,0
+240216_PL2U,Urine,Mpox,89,0,0.0,0,0,0,0,0
+240216_PL2U,Urine,Mycoplasma genitalium,89,2,0.44189,2,0,0,0,0
+240216_PL2U,Urine,Mycoplasma hominis,89,4,7.8642590000000006,0,3,0,1,0
+240216_PL2U,Urine,Mycoplasma pneumonae,89,0,0.0,0,0,0,0,0
+240216_PL2U,Urine,Mycoplasma spp,89,2,0.44189,2,0,0,0,0
+240216_PL2U,Urine,Neisseria gonorrhoeae,89,3,2.315238,0,3,0,0,0
+240216_PL2U,Urine,Neisseria meningitidis,89,3,6.767618,0,2,1,0,0
+240216_PL2U,Urine,Neisseria spp,89,5,4.268732,0,3,2,0,0
+240216_PL2U,Urine,Papillomavirus,89,22,0.2059225,21,1,0,0,0
+240216_PL2U,Urine,Shigella spp,89,0,0.0,0,0,0,0,0
+240216_PL2U,Urine,Staphylococcus aureus,89,47,2.782787,8,34,5,0,0
+240216_PL2U,Urine,Treponema pallidum,89,0,0.0,0,0,0,0,0
+240216_PL2U,Urine,Trichomonas vaginalis,89,19,0.371517,13,3,3,0,0
+240216_PL2U,Urine,Trichophyton spp,89,2,0.18349149999999997,2,0,0,0,0
+240216_PL2U,Urine,Ureaplasma spp,89,9,34.482186999999996,0,2,4,3,0
+240216_PL3AG,Anal,Campylobacter jejuni,45,34,7.014844,2,18,14,0,0
+240216_PL3AG,Anal,Chlamydia spp,45,1,793.652034,0,0,0,1,0
+240216_PL3AG,Anal,Chlamydia trachomatis,45,1,789.0,0,0,0,1,0
+240216_PL3AG,Anal,Clostridioides difficile,45,42,91.5,0,7,15,20,0
+240216_PL3AG,Anal,Entamoeba histolytica,45,9,0.22669,9,0,0,0,0
+240216_PL3AG,Anal,Haemophilus ducreyi,45,40,20.0,0,13,26,1,0
+240216_PL3AG,Anal,Haemophilus influenzae,45,19,4.626338,2,13,2,2,0
+240216_PL3AG,Anal,Haemophilus parainfluenzae,45,34,7.2953835,0,22,8,4,0
+240216_PL3AG,Anal,Human alphaherpesvirus 1,45,23,0.201273,22,1,0,0,0
+240216_PL3AG,Anal,Human alphaherpesvirus 2,45,1,641.0,0,0,0,1,0
+240216_PL3AG,Anal,Mpox,45,0,0.0,0,0,0,0,0
+240216_PL3AG,Anal,Mycoplasma genitalium,45,0,0.0,0,0,0,0,0
+240216_PL3AG,Anal,Mycoplasma hominis,45,14,3.0122225,3,10,1,0,0
+240216_PL3AG,Anal,Mycoplasma pneumonae,45,0,0.0,0,0,0,0,0
+240216_PL3AG,Anal,Mycoplasma spp,45,0,0.0,0,0,0,0,0
+240216_PL3AG,Anal,Neisseria gonorrhoeae,45,3,2.273591,0,2,0,1,0
+240216_PL3AG,Anal,Neisseria meningitidis,45,6,4.6840585,2,2,1,1,0
+240216_PL3AG,Anal,Neisseria spp,45,6,13.831071000000001,2,0,2,2,0
+240216_PL3AG,Anal,Papillomavirus,45,37,5.09104,6,17,10,4,0
+240216_PL3AG,Anal,Shigella spp,45,15,11.565845999999999,0,7,6,2,0
+240216_PL3AG,Anal,Staphylococcus aureus,45,35,12.0,1,14,18,2,0
+240216_PL3AG,Anal,Treponema pallidum,45,1,2.312253,0,1,0,0,0
+240216_PL3AG,Anal,Trichomonas vaginalis,45,36,4.9479935,8,19,8,1,0
+240216_PL3AG,Anal,Trichophyton spp,45,1,0.155264,1,0,0,0,0
+240216_PL3AG,Anal,Ureaplasma spp,45,5,7.312362,0,3,2,0,0
+240216_PL3AG,Gorge,Campylobacter jejuni,46,1,14.0,0,0,1,0,0
+240216_PL3AG,Gorge,Chlamydia spp,46,1,33.0,0,0,1,0,0
+240216_PL3AG,Gorge,Chlamydia trachomatis,46,1,33.0,0,0,1,0,0
+240216_PL3AG,Gorge,Clostridioides difficile,46,2,193.0680635,0,1,0,1,0
+240216_PL3AG,Gorge,Entamoeba histolytica,46,4,0.11314850000000001,4,0,0,0,0
+240216_PL3AG,Gorge,Haemophilus ducreyi,46,3,6.136127,1,1,1,0,0
+240216_PL3AG,Gorge,Haemophilus influenzae,46,27,53.0,0,4,14,9,0
+240216_PL3AG,Gorge,Haemophilus parainfluenzae,46,41,262.0,0,3,9,19,10
+240216_PL3AG,Gorge,Human alphaherpesvirus 1,46,20,0.1655295,19,1,0,0,0
+240216_PL3AG,Gorge,Human alphaherpesvirus 2,46,0,0.0,0,0,0,0,0
+240216_PL3AG,Gorge,Mpox,46,0,0.0,0,0,0,0,0
+240216_PL3AG,Gorge,Mycoplasma genitalium,46,0,0.0,0,0,0,0,0
+240216_PL3AG,Gorge,Mycoplasma hominis,46,0,0.0,0,0,0,0,0
+240216_PL3AG,Gorge,Mycoplasma pneumonae,46,0,0.0,0,0,0,0,0
+240216_PL3AG,Gorge,Mycoplasma spp,46,0,0.0,0,0,0,0,0
+240216_PL3AG,Gorge,Neisseria gonorrhoeae,46,30,107.0,0,5,10,13,2
+240216_PL3AG,Gorge,Neisseria meningitidis,46,37,275.0,0,4,9,14,10
+240216_PL3AG,Gorge,Neisseria spp,46,37,707.0,0,1,6,14,16
+240216_PL3AG,Gorge,Papillomavirus,46,4,0.840398,3,0,0,1,0
+240216_PL3AG,Gorge,Shigella spp,46,1,48.50383,0,0,1,0,0
+240216_PL3AG,Gorge,Staphylococcus aureus,46,6,3.4718785,1,4,1,0,0
+240216_PL3AG,Gorge,Treponema pallidum,46,0,0.0,0,0,0,0,0
+240216_PL3AG,Gorge,Trichomonas vaginalis,46,10,0.1185015,9,1,0,0,0
+240216_PL3AG,Gorge,Trichophyton spp,46,0,0.0,0,0,0,0,0
+240216_PL3AG,Gorge,Ureaplasma spp,46,0,0.0,0,0,0,0,0
+240216_PL3U,Urine,Campylobacter jejuni,63,3,1.225741,1,2,0,0,0
+240216_PL3U,Urine,Chlamydia spp,63,1,0.978367,1,0,0,0,0
+240216_PL3U,Urine,Chlamydia trachomatis,63,1,0.978367,1,0,0,0,0
+240216_PL3U,Urine,Clostridioides difficile,63,10,3.1151790000000004,1,6,3,0,0
+240216_PL3U,Urine,Entamoeba histolytica,63,1,0.161295,1,0,0,0,0
+240216_PL3U,Urine,Haemophilus ducreyi,63,13,3.983658,1,9,3,0,0
+240216_PL3U,Urine,Haemophilus influenzae,63,24,5.4373125,4,12,7,1,0
+240216_PL3U,Urine,Haemophilus parainfluenzae,63,23,6.644341,2,12,7,2,0
+240216_PL3U,Urine,Human alphaherpesvirus 1,63,24,0.08031150000000001,24,0,0,0,0
+240216_PL3U,Urine,Human alphaherpesvirus 2,63,1,0.501567,1,0,0,0,0
+240216_PL3U,Urine,Mpox,63,0,0.0,0,0,0,0,0
+240216_PL3U,Urine,Mycoplasma genitalium,63,2,7.724133,0,1,1,0,0
+240216_PL3U,Urine,Mycoplasma hominis,63,5,5.038481,1,3,1,0,0
+240216_PL3U,Urine,Mycoplasma pneumonae,63,0,0.0,0,0,0,0,0
+240216_PL3U,Urine,Mycoplasma spp,63,2,7.724133,0,1,1,0,0
+240216_PL3U,Urine,Neisseria gonorrhoeae,63,4,10.560793499999999,1,1,2,0,0
+240216_PL3U,Urine,Neisseria meningitidis,63,4,1.412107,1,2,1,0,0
+240216_PL3U,Urine,Neisseria spp,63,8,4.4335249999999995,2,4,1,1,0
+240216_PL3U,Urine,Papillomavirus,63,9,0.319904,7,0,2,0,0
+240216_PL3U,Urine,Shigella spp,63,3,30.919456999999998,0,0,2,0,1
+240216_PL3U,Urine,Staphylococcus aureus,63,20,2.059348,7,10,3,0,0
+240216_PL3U,Urine,Treponema pallidum,63,0,0.0,0,0,0,0,0
+240216_PL3U,Urine,Trichomonas vaginalis,63,19,0.558155,11,5,3,0,0
+240216_PL3U,Urine,Trichophyton spp,63,4,0.14128000000000002,4,0,0,0,0
+240216_PL3U,Urine,Ureaplasma spp,63,11,18.451466,1,2,6,2,0
+240216_PL4AG,Gorge,Campylobacter jejuni,44,0,0.0,0,0,0,0,0
+240216_PL4AG,Gorge,Chlamydia spp,44,1,21.0,0,0,1,0,0
+240216_PL4AG,Gorge,Chlamydia trachomatis,44,1,21.0,0,0,1,0,0
+240216_PL4AG,Gorge,Clostridioides difficile,44,2,2.9292179999999997,0,2,0,0,0
+240216_PL4AG,Gorge,Entamoeba histolytica,44,1,0.210773,1,0,0,0,0
+240216_PL4AG,Gorge,Haemophilus ducreyi,44,2,52.5,0,0,2,0,0
+240216_PL4AG,Gorge,Haemophilus influenzae,44,27,63.0,0,6,10,11,0
+240216_PL4AG,Gorge,Haemophilus parainfluenzae,44,41,228.0,0,1,12,20,8
+240216_PL4AG,Gorge,Human alphaherpesvirus 1,44,14,0.1724805,13,1,0,0,0
+240216_PL4AG,Gorge,Human alphaherpesvirus 2,44,0,0.0,0,0,0,0,0
+240216_PL4AG,Gorge,Mpox,44,0,0.0,0,0,0,0,0
+240216_PL4AG,Gorge,Mycoplasma genitalium,44,0,0.0,0,0,0,0,0
+240216_PL4AG,Gorge,Mycoplasma hominis,44,0,0.0,0,0,0,0,0
+240216_PL4AG,Gorge,Mycoplasma pneumonae,44,0,0.0,0,0,0,0,0
+240216_PL4AG,Gorge,Mycoplasma spp,44,0,0.0,0,0,0,0,0
+240216_PL4AG,Gorge,Neisseria gonorrhoeae,44,23,84.0,0,4,9,10,0
+240216_PL4AG,Gorge,Neisseria meningitidis,44,35,168.0,0,2,13,15,5
+240216_PL4AG,Gorge,Neisseria spp,44,37,376.0,0,1,7,18,11
+240216_PL4AG,Gorge,Papillomavirus,44,0,0.0,0,0,0,0,0
+240216_PL4AG,Gorge,Shigella spp,44,0,0.0,0,0,0,0,0
+240216_PL4AG,Gorge,Staphylococcus aureus,44,1,3.694488,0,1,0,0,0
+240216_PL4AG,Gorge,Treponema pallidum,44,1,12.0,0,0,1,0,0
+240216_PL4AG,Gorge,Trichomonas vaginalis,44,4,0.133693,4,0,0,0,0
+240216_PL4AG,Gorge,Trichophyton spp,44,1,0.381525,1,0,0,0,0
+240216_PL4AG,Gorge,Ureaplasma spp,44,0,0.0,0,0,0,0,0
+240216_PL4AG,Anal,Campylobacter jejuni,45,33,4.405987,2,20,11,0,0
+240216_PL4AG,Anal,Chlamydia spp,45,2,0.8729255,1,1,0,0,0
+240216_PL4AG,Anal,Chlamydia trachomatis,45,1,1.157538,0,1,0,0,0
+240216_PL4AG,Anal,Clostridioides difficile,45,39,42.0,2,5,18,14,0
+240216_PL4AG,Anal,Entamoeba histolytica,45,4,0.7693114999999999,3,1,0,0,0
+240216_PL4AG,Anal,Haemophilus ducreyi,45,35,15.0,1,10,24,0,0
+240216_PL4AG,Anal,Haemophilus influenzae,45,22,6.540281,5,7,6,4,0
+240216_PL4AG,Anal,Haemophilus parainfluenzae,45,33,7.221417,2,18,7,5,1
+240216_PL4AG,Anal,Human alphaherpesvirus 1,45,21,0.259447,19,2,0,0,0
+240216_PL4AG,Anal,Human alphaherpesvirus 2,45,1,116.0,0,0,0,1,0
+240216_PL4AG,Anal,Mpox,45,0,0.0,0,0,0,0,0
+240216_PL4AG,Anal,Mycoplasma genitalium,45,2,14.6600915,0,1,1,0,0
+240216_PL4AG,Anal,Mycoplasma hominis,45,18,2.7963690000000003,4,10,3,1,0
+240216_PL4AG,Anal,Mycoplasma pneumonae,45,0,0.0,0,0,0,0,0
+240216_PL4AG,Anal,Mycoplasma spp,45,2,14.6600915,0,1,1,0,0
+240216_PL4AG,Anal,Neisseria gonorrhoeae,45,7,11.0,2,1,2,2,0
+240216_PL4AG,Anal,Neisseria meningitidis,45,12,3.2187919999999997,3,6,3,0,0
+240216_PL4AG,Anal,Neisseria spp,45,19,11.565769,4,5,8,2,0
+240216_PL4AG,Anal,Papillomavirus,45,31,5.653257,5,13,8,5,0
+240216_PL4AG,Anal,Shigella spp,45,12,8.2369975,1,7,3,1,0
+240216_PL4AG,Anal,Staphylococcus aureus,45,40,7.8833899999999995,6,18,15,1,0
+240216_PL4AG,Anal,Treponema pallidum,45,0,0.0,0,0,0,0,0
+240216_PL4AG,Anal,Trichomonas vaginalis,45,38,1.6550585,12,16,10,0,0
+240216_PL4AG,Anal,Trichophyton spp,45,3,0.172965,3,0,0,0,0
+240216_PL4AG,Anal,Ureaplasma spp,45,8,15.1178505,0,2,5,1,0
+240216_PL5AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Clostridioides difficile,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Entamoeba histolytica,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Haemophilus ducreyi,47,3,29.0,0,0,2,0,1
+240216_PL5AG,Gorge,Haemophilus influenzae,47,31,73.0,0,3,15,11,2
+240216_PL5AG,Gorge,Haemophilus parainfluenzae,47,43,240.0,0,2,12,22,7
+240216_PL5AG,Gorge,Human alphaherpesvirus 1,47,19,0.194678,17,1,0,1,0
+240216_PL5AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Neisseria gonorrhoeae,47,26,104.5,0,2,11,11,2
+240216_PL5AG,Gorge,Neisseria meningitidis,47,36,282.0,0,1,13,14,8
+240216_PL5AG,Gorge,Neisseria spp,47,39,726.0,0,1,7,15,16
+240216_PL5AG,Gorge,Papillomavirus,47,1,0.070904,1,0,0,0,0
+240216_PL5AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Staphylococcus aureus,47,3,7.102086,0,2,1,0,0
+240216_PL5AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Trichomonas vaginalis,47,3,0.141099,3,0,0,0,0
+240216_PL5AG,Gorge,Trichophyton spp,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+240216_PL5AG,Anal,Campylobacter jejuni,44,27,4.335997,4,13,10,0,0
+240216_PL5AG,Anal,Chlamydia spp,44,1,2.307298,0,1,0,0,0
+240216_PL5AG,Anal,Chlamydia trachomatis,44,1,2.076568,0,1,0,0,0
+240216_PL5AG,Anal,Clostridioides difficile,44,37,69.0,2,4,16,15,0
+240216_PL5AG,Anal,Entamoeba histolytica,44,8,0.220126,7,1,0,0,0
+240216_PL5AG,Anal,Haemophilus ducreyi,44,32,12.0,2,12,16,2,0
+240216_PL5AG,Anal,Haemophilus influenzae,44,23,4.645204,6,7,8,2,0
+240216_PL5AG,Anal,Haemophilus parainfluenzae,44,26,16.0,1,11,8,6,0
+240216_PL5AG,Anal,Human alphaherpesvirus 1,44,21,0.335292,21,0,0,0,0
+240216_PL5AG,Anal,Human alphaherpesvirus 2,44,1,0.375949,1,0,0,0,0
+240216_PL5AG,Anal,Mpox,44,0,0.0,0,0,0,0,0
+240216_PL5AG,Anal,Mycoplasma genitalium,44,1,1.024539,0,1,0,0,0
+240216_PL5AG,Anal,Mycoplasma hominis,44,11,13.0,1,4,3,3,0
+240216_PL5AG,Anal,Mycoplasma pneumonae,44,0,0.0,0,0,0,0,0
+240216_PL5AG,Anal,Mycoplasma spp,44,1,1.024539,0,1,0,0,0
+240216_PL5AG,Anal,Neisseria gonorrhoeae,44,4,15.5,0,1,2,0,1
+240216_PL5AG,Anal,Neisseria meningitidis,44,8,1.1359975,3,2,3,0,0
+240216_PL5AG,Anal,Neisseria spp,44,10,1.8349565,4,2,2,1,1
+240216_PL5AG,Anal,Papillomavirus,44,32,4.4709900000000005,8,12,7,4,1
+240216_PL5AG,Anal,Shigella spp,44,16,52.246212,1,2,7,5,1
+240216_PL5AG,Anal,Staphylococcus aureus,44,31,5.770756,3,17,10,1,0
+240216_PL5AG,Anal,Treponema pallidum,44,0,0.0,0,0,0,0,0
+240216_PL5AG,Anal,Trichomonas vaginalis,44,34,1.9644145000000002,14,17,2,1,0
+240216_PL5AG,Anal,Trichophyton spp,44,5,0.259876,5,0,0,0,0
+240216_PL5AG,Anal,Ureaplasma spp,44,7,5.70722,0,5,2,0,0
+240216_PL6AG,Gorge,Campylobacter jejuni,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Chlamydia spp,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Chlamydia trachomatis,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Clostridioides difficile,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Entamoeba histolytica,15,2,0.19184600000000002,2,0,0,0,0
+240216_PL6AG,Gorge,Haemophilus ducreyi,15,1,9.260357,0,1,0,0,0
+240216_PL6AG,Gorge,Haemophilus influenzae,15,8,28.5,0,1,6,1,0
+240216_PL6AG,Gorge,Haemophilus parainfluenzae,15,14,196.0,0,0,4,7,3
+240216_PL6AG,Gorge,Human alphaherpesvirus 1,15,5,0.675842,3,2,0,0,0
+240216_PL6AG,Gorge,Human alphaherpesvirus 2,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Mpox,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Mycoplasma genitalium,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Mycoplasma hominis,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Mycoplasma pneumonae,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Mycoplasma spp,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Neisseria gonorrhoeae,15,6,171.0,0,0,3,3,0
+240216_PL6AG,Gorge,Neisseria meningitidis,15,11,172.0,0,0,3,5,3
+240216_PL6AG,Gorge,Neisseria spp,15,11,490.0,0,0,1,7,3
+240216_PL6AG,Gorge,Papillomavirus,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Shigella spp,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Staphylococcus aureus,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Treponema pallidum,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Trichomonas vaginalis,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Trichophyton spp,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Gorge,Ureaplasma spp,15,0,0.0,0,0,0,0,0
+240216_PL6AG,Anal,Campylobacter jejuni,12,6,5.615363,1,4,1,0,0
+240216_PL6AG,Anal,Chlamydia spp,12,0,0.0,0,0,0,0,0
+240216_PL6AG,Anal,Chlamydia trachomatis,12,0,0.0,0,0,0,0,0
+240216_PL6AG,Anal,Clostridioides difficile,12,11,39.0,1,1,6,3,0
+240216_PL6AG,Anal,Entamoeba histolytica,12,5,0.366672,5,0,0,0,0
+240216_PL6AG,Anal,Haemophilus ducreyi,12,10,9.2711275,1,4,5,0,0
+240216_PL6AG,Anal,Haemophilus influenzae,12,4,1.3481975,2,1,1,0,0
+240216_PL6AG,Anal,Haemophilus parainfluenzae,12,7,2.812901,2,4,1,0,0
+240216_PL6AG,Anal,Human alphaherpesvirus 1,12,4,0.17695650000000002,4,0,0,0,0
+240216_PL6AG,Anal,Human alphaherpesvirus 2,12,0,0.0,0,0,0,0,0
+240216_PL6AG,Anal,Mpox,12,0,0.0,0,0,0,0,0
+240216_PL6AG,Anal,Mycoplasma genitalium,12,1,3.025044,0,1,0,0,0
+240216_PL6AG,Anal,Mycoplasma hominis,12,1,2.296347,0,1,0,0,0
+240216_PL6AG,Anal,Mycoplasma pneumonae,12,0,0.0,0,0,0,0,0
+240216_PL6AG,Anal,Mycoplasma spp,12,1,3.025044,0,1,0,0,0
+240216_PL6AG,Anal,Neisseria gonorrhoeae,12,1,89.0,0,0,1,0,0
+240216_PL6AG,Anal,Neisseria meningitidis,12,2,1.6271485,0,2,0,0,0
+240216_PL6AG,Anal,Neisseria spp,12,2,47.166031,0,1,1,0,0
+240216_PL6AG,Anal,Papillomavirus,12,7,0.9843999999999999,4,1,2,0,0
+240216_PL6AG,Anal,Shigella spp,12,4,41.5641025,0,1,2,0,1
+240216_PL6AG,Anal,Staphylococcus aureus,12,9,4.174056,0,7,2,0,0
+240216_PL6AG,Anal,Treponema pallidum,12,0,0.0,0,0,0,0,0
+240216_PL6AG,Anal,Trichomonas vaginalis,12,10,1.448205,5,5,0,0,0
+240216_PL6AG,Anal,Trichophyton spp,12,0,0.0,0,0,0,0,0
+240216_PL6AG,Anal,Ureaplasma spp,12,1,14.962334,0,0,1,0,0
+240419_PL1AG,Anal,Campylobacter jejuni,33,19,7.709963,4,7,8,0,0
+240419_PL1AG,Anal,Chlamydia spp,33,0,0.0,0,0,0,0,0
+240419_PL1AG,Anal,Chlamydia trachomatis,33,0,0.0,0,0,0,0,0
+240419_PL1AG,Anal,Clostridioides difficile,33,28,85.0,3,6,6,13,0
+240419_PL1AG,Anal,Entamoeba histolytica,33,4,0.2562405,3,1,0,0,0
+240419_PL1AG,Anal,Haemophilus ducreyi,33,23,22.0,1,8,12,2,0
+240419_PL1AG,Anal,Haemophilus influenzae,33,7,10.0,2,1,2,2,0
+240419_PL1AG,Anal,Haemophilus parainfluenzae,33,14,3.0370274999999998,2,9,3,0,0
+240419_PL1AG,Anal,Human alphaherpesvirus 1,33,20,0.2564205,18,1,0,1,0
+240419_PL1AG,Anal,Human alphaherpesvirus 2,33,1,0.766206,1,0,0,0,0
+240419_PL1AG,Anal,Mpox,33,0,0.0,0,0,0,0,0
+240419_PL1AG,Anal,Mycoplasma genitalium,33,0,0.0,0,0,0,0,0
+240419_PL1AG,Anal,Mycoplasma hominis,33,5,0.649765,3,2,0,0,0
+240419_PL1AG,Anal,Mycoplasma pneumonae,33,0,0.0,0,0,0,0,0
+240419_PL1AG,Anal,Mycoplasma spp,33,0,0.0,0,0,0,0,0
+240419_PL1AG,Anal,Neisseria gonorrhoeae,33,2,691.5416285,0,1,0,0,1
+240419_PL1AG,Anal,Neisseria meningitidis,33,2,11.592473,1,0,1,0,0
+240419_PL1AG,Anal,Neisseria spp,33,3,2.8006160000000007,1,1,0,0,1
+240419_PL1AG,Anal,Papillomavirus,33,24,5.6850065,10,4,6,4,0
+240419_PL1AG,Anal,Shigella spp,33,15,50.0,2,1,5,6,1
+240419_PL1AG,Anal,Staphylococcus aureus,33,19,7.212389,3,9,6,1,0
+240419_PL1AG,Anal,Treponema pallidum,33,0,0.0,0,0,0,0,0
+240419_PL1AG,Anal,Trichomonas vaginalis,33,26,1.072372,12,11,3,0,0
+240419_PL1AG,Anal,Trichophyton spp,33,3,0.542301,2,1,0,0,0
+240419_PL1AG,Anal,Ureaplasma spp,33,4,4.769705500000001,1,2,0,1,0
+240419_PL1AG,Gorge,Campylobacter jejuni,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Chlamydia spp,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Chlamydia trachomatis,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Clostridioides difficile,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Entamoeba histolytica,34,2,0.06983600000000001,2,0,0,0,0
+240419_PL1AG,Gorge,Haemophilus ducreyi,34,2,93.0,0,0,1,1,0
+240419_PL1AG,Gorge,Haemophilus influenzae,34,18,119.5,0,0,8,9,1
+240419_PL1AG,Gorge,Haemophilus parainfluenzae,34,28,296.0,0,0,6,16,6
+240419_PL1AG,Gorge,Human alphaherpesvirus 1,34,11,0.088094,11,0,0,0,0
+240419_PL1AG,Gorge,Human alphaherpesvirus 2,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Mpox,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Mycoplasma genitalium,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Mycoplasma hominis,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Mycoplasma pneumonae,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Mycoplasma spp,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Neisseria gonorrhoeae,34,19,186.0,0,1,6,10,2
+240419_PL1AG,Gorge,Neisseria meningitidis,34,25,510.0,0,1,8,6,10
+240419_PL1AG,Gorge,Neisseria spp,34,28,834.5,0,0,5,10,13
+240419_PL1AG,Gorge,Papillomavirus,34,2,0.08599899999999999,2,0,0,0,0
+240419_PL1AG,Gorge,Shigella spp,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Staphylococcus aureus,34,3,36.0,0,0,3,0,0
+240419_PL1AG,Gorge,Treponema pallidum,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Trichomonas vaginalis,34,2,0.132508,2,0,0,0,0
+240419_PL1AG,Gorge,Trichophyton spp,34,0,0.0,0,0,0,0,0
+240419_PL1AG,Gorge,Ureaplasma spp,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Campylobacter jejuni,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Chlamydia spp,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Chlamydia trachomatis,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Clostridioides difficile,34,4,0.9153055,2,2,0,0,0
+240419_PL1U,Urine,Entamoeba histolytica,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Haemophilus ducreyi,34,5,2.22786,1,3,1,0,0
+240419_PL1U,Urine,Haemophilus influenzae,34,10,19.5,0,4,4,2,0
+240419_PL1U,Urine,Haemophilus parainfluenzae,34,11,39.0,1,2,7,1,0
+240419_PL1U,Urine,Human alphaherpesvirus 1,34,7,0.309033,7,0,0,0,0
+240419_PL1U,Urine,Human alphaherpesvirus 2,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Mpox,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Mycoplasma genitalium,34,2,3.5266669999999998,0,2,0,0,0
+240419_PL1U,Urine,Mycoplasma hominis,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Mycoplasma pneumonae,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Mycoplasma spp,34,2,3.5266669999999998,0,2,0,0,0
+240419_PL1U,Urine,Neisseria gonorrhoeae,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Neisseria meningitidis,34,2,6.1100425,0,2,0,0,0
+240419_PL1U,Urine,Neisseria spp,34,2,6.1100425,0,2,0,0,0
+240419_PL1U,Urine,Papillomavirus,34,5,0.108905,4,1,0,0,0
+240419_PL1U,Urine,Shigella spp,34,2,2014.0,0,0,1,0,1
+240419_PL1U,Urine,Staphylococcus aureus,34,15,4.873754,3,11,1,0,0
+240419_PL1U,Urine,Treponema pallidum,34,0,0.0,0,0,0,0,0
+240419_PL1U,Urine,Trichomonas vaginalis,34,14,0.676721,11,3,0,0,0
+240419_PL1U,Urine,Trichophyton spp,34,1,0.126038,1,0,0,0,0
+240419_PL1U,Urine,Ureaplasma spp,34,3,47.0,0,1,2,0,0
+240705_PL1AG,Anal,Campylobacter jejuni,8,6,33.0,0,2,3,1,0
+240705_PL1AG,Anal,Chlamydia spp,8,0,0.0,0,0,0,0,0
+240705_PL1AG,Anal,Chlamydia trachomatis,8,0,0.0,0,0,0,0,0
+240705_PL1AG,Anal,Clostridioides difficile,8,6,295.5,0,0,0,6,0
+240705_PL1AG,Anal,Entamoeba histolytica,8,6,0.154299,6,0,0,0,0
+240705_PL1AG,Anal,Haemophilus ducreyi,8,6,50.5,0,0,6,0,0
+240705_PL1AG,Anal,Haemophilus influenzae,8,5,18.0,0,2,1,2,0
+240705_PL1AG,Anal,Haemophilus parainfluenzae,8,4,17.0,0,1,3,0,0
+240705_PL1AG,Anal,Human alphaherpesvirus 1,8,4,0.19519350000000002,4,0,0,0,0
+240705_PL1AG,Anal,Human alphaherpesvirus 2,8,0,0.0,0,0,0,0,0
+240705_PL1AG,Anal,Mpox,8,0,0.0,0,0,0,0,0
+240705_PL1AG,Anal,Mycoplasma genitalium,8,1,12.0,0,0,1,0,0
+240705_PL1AG,Anal,Mycoplasma hominis,8,3,18.0,0,1,2,0,0
+240705_PL1AG,Anal,Mycoplasma pneumonae,8,0,0.0,0,0,0,0,0
+240705_PL1AG,Anal,Mycoplasma spp,8,1,12.0,0,0,1,0,0
+240705_PL1AG,Anal,Neisseria gonorrhoeae,8,1,1090.0,0,0,0,0,1
+240705_PL1AG,Anal,Neisseria meningitidis,8,2,13.922456,0,1,1,0,0
+240705_PL1AG,Anal,Neisseria spp,8,2,558.922456,0,1,0,0,1
+240705_PL1AG,Anal,Papillomavirus,8,6,164.4197865,0,2,0,2,2
+240705_PL1AG,Anal,Shigella spp,8,4,9.609428,0,2,2,0,0
+240705_PL1AG,Anal,Staphylococcus aureus,8,5,37.0,0,0,4,1,0
+240705_PL1AG,Anal,Treponema pallidum,8,0,0.0,0,0,0,0,0
+240705_PL1AG,Anal,Trichomonas vaginalis,8,8,24.0,1,1,5,1,0
+240705_PL1AG,Anal,Trichophyton spp,8,0,0.0,0,0,0,0,0
+240705_PL1AG,Anal,Ureaplasma spp,8,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Campylobacter jejuni,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Chlamydia spp,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Chlamydia trachomatis,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Clostridioides difficile,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Entamoeba histolytica,10,2,0.044459,2,0,0,0,0
+240705_PL1AG,Gorge,Haemophilus ducreyi,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Haemophilus influenzae,10,5,525.0,0,0,0,3,2
+240705_PL1AG,Gorge,Haemophilus parainfluenzae,10,9,1439.0,0,0,1,1,7
+240705_PL1AG,Gorge,Human alphaherpesvirus 1,10,7,0.029537,7,0,0,0,0
+240705_PL1AG,Gorge,Human alphaherpesvirus 2,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Mpox,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Mycoplasma genitalium,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Mycoplasma hominis,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Mycoplasma pneumonae,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Mycoplasma spp,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Neisseria gonorrhoeae,10,4,89.5,0,0,3,1,0
+240705_PL1AG,Gorge,Neisseria meningitidis,10,7,373.0,0,0,0,6,1
+240705_PL1AG,Gorge,Neisseria spp,10,9,766.0,0,0,0,6,3
+240705_PL1AG,Gorge,Papillomavirus,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Shigella spp,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Staphylococcus aureus,10,1,43.0,0,0,1,0,0
+240705_PL1AG,Gorge,Treponema pallidum,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Trichomonas vaginalis,10,2,0.08456849999999999,2,0,0,0,0
+240705_PL1AG,Gorge,Trichophyton spp,10,0,0.0,0,0,0,0,0
+240705_PL1AG,Gorge,Ureaplasma spp,10,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Campylobacter jejuni,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Chlamydia spp,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Chlamydia trachomatis,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Clostridioides difficile,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Entamoeba histolytica,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Haemophilus ducreyi,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Haemophilus influenzae,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Haemophilus parainfluenzae,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Human alphaherpesvirus 1,11,10,0.1358255,10,0,0,0,0
+240712_PL1U,Urine,Human alphaherpesvirus 2,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Mpox,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Mycoplasma genitalium,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Mycoplasma hominis,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Mycoplasma pneumonae,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Mycoplasma spp,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Neisseria gonorrhoeae,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Neisseria meningitidis,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Neisseria spp,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Papillomavirus,11,8,0.1683525,8,0,0,0,0
+240712_PL1U,Urine,Shigella spp,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Staphylococcus aureus,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Treponema pallidum,11,0,0.0,0,0,0,0,0
+240712_PL1U,Urine,Trichomonas vaginalis,11,5,0.881169,3,1,1,0,0
+240712_PL1U,Urine,Trichophyton spp,11,3,0.067782,3,0,0,0,0
+240712_PL1U,Urine,Ureaplasma spp,11,1,160.0,0,0,0,1,0
+240823_PL1AG,Anal,Campylobacter jejuni,47,32,14.0,1,12,19,0,0
+240823_PL1AG,Anal,Chlamydia spp,47,1,3.993814,0,1,0,0,0
+240823_PL1AG,Anal,Chlamydia trachomatis,47,1,3.993814,0,1,0,0,0
+240823_PL1AG,Anal,Clostridioides difficile,47,45,103.0,0,6,15,24,0
+240823_PL1AG,Anal,Entamoeba histolytica,47,17,0.175739,13,4,0,0,0
+240823_PL1AG,Anal,Haemophilus ducreyi,47,43,21.0,1,13,28,1,0
+240823_PL1AG,Anal,Haemophilus influenzae,47,21,9.05486,1,11,5,3,1
+240823_PL1AG,Anal,Haemophilus parainfluenzae,47,35,18.0,1,14,12,7,1
+240823_PL1AG,Anal,Human alphaherpesvirus 1,47,19,0.156733,19,0,0,0,0
+240823_PL1AG,Anal,Human alphaherpesvirus 2,47,1,0.555101,1,0,0,0,0
+240823_PL1AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Anal,Mycoplasma genitalium,47,4,21.0,0,1,3,0,0
+240823_PL1AG,Anal,Mycoplasma hominis,47,22,7.782446,1,11,7,3,0
+240823_PL1AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Anal,Mycoplasma spp,47,4,21.0,0,1,3,0,0
+240823_PL1AG,Anal,Neisseria gonorrhoeae,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Anal,Neisseria meningitidis,47,6,2.8794310000000003,1,3,1,1,0
+240823_PL1AG,Anal,Neisseria spp,47,11,2.168879,3,5,2,1,0
+240823_PL1AG,Anal,Papillomavirus,47,37,7.417082,6,14,16,1,0
+240823_PL1AG,Anal,Shigella spp,47,13,8.088051,2,6,3,2,0
+240823_PL1AG,Anal,Staphylococcus aureus,47,41,16.0,1,15,20,5,0
+240823_PL1AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Anal,Trichomonas vaginalis,47,46,7.2764885,8,16,19,3,0
+240823_PL1AG,Anal,Trichophyton spp,47,3,0.297539,3,0,0,0,0
+240823_PL1AG,Anal,Ureaplasma spp,47,9,21.0,0,2,6,1,0
+240823_PL1AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Clostridioides difficile,47,1,1.239364,0,1,0,0,0
+240823_PL1AG,Gorge,Entamoeba histolytica,47,1,0.139529,1,0,0,0,0
+240823_PL1AG,Gorge,Haemophilus ducreyi,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Haemophilus influenzae,47,21,218.0,0,1,3,16,1
+240823_PL1AG,Gorge,Haemophilus parainfluenzae,47,42,892.0,0,0,1,21,20
+240823_PL1AG,Gorge,Human alphaherpesvirus 1,47,20,0.07238449999999999,20,0,0,0,0
+240823_PL1AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Mycoplasma hominis,47,1,1.239364,0,1,0,0,0
+240823_PL1AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Neisseria gonorrhoeae,47,12,99.5,0,1,5,5,1
+240823_PL1AG,Gorge,Neisseria meningitidis,47,35,288.0,0,0,2,27,6
+240823_PL1AG,Gorge,Neisseria spp,47,35,630.0,0,0,0,24,11
+240823_PL1AG,Gorge,Papillomavirus,47,2,0.2836695,2,0,0,0,0
+240823_PL1AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Staphylococcus aureus,47,1,167.0,0,0,0,1,0
+240823_PL1AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Trichomonas vaginalis,47,8,0.08695900000000001,8,0,0,0,0
+240823_PL1AG,Gorge,Trichophyton spp,47,0,0.0,0,0,0,0,0
+240823_PL1AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+240823_PL2AG,Anal,Campylobacter jejuni,47,38,11.0,1,14,22,1,0
+240823_PL2AG,Anal,Chlamydia spp,47,0,0.0,0,0,0,0,0
+240823_PL2AG,Anal,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+240823_PL2AG,Anal,Clostridioides difficile,47,45,133.0,0,0,20,25,0
+240823_PL2AG,Anal,Entamoeba histolytica,47,15,0.217953,11,4,0,0,0
+240823_PL2AG,Anal,Haemophilus ducreyi,47,43,22.0,0,8,32,3,0
+240823_PL2AG,Anal,Haemophilus influenzae,47,33,5.729219,1,18,8,6,0
+240823_PL2AG,Anal,Haemophilus parainfluenzae,47,38,19.0,0,14,15,7,2
+240823_PL2AG,Anal,Human alphaherpesvirus 1,47,21,0.281036,21,0,0,0,0
+240823_PL2AG,Anal,Human alphaherpesvirus 2,47,1,320.0,0,0,0,1,0
+240823_PL2AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL2AG,Anal,Mycoplasma genitalium,47,2,5.6529584999999996,0,2,0,0,0
+240823_PL2AG,Anal,Mycoplasma hominis,47,22,9.364276,0,11,8,0,3
+240823_PL2AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL2AG,Anal,Mycoplasma spp,47,2,5.6529584999999996,0,2,0,0,0
+240823_PL2AG,Anal,Neisseria gonorrhoeae,47,5,8.770355,1,2,1,1,0
+240823_PL2AG,Anal,Neisseria meningitidis,47,7,10.0,0,3,3,1,0
+240823_PL2AG,Anal,Neisseria spp,47,12,14.940009499999999,1,3,6,2,0
+240823_PL2AG,Anal,Papillomavirus,47,31,2.622998,11,7,10,3,0
+240823_PL2AG,Anal,Shigella spp,47,12,6.3343095,0,7,5,0,0
+240823_PL2AG,Anal,Staphylococcus aureus,47,42,15.0,0,15,23,4,0
+240823_PL2AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240823_PL2AG,Anal,Trichomonas vaginalis,47,47,6.664963,12,13,20,2,0
+240823_PL2AG,Anal,Trichophyton spp,47,3,0.209838,3,0,0,0,0
+240823_PL2AG,Anal,Ureaplasma spp,47,7,15.467971,0,3,4,0,0
+240823_PL2AG,Gorge,Campylobacter jejuni,46,1,18.0,0,0,1,0,0
+240823_PL2AG,Gorge,Chlamydia spp,46,0,0.0,0,0,0,0,0
+240823_PL2AG,Gorge,Chlamydia trachomatis,46,0,0.0,0,0,0,0,0
+240823_PL2AG,Gorge,Clostridioides difficile,46,3,39.0,0,1,1,1,0
+240823_PL2AG,Gorge,Entamoeba histolytica,46,1,0.109898,1,0,0,0,0
+240823_PL2AG,Gorge,Haemophilus ducreyi,46,1,44.0,0,0,1,0,0
+240823_PL2AG,Gorge,Haemophilus influenzae,46,24,115.0,0,0,12,12,0
+240823_PL2AG,Gorge,Haemophilus parainfluenzae,46,44,354.5,0,1,8,23,12
+240823_PL2AG,Gorge,Human alphaherpesvirus 1,46,11,0.148001,11,0,0,0,0
+240823_PL2AG,Gorge,Human alphaherpesvirus 2,46,0,0.0,0,0,0,0,0
+240823_PL2AG,Gorge,Mpox,46,0,0.0,0,0,0,0,0
+240823_PL2AG,Gorge,Mycoplasma genitalium,46,0,0.0,0,0,0,0,0
+240823_PL2AG,Gorge,Mycoplasma hominis,46,0,0.0,0,0,0,0,0
+240823_PL2AG,Gorge,Mycoplasma pneumonae,46,0,0.0,0,0,0,0,0
+240823_PL2AG,Gorge,Mycoplasma spp,46,0,0.0,0,0,0,0,0
+240823_PL2AG,Gorge,Neisseria gonorrhoeae,46,15,188.0,0,1,4,10,0
+240823_PL2AG,Gorge,Neisseria meningitidis,46,35,270.0,0,1,10,15,9
+240823_PL2AG,Gorge,Neisseria spp,46,38,425.0,0,0,8,17,13
+240823_PL2AG,Gorge,Papillomavirus,46,3,1.689478,0,2,1,0,0
+240823_PL2AG,Gorge,Shigella spp,46,0,0.0,0,0,0,0,0
+240823_PL2AG,Gorge,Staphylococcus aureus,46,1,56.0,0,0,1,0,0
+240823_PL2AG,Gorge,Treponema pallidum,46,0,0.0,0,0,0,0,0
+240823_PL2AG,Gorge,Trichomonas vaginalis,46,10,0.24784299999999998,7,1,2,0,0
+240823_PL2AG,Gorge,Trichophyton spp,46,1,0.077982,1,0,0,0,0
+240823_PL2AG,Gorge,Ureaplasma spp,46,0,0.0,0,0,0,0,0
+240823_PL3AG,Anal,Campylobacter jejuni,47,36,7.582609,3,19,14,0,0
+240823_PL3AG,Anal,Chlamydia spp,47,2,5.3427715,0,2,0,0,0
+240823_PL3AG,Anal,Chlamydia trachomatis,47,2,5.3427715,0,2,0,0,0
+240823_PL3AG,Anal,Clostridioides difficile,47,44,102.5,0,3,19,22,0
+240823_PL3AG,Anal,Entamoeba histolytica,47,12,0.249338,9,3,0,0,0
+240823_PL3AG,Anal,Haemophilus ducreyi,47,44,18.5,2,10,29,3,0
+240823_PL3AG,Anal,Haemophilus influenzae,47,28,12.5,1,12,8,7,0
+240823_PL3AG,Anal,Haemophilus parainfluenzae,47,41,26.0,5,11,15,6,4
+240823_PL3AG,Anal,Human alphaherpesvirus 1,47,23,0.181704,22,0,1,0,0
+240823_PL3AG,Anal,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Anal,Mycoplasma genitalium,47,4,7.875458,1,2,1,0,0
+240823_PL3AG,Anal,Mycoplasma hominis,47,23,7.518751,1,18,3,1,0
+240823_PL3AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Anal,Mycoplasma spp,47,4,7.875458,1,2,1,0,0
+240823_PL3AG,Anal,Neisseria gonorrhoeae,47,5,2.248332,1,3,0,1,0
+240823_PL3AG,Anal,Neisseria meningitidis,47,7,1.854707,3,4,0,0,0
+240823_PL3AG,Anal,Neisseria spp,47,11,3.874376,1,8,1,1,0
+240823_PL3AG,Anal,Papillomavirus,47,37,4.980248,3,22,8,3,1
+240823_PL3AG,Anal,Shigella spp,47,10,5.3931275,5,1,4,0,0
+240823_PL3AG,Anal,Staphylococcus aureus,47,42,17.5,3,11,24,4,0
+240823_PL3AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Anal,Trichomonas vaginalis,47,46,5.6591015,7,23,14,2,0
+240823_PL3AG,Anal,Trichophyton spp,47,2,0.11660999999999999,2,0,0,0,0
+240823_PL3AG,Anal,Ureaplasma spp,47,8,16.3881825,1,2,4,1,0
+240823_PL3AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Clostridioides difficile,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Entamoeba histolytica,47,2,0.0891605,2,0,0,0,0
+240823_PL3AG,Gorge,Haemophilus ducreyi,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Haemophilus influenzae,47,15,185.0,0,0,4,11,0
+240823_PL3AG,Gorge,Haemophilus parainfluenzae,47,46,649.5,0,0,8,19,19
+240823_PL3AG,Gorge,Human alphaherpesvirus 1,47,22,0.2178155,22,0,0,0,0
+240823_PL3AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Neisseria gonorrhoeae,47,12,231.0,0,0,2,10,0
+240823_PL3AG,Gorge,Neisseria meningitidis,47,29,463.0,0,1,4,15,9
+240823_PL3AG,Gorge,Neisseria spp,47,31,664.913376,0,0,4,15,12
+240823_PL3AG,Gorge,Papillomavirus,47,2,1.0652409999999999,1,1,0,0,0
+240823_PL3AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Staphylococcus aureus,47,1,44.0,0,0,1,0,0
+240823_PL3AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Trichomonas vaginalis,47,1,0.131236,1,0,0,0,0
+240823_PL3AG,Gorge,Trichophyton spp,47,0,0.0,0,0,0,0,0
+240823_PL3AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Anal,Campylobacter jejuni,47,36,12.0,1,14,21,0,0
+240823_PL4AG,Anal,Chlamydia spp,47,1,24.0,0,0,1,0,0
+240823_PL4AG,Anal,Chlamydia trachomatis,47,1,24.0,0,0,1,0,0
+240823_PL4AG,Anal,Clostridioides difficile,47,43,101.0,0,4,17,22,0
+240823_PL4AG,Anal,Entamoeba histolytica,47,13,0.324598,10,3,0,0,0
+240823_PL4AG,Anal,Haemophilus ducreyi,47,40,23.0,2,6,31,1,0
+240823_PL4AG,Anal,Haemophilus influenzae,47,28,7.1789974999999995,1,14,7,6,0
+240823_PL4AG,Anal,Haemophilus parainfluenzae,47,35,14.0,2,12,13,8,0
+240823_PL4AG,Anal,Human alphaherpesvirus 1,47,22,0.237135,22,0,0,0,0
+240823_PL4AG,Anal,Human alphaherpesvirus 2,47,1,21.0,0,0,1,0,0
+240823_PL4AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Anal,Mycoplasma genitalium,47,5,3.72351,0,3,2,0,0
+240823_PL4AG,Anal,Mycoplasma hominis,47,27,6.692166,2,15,8,2,0
+240823_PL4AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Anal,Mycoplasma spp,47,7,3.305733,0,5,2,0,0
+240823_PL4AG,Anal,Neisseria gonorrhoeae,47,4,48.0,0,1,2,1,0
+240823_PL4AG,Anal,Neisseria meningitidis,47,11,1.923983,1,8,1,0,1
+240823_PL4AG,Anal,Neisseria spp,47,15,2.888963,2,8,3,1,1
+240823_PL4AG,Anal,Papillomavirus,47,32,7.669189999999999,6,12,8,6,0
+240823_PL4AG,Anal,Shigella spp,47,18,10.845790000000001,0,8,8,1,1
+240823_PL4AG,Anal,Staphylococcus aureus,47,38,16.0,2,10,26,0,0
+240823_PL4AG,Anal,Treponema pallidum,47,2,1.591104,0,2,0,0,0
+240823_PL4AG,Anal,Trichomonas vaginalis,47,45,4.793009,6,23,15,1,0
+240823_PL4AG,Anal,Trichophyton spp,47,3,0.8270519999999999,2,1,0,0,0
+240823_PL4AG,Anal,Ureaplasma spp,47,14,22.550051,1,5,5,3,0
+240823_PL4AG,Gorge,Campylobacter jejuni,47,1,0.837897,1,0,0,0,0
+240823_PL4AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Gorge,Clostridioides difficile,47,4,5.725621499999999,0,3,1,0,0
+240823_PL4AG,Gorge,Entamoeba histolytica,47,4,0.0967205,4,0,0,0,0
+240823_PL4AG,Gorge,Haemophilus ducreyi,47,3,2.947288,0,2,1,0,0
+240823_PL4AG,Gorge,Haemophilus influenzae,47,27,94.0,0,1,14,11,1
+240823_PL4AG,Gorge,Haemophilus parainfluenzae,47,44,533.5,0,1,5,23,15
+240823_PL4AG,Gorge,Human alphaherpesvirus 1,47,22,0.1546315,21,1,0,0,0
+240823_PL4AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Gorge,Mycoplasma hominis,47,1,0.698247,1,0,0,0,0
+240823_PL4AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Gorge,Mycoplasma spp,47,1,0.418948,1,0,0,0,0
+240823_PL4AG,Gorge,Neisseria gonorrhoeae,47,15,157.0,0,0,6,9,0
+240823_PL4AG,Gorge,Neisseria meningitidis,47,36,329.5,0,2,6,22,6
+240823_PL4AG,Gorge,Neisseria spp,47,36,613.0,0,2,3,17,14
+240823_PL4AG,Gorge,Papillomavirus,47,4,0.216285,3,1,0,0,0
+240823_PL4AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Gorge,Staphylococcus aureus,47,4,2.8147175,1,2,1,0,0
+240823_PL4AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Gorge,Trichomonas vaginalis,47,11,0.171002,10,1,0,0,0
+240823_PL4AG,Gorge,Trichophyton spp,47,0,0.0,0,0,0,0,0
+240823_PL4AG,Gorge,Ureaplasma spp,47,1,13.460524,0,0,1,0,0
+240823_PL5AG,Anal,Campylobacter jejuni,47,29,10.0,4,9,15,1,0
+240823_PL5AG,Anal,Chlamydia spp,47,1,0.111922,1,0,0,0,0
+240823_PL5AG,Anal,Chlamydia trachomatis,47,1,0.111922,1,0,0,0,0
+240823_PL5AG,Anal,Clostridioides difficile,47,42,87.5,3,7,11,21,0
+240823_PL5AG,Anal,Entamoeba histolytica,47,17,0.184438,16,1,0,0,0
+240823_PL5AG,Anal,Haemophilus ducreyi,47,35,19.0,5,6,23,1,0
+240823_PL5AG,Anal,Haemophilus influenzae,47,17,2.793551,4,7,5,0,1
+240823_PL5AG,Anal,Haemophilus parainfluenzae,47,29,7.894727,3,13,6,7,0
+240823_PL5AG,Anal,Human alphaherpesvirus 1,47,21,0.371771,19,1,0,1,0
+240823_PL5AG,Anal,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Anal,Mycoplasma genitalium,47,1,9.850721,0,1,0,0,0
+240823_PL5AG,Anal,Mycoplasma hominis,47,25,8.098859,6,8,9,2,0
+240823_PL5AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Anal,Mycoplasma spp,47,2,5.188674,1,1,0,0,0
+240823_PL5AG,Anal,Neisseria gonorrhoeae,47,6,6.597933,1,2,2,1,0
+240823_PL5AG,Anal,Neisseria meningitidis,47,8,0.2938505,5,3,0,0,0
+240823_PL5AG,Anal,Neisseria spp,47,12,3.471953,5,2,4,1,0
+240823_PL5AG,Anal,Papillomavirus,47,39,8.865832999999999,11,10,14,4,0
+240823_PL5AG,Anal,Shigella spp,47,14,30.719432,1,2,5,6,0
+240823_PL5AG,Anal,Staphylococcus aureus,47,38,16.5,5,6,22,5,0
+240823_PL5AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Anal,Trichomonas vaginalis,47,45,5.36013,11,23,10,1,0
+240823_PL5AG,Anal,Trichophyton spp,47,4,0.1248615,4,0,0,0,0
+240823_PL5AG,Anal,Ureaplasma spp,47,6,13.013615000000001,0,3,3,0,0
+240823_PL5AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Gorge,Clostridioides difficile,47,2,3.1125945,0,2,0,0,0
+240823_PL5AG,Gorge,Entamoeba histolytica,47,2,0.14363399999999998,2,0,0,0,0
+240823_PL5AG,Gorge,Haemophilus ducreyi,47,1,5.452434,0,1,0,0,0
+240823_PL5AG,Gorge,Haemophilus influenzae,47,22,141.0,0,1,8,13,0
+240823_PL5AG,Gorge,Haemophilus parainfluenzae,47,41,574.0,0,1,2,22,16
+240823_PL5AG,Gorge,Human alphaherpesvirus 1,47,24,0.148116,24,0,0,0,0
+240823_PL5AG,Gorge,Human alphaherpesvirus 2,47,1,0.452012,1,0,0,0,0
+240823_PL5AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Gorge,Mycoplasma hominis,47,1,6.695963,0,1,0,0,0
+240823_PL5AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Gorge,Neisseria gonorrhoeae,47,18,101.0,0,1,8,9,0
+240823_PL5AG,Gorge,Neisseria meningitidis,47,34,375.5,0,0,5,23,6
+240823_PL5AG,Gorge,Neisseria spp,47,35,910.0,0,0,1,19,15
+240823_PL5AG,Gorge,Papillomavirus,47,2,0.19602,2,0,0,0,0
+240823_PL5AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Gorge,Staphylococcus aureus,47,1,27.0,0,0,1,0,0
+240823_PL5AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Gorge,Trichomonas vaginalis,47,5,0.075256,5,0,0,0,0
+240823_PL5AG,Gorge,Trichophyton spp,47,0,0.0,0,0,0,0,0
+240823_PL5AG,Gorge,Ureaplasma spp,47,1,4.529622,0,1,0,0,0
+240823_PL6AG,Anal,Campylobacter jejuni,47,32,7.9821865,5,12,12,2,1
+240823_PL6AG,Anal,Chlamydia spp,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Anal,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Anal,Clostridioides difficile,47,44,80.5,2,6,17,19,0
+240823_PL6AG,Anal,Entamoeba histolytica,47,10,0.6609335000000001,7,3,0,0,0
+240823_PL6AG,Anal,Haemophilus ducreyi,47,38,17.0,4,8,22,4,0
+240823_PL6AG,Anal,Haemophilus influenzae,47,19,5.85998,5,6,5,3,0
+240823_PL6AG,Anal,Haemophilus parainfluenzae,47,28,8.1092,5,10,7,4,2
+240823_PL6AG,Anal,Human alphaherpesvirus 1,47,23,0.455734,20,3,0,0,0
+240823_PL6AG,Anal,Human alphaherpesvirus 2,47,3,2.262356,0,2,1,0,0
+240823_PL6AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Anal,Mycoplasma genitalium,47,1,0.722674,1,0,0,0,0
+240823_PL6AG,Anal,Mycoplasma hominis,47,21,6.497007,1,12,8,0,0
+240823_PL6AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Anal,Mycoplasma spp,47,2,0.9667285,1,1,0,0,0
+240823_PL6AG,Anal,Neisseria gonorrhoeae,47,3,0.481782,2,0,0,1,0
+240823_PL6AG,Anal,Neisseria meningitidis,47,7,3.462081,0,6,1,0,0
+240823_PL6AG,Anal,Neisseria spp,47,12,3.4184609999999997,3,5,3,1,0
+240823_PL6AG,Anal,Papillomavirus,47,38,4.8935835,7,15,11,4,1
+240823_PL6AG,Anal,Shigella spp,47,13,8.721954,2,5,3,3,0
+240823_PL6AG,Anal,Staphylococcus aureus,47,39,8.622025,5,17,16,0,1
+240823_PL6AG,Anal,Treponema pallidum,47,1,0.246364,1,0,0,0,0
+240823_PL6AG,Anal,Trichomonas vaginalis,47,44,4.2363385000000005,11,22,9,2,0
+240823_PL6AG,Anal,Trichophyton spp,47,2,0.18817299999999998,2,0,0,0,0
+240823_PL6AG,Anal,Ureaplasma spp,47,8,4.4255135,1,5,2,0,0
+240823_PL6AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Clostridioides difficile,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Entamoeba histolytica,47,2,0.120531,2,0,0,0,0
+240823_PL6AG,Gorge,Haemophilus ducreyi,47,2,8.094532000000001,0,2,0,0,0
+240823_PL6AG,Gorge,Haemophilus influenzae,47,20,94.5,0,1,9,10,0
+240823_PL6AG,Gorge,Haemophilus parainfluenzae,47,41,334.0,0,0,9,22,10
+240823_PL6AG,Gorge,Human alphaherpesvirus 1,47,25,0.162034,24,1,0,0,0
+240823_PL6AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Mycoplasma hominis,47,2,9.8146065,0,1,1,0,0
+240823_PL6AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Neisseria gonorrhoeae,47,11,71.0,0,1,6,4,0
+240823_PL6AG,Gorge,Neisseria meningitidis,47,29,178.0,0,0,12,11,6
+240823_PL6AG,Gorge,Neisseria spp,47,34,202.5,0,0,9,17,8
+240823_PL6AG,Gorge,Papillomavirus,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Staphylococcus aureus,47,1,5.932583,0,1,0,0,0
+240823_PL6AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+240823_PL6AG,Gorge,Trichomonas vaginalis,47,3,0.173646,3,0,0,0,0
+240823_PL6AG,Gorge,Trichophyton spp,47,1,0.081762,1,0,0,0,0
+240823_PL6AG,Gorge,Ureaplasma spp,47,1,71.0,0,0,1,0,0
+240823_PL7U,Urine,Campylobacter jejuni,93,2,1.5617125,0,2,0,0,0
+240823_PL7U,Urine,Chlamydia spp,93,1,10.0,0,0,1,0,0
+240823_PL7U,Urine,Chlamydia trachomatis,93,1,10.0,0,0,1,0,0
+240823_PL7U,Urine,Clostridioides difficile,93,18,5.2118295,2,9,7,0,0
+240823_PL7U,Urine,Entamoeba histolytica,93,1,0.089418,1,0,0,0,0
+240823_PL7U,Urine,Haemophilus ducreyi,93,14,5.8375105000000005,2,7,5,0,0
+240823_PL7U,Urine,Haemophilus influenzae,93,18,17.0,1,6,8,3,0
+240823_PL7U,Urine,Haemophilus parainfluenzae,93,25,18.0,2,9,11,3,0
+240823_PL7U,Urine,Human alphaherpesvirus 1,93,26,0.14716,26,0,0,0,0
+240823_PL7U,Urine,Human alphaherpesvirus 2,93,0,0.0,0,0,0,0,0
+240823_PL7U,Urine,Mpox,93,0,0.0,0,0,0,0,0
+240823_PL7U,Urine,Mycoplasma genitalium,93,3,0.227705,2,1,0,0,0
+240823_PL7U,Urine,Mycoplasma hominis,93,13,10.0,3,3,6,1,0
+240823_PL7U,Urine,Mycoplasma pneumonae,93,0,0.0,0,0,0,0,0
+240823_PL7U,Urine,Mycoplasma spp,93,4,0.223548,3,1,0,0,0
+240823_PL7U,Urine,Neisseria gonorrhoeae,93,1,0.830454,1,0,0,0,0
+240823_PL7U,Urine,Neisseria meningitidis,93,3,3.598635,0,3,0,0,0
+240823_PL7U,Urine,Neisseria spp,93,5,3.033234,2,2,1,0,0
+240823_PL7U,Urine,Papillomavirus,93,7,0.313408,6,1,0,0,0
+240823_PL7U,Urine,Shigella spp,93,1,73.61622899999999,0,0,1,0,0
+240823_PL7U,Urine,Staphylococcus aureus,93,25,6.600848,1,14,10,0,0
+240823_PL7U,Urine,Treponema pallidum,93,0,0.0,0,0,0,0,0
+240823_PL7U,Urine,Trichomonas vaginalis,93,39,1.315056,18,15,5,1,0
+240823_PL7U,Urine,Trichophyton spp,93,1,0.127757,1,0,0,0,0
+240823_PL7U,Urine,Ureaplasma spp,93,12,52.559614499999995,0,1,8,3,0
+240823_PL8U,Urine,Campylobacter jejuni,91,2,5.028957999999999,1,1,0,0,0
+240823_PL8U,Urine,Chlamydia spp,91,2,24.0,0,0,2,0,0
+240823_PL8U,Urine,Chlamydia trachomatis,91,2,24.0,0,0,2,0,0
+240823_PL8U,Urine,Clostridioides difficile,91,9,4.824189,0,8,1,0,0
+240823_PL8U,Urine,Entamoeba histolytica,91,0,0.0,0,0,0,0,0
+240823_PL8U,Urine,Haemophilus ducreyi,91,6,3.388052,1,4,1,0,0
+240823_PL8U,Urine,Haemophilus influenzae,91,19,15.0,1,8,9,1,0
+240823_PL8U,Urine,Haemophilus parainfluenzae,91,29,18.0,0,11,12,6,0
+240823_PL8U,Urine,Human alphaherpesvirus 1,91,21,0.137916,21,0,0,0,0
+240823_PL8U,Urine,Human alphaherpesvirus 2,91,0,0.0,0,0,0,0,0
+240823_PL8U,Urine,Mpox,91,0,0.0,0,0,0,0,0
+240823_PL8U,Urine,Mycoplasma genitalium,91,2,112.4814805,1,0,0,1,0
+240823_PL8U,Urine,Mycoplasma hominis,91,8,4.9143975,1,4,3,0,0
+240823_PL8U,Urine,Mycoplasma pneumonae,91,0,0.0,0,0,0,0,0
+240823_PL8U,Urine,Mycoplasma spp,91,2,112.4814805,1,0,0,1,0
+240823_PL8U,Urine,Neisseria gonorrhoeae,91,0,0.0,0,0,0,0,0
+240823_PL8U,Urine,Neisseria meningitidis,91,1,0.381054,1,0,0,0,0
+240823_PL8U,Urine,Neisseria spp,91,1,0.381054,1,0,0,0,0
+240823_PL8U,Urine,Papillomavirus,91,12,0.43205499999999997,10,2,0,0,0
+240823_PL8U,Urine,Shigella spp,91,2,77.9016795,0,0,1,1,0
+240823_PL8U,Urine,Staphylococcus aureus,91,11,5.200004,0,7,3,0,1
+240823_PL8U,Urine,Treponema pallidum,91,0,0.0,0,0,0,0,0
+240823_PL8U,Urine,Trichomonas vaginalis,91,40,1.324726,17,19,3,1,0
+240823_PL8U,Urine,Trichophyton spp,91,0,0.0,0,0,0,0,0
+240823_PL8U,Urine,Ureaplasma spp,91,5,45.551224,0,0,5,0,0
+241108_PL1AG,Anal,Campylobacter jejuni,46,36,9.383371499999999,1,17,18,0,0
+241108_PL1AG,Anal,Chlamydia spp,46,3,17.0,1,0,2,0,0
+241108_PL1AG,Anal,Chlamydia trachomatis,46,2,25.5,0,0,2,0,0
+241108_PL1AG,Anal,Clostridioides difficile,46,45,98.0,1,1,21,22,0
+241108_PL1AG,Anal,Entamoeba histolytica,46,13,0.382114,9,4,0,0,0
+241108_PL1AG,Anal,Haemophilus ducreyi,46,41,21.0,0,8,33,0,0
+241108_PL1AG,Anal,Haemophilus influenzae,46,25,3.704021,5,10,5,5,0
+241108_PL1AG,Anal,Haemophilus parainfluenzae,46,34,12.0,0,14,15,3,2
+241108_PL1AG,Anal,Human alphaherpesvirus 1,46,24,0.290028,24,0,0,0,0
+241108_PL1AG,Anal,Human alphaherpesvirus 2,46,0,0.0,0,0,0,0,0
+241108_PL1AG,Anal,Mpox,46,0,0.0,0,0,0,0,0
+241108_PL1AG,Anal,Mycoplasma genitalium,46,3,2.40366,1,2,0,0,0
+241108_PL1AG,Anal,Mycoplasma hominis,46,25,5.225643,2,16,7,0,0
+241108_PL1AG,Anal,Mycoplasma pneumonae,46,0,0.0,0,0,0,0,0
+241108_PL1AG,Anal,Mycoplasma spp,46,3,2.40366,1,2,0,0,0
+241108_PL1AG,Anal,Neisseria gonorrhoeae,46,5,40.0,1,1,1,2,0
+241108_PL1AG,Anal,Neisseria meningitidis,46,7,9.020848,2,2,2,1,0
+241108_PL1AG,Anal,Neisseria spp,46,7,48.623791,0,3,1,3,0
+241108_PL1AG,Anal,Papillomavirus,46,35,4.94556,6,16,12,1,0
+241108_PL1AG,Anal,Shigella spp,46,10,6.088523,0,7,3,0,0
+241108_PL1AG,Anal,Staphylococcus aureus,46,43,15.0,1,14,26,2,0
+241108_PL1AG,Anal,Treponema pallidum,46,0,0.0,0,0,0,0,0
+241108_PL1AG,Anal,Trichomonas vaginalis,46,45,6.452481,6,23,14,2,0
+241108_PL1AG,Anal,Trichophyton spp,46,3,0.159373,3,0,0,0,0
+241108_PL1AG,Anal,Ureaplasma spp,46,5,52.0,1,1,2,1,0
+241108_PL1AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Clostridioides difficile,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Entamoeba histolytica,47,2,0.0931835,2,0,0,0,0
+241108_PL1AG,Gorge,Haemophilus ducreyi,47,1,10.0,0,0,1,0,0
+241108_PL1AG,Gorge,Haemophilus influenzae,47,18,270.5,0,0,2,14,2
+241108_PL1AG,Gorge,Haemophilus parainfluenzae,47,44,638.0,0,0,3,29,12
+241108_PL1AG,Gorge,Human alphaherpesvirus 1,47,19,0.147134,19,0,0,0,0
+241108_PL1AG,Gorge,Human alphaherpesvirus 2,47,1,0.128378,1,0,0,0,0
+241108_PL1AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Neisseria gonorrhoeae,47,10,209.5,0,0,3,6,1
+241108_PL1AG,Gorge,Neisseria meningitidis,47,29,297.0,0,0,7,17,5
+241108_PL1AG,Gorge,Neisseria spp,47,30,429.5,0,0,5,16,9
+241108_PL1AG,Gorge,Papillomavirus,47,1,0.220212,1,0,0,0,0
+241108_PL1AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Staphylococcus aureus,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+241108_PL1AG,Gorge,Trichomonas vaginalis,47,6,0.189736,6,0,0,0,0
+241108_PL1AG,Gorge,Trichophyton spp,47,4,0.174294,4,0,0,0,0
+241108_PL1AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Anal,Campylobacter jejuni,46,39,9.109667,2,21,16,0,0
+241108_PL2AG,Anal,Chlamydia spp,46,1,12.0,0,0,1,0,0
+241108_PL2AG,Anal,Chlamydia trachomatis,46,1,12.0,0,0,1,0,0
+241108_PL2AG,Anal,Clostridioides difficile,46,44,108.5,0,3,18,23,0
+241108_PL2AG,Anal,Entamoeba histolytica,46,9,0.188809,8,1,0,0,0
+241108_PL2AG,Anal,Haemophilus ducreyi,46,41,17.0,1,9,30,1,0
+241108_PL2AG,Anal,Haemophilus influenzae,46,23,7.944974,3,9,8,3,0
+241108_PL2AG,Anal,Haemophilus parainfluenzae,46,36,7.3648295,2,19,9,5,1
+241108_PL2AG,Anal,Human alphaherpesvirus 1,46,23,0.355884,20,3,0,0,0
+241108_PL2AG,Anal,Human alphaherpesvirus 2,46,1,14.0,0,0,1,0,0
+241108_PL2AG,Anal,Mpox,46,0,0.0,0,0,0,0,0
+241108_PL2AG,Anal,Mycoplasma genitalium,46,1,1.833239,0,1,0,0,0
+241108_PL2AG,Anal,Mycoplasma hominis,46,27,4.270426,1,19,5,2,0
+241108_PL2AG,Anal,Mycoplasma pneumonae,46,0,0.0,0,0,0,0,0
+241108_PL2AG,Anal,Mycoplasma spp,46,1,1.833239,0,1,0,0,0
+241108_PL2AG,Anal,Neisseria gonorrhoeae,46,0,0.0,0,0,0,0,0
+241108_PL2AG,Anal,Neisseria meningitidis,46,3,2.085826,0,3,0,0,0
+241108_PL2AG,Anal,Neisseria spp,46,5,2.05316,1,4,0,0,0
+241108_PL2AG,Anal,Papillomavirus,46,29,7.1444730000000005,7,8,9,5,0
+241108_PL2AG,Anal,Shigella spp,46,10,10.370523,0,5,4,1,0
+241108_PL2AG,Anal,Staphylococcus aureus,46,41,15.0,1,13,23,4,0
+241108_PL2AG,Anal,Treponema pallidum,46,0,0.0,0,0,0,0,0
+241108_PL2AG,Anal,Trichomonas vaginalis,46,43,5.842069,6,19,17,1,0
+241108_PL2AG,Anal,Trichophyton spp,46,4,0.269343,4,0,0,0,0
+241108_PL2AG,Anal,Ureaplasma spp,46,8,7.4898665,1,3,3,1,0
+241108_PL2AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Clostridioides difficile,47,1,4.86627,0,1,0,0,0
+241108_PL2AG,Gorge,Entamoeba histolytica,47,2,0.148313,2,0,0,0,0
+241108_PL2AG,Gorge,Haemophilus ducreyi,47,1,3.13604,0,1,0,0,0
+241108_PL2AG,Gorge,Haemophilus influenzae,47,22,130.0,0,1,9,10,2
+241108_PL2AG,Gorge,Haemophilus parainfluenzae,47,45,612.0,0,1,9,19,16
+241108_PL2AG,Gorge,Human alphaherpesvirus 1,47,17,0.141298,17,0,0,0,0
+241108_PL2AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Neisseria gonorrhoeae,47,14,252.0,0,1,4,9,0
+241108_PL2AG,Gorge,Neisseria meningitidis,47,33,319.0,0,1,9,14,9
+241108_PL2AG,Gorge,Neisseria spp,47,34,609.5,0,0,8,13,13
+241108_PL2AG,Gorge,Papillomavirus,47,1,0.378962,1,0,0,0,0
+241108_PL2AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Staphylococcus aureus,47,1,3.568598,0,1,0,0,0
+241108_PL2AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+241108_PL2AG,Gorge,Trichomonas vaginalis,47,3,0.174096,3,0,0,0,0
+241108_PL2AG,Gorge,Trichophyton spp,47,2,0.15595350000000002,2,0,0,0,0
+241108_PL2AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+241108_PL3AG,Anal,Campylobacter jejuni,47,32,7.7684675,1,19,12,0,0
+241108_PL3AG,Anal,Chlamydia spp,47,2,1.347718,1,1,0,0,0
+241108_PL3AG,Anal,Chlamydia trachomatis,47,1,2.422903,0,1,0,0,0
+241108_PL3AG,Anal,Clostridioides difficile,47,43,82.0,0,3,22,18,0
+241108_PL3AG,Anal,Entamoeba histolytica,47,9,0.248205,7,2,0,0,0
+241108_PL3AG,Anal,Haemophilus ducreyi,47,40,16.0,2,12,25,1,0
+241108_PL3AG,Anal,Haemophilus influenzae,47,29,5.868911,4,12,7,5,1
+241108_PL3AG,Anal,Haemophilus parainfluenzae,47,41,17.0,1,13,19,5,3
+241108_PL3AG,Anal,Human alphaherpesvirus 1,47,18,0.2722605,18,0,0,0,0
+241108_PL3AG,Anal,Human alphaherpesvirus 2,47,1,0.318605,1,0,0,0,0
+241108_PL3AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+241108_PL3AG,Anal,Mycoplasma genitalium,47,4,3.925648,1,2,1,0,0
+241108_PL3AG,Anal,Mycoplasma hominis,47,18,6.1228525000000005,0,12,5,1,0
+241108_PL3AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+241108_PL3AG,Anal,Mycoplasma spp,47,6,1.4848965,2,3,1,0,0
+241108_PL3AG,Anal,Neisseria gonorrhoeae,47,7,8.220729,1,3,3,0,0
+241108_PL3AG,Anal,Neisseria meningitidis,47,11,6.083634,2,4,3,2,0
+241108_PL3AG,Anal,Neisseria spp,47,16,6.7266595,4,5,3,4,0
+241108_PL3AG,Anal,Papillomavirus,47,40,9.810558499999999,4,17,14,4,1
+241108_PL3AG,Anal,Shigella spp,47,13,11.0,2,4,7,0,0
+241108_PL3AG,Anal,Staphylococcus aureus,47,40,12.5,1,18,18,3,0
+241108_PL3AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+241108_PL3AG,Anal,Trichomonas vaginalis,47,43,6.280909,10,18,14,1,0
+241108_PL3AG,Anal,Trichophyton spp,47,4,0.1309055,4,0,0,0,0
+241108_PL3AG,Anal,Ureaplasma spp,47,8,17.3453565,1,3,3,1,0
+241108_PL3AG,Gorge,Campylobacter jejuni,46,1,10.0,0,0,1,0,0
+241108_PL3AG,Gorge,Chlamydia spp,46,0,0.0,0,0,0,0,0
+241108_PL3AG,Gorge,Chlamydia trachomatis,46,0,0.0,0,0,0,0,0
+241108_PL3AG,Gorge,Clostridioides difficile,46,2,15.4624135,0,1,1,0,0
+241108_PL3AG,Gorge,Entamoeba histolytica,46,1,0.099554,1,0,0,0,0
+241108_PL3AG,Gorge,Haemophilus ducreyi,46,3,8.240515,0,2,1,0,0
+241108_PL3AG,Gorge,Haemophilus influenzae,46,15,95.0,0,0,8,7,0
+241108_PL3AG,Gorge,Haemophilus parainfluenzae,46,40,769.0,0,1,6,16,17
+241108_PL3AG,Gorge,Human alphaherpesvirus 1,46,17,0.1761,17,0,0,0,0
+241108_PL3AG,Gorge,Human alphaherpesvirus 2,46,2,9.725164,0,1,1,0,0
+241108_PL3AG,Gorge,Mpox,46,0,0.0,0,0,0,0,0
+241108_PL3AG,Gorge,Mycoplasma genitalium,46,0,0.0,0,0,0,0,0
+241108_PL3AG,Gorge,Mycoplasma hominis,46,1,139.0,0,0,0,1,0
+241108_PL3AG,Gorge,Mycoplasma pneumonae,46,0,0.0,0,0,0,0,0
+241108_PL3AG,Gorge,Mycoplasma spp,46,0,0.0,0,0,0,0,0
+241108_PL3AG,Gorge,Neisseria gonorrhoeae,46,10,134.5,0,0,4,6,0
+241108_PL3AG,Gorge,Neisseria meningitidis,46,24,427.0,0,3,2,11,8
+241108_PL3AG,Gorge,Neisseria spp,46,29,411.0,0,2,3,13,11
+241108_PL3AG,Gorge,Papillomavirus,46,2,19.2717395,1,0,1,0,0
+241108_PL3AG,Gorge,Shigella spp,46,0,0.0,0,0,0,0,0
+241108_PL3AG,Gorge,Staphylococcus aureus,46,2,4.1714009999999995,0,2,0,0,0
+241108_PL3AG,Gorge,Treponema pallidum,46,0,0.0,0,0,0,0,0
+241108_PL3AG,Gorge,Trichomonas vaginalis,46,2,1.6844065,1,1,0,0,0
+241108_PL3AG,Gorge,Trichophyton spp,46,2,0.157406,2,0,0,0,0
+241108_PL3AG,Gorge,Ureaplasma spp,46,1,0.90307,1,0,0,0,0
+241108_PL4AG,Anal,Campylobacter jejuni,47,35,10.0,3,14,18,0,0
+241108_PL4AG,Anal,Chlamydia spp,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Anal,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Anal,Clostridioides difficile,47,43,62.0,1,5,18,19,0
+241108_PL4AG,Anal,Entamoeba histolytica,47,11,0.392499,10,1,0,0,0
+241108_PL4AG,Anal,Haemophilus ducreyi,47,39,22.0,0,10,27,2,0
+241108_PL4AG,Anal,Haemophilus influenzae,47,24,5.0656715,2,12,7,3,0
+241108_PL4AG,Anal,Haemophilus parainfluenzae,47,35,5.98359,1,20,11,3,0
+241108_PL4AG,Anal,Human alphaherpesvirus 1,47,22,0.2116105,21,0,1,0,0
+241108_PL4AG,Anal,Human alphaherpesvirus 2,47,1,12.0,0,0,1,0,0
+241108_PL4AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Anal,Mycoplasma genitalium,47,5,32.0,0,2,3,0,0
+241108_PL4AG,Anal,Mycoplasma hominis,47,24,4.579470000000001,0,17,4,2,1
+241108_PL4AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Anal,Mycoplasma spp,47,5,32.0,0,2,3,0,0
+241108_PL4AG,Anal,Neisseria gonorrhoeae,47,6,40.5,0,2,3,1,0
+241108_PL4AG,Anal,Neisseria meningitidis,47,15,2.317469,3,8,1,3,0
+241108_PL4AG,Anal,Neisseria spp,47,18,2.2378845,2,11,1,4,0
+241108_PL4AG,Anal,Papillomavirus,47,34,7.52134,3,15,11,5,0
+241108_PL4AG,Anal,Shigella spp,47,9,8.621364,1,4,4,0,0
+241108_PL4AG,Anal,Staphylococcus aureus,47,43,11.0,3,17,22,1,0
+241108_PL4AG,Anal,Treponema pallidum,47,2,1.0782794999999998,1,1,0,0,0
+241108_PL4AG,Anal,Trichomonas vaginalis,47,41,6.788951,7,20,13,1,0
+241108_PL4AG,Anal,Trichophyton spp,47,4,0.22949150000000001,4,0,0,0,0
+241108_PL4AG,Anal,Ureaplasma spp,47,13,19.0,0,4,8,1,0
+241108_PL4AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Clostridioides difficile,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Entamoeba histolytica,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Haemophilus ducreyi,47,1,1.221646,0,1,0,0,0
+241108_PL4AG,Gorge,Haemophilus influenzae,47,24,308.5,0,1,6,14,3
+241108_PL4AG,Gorge,Haemophilus parainfluenzae,47,42,750.5,0,0,2,23,17
+241108_PL4AG,Gorge,Human alphaherpesvirus 1,47,21,0.18295,21,0,0,0,0
+241108_PL4AG,Gorge,Human alphaherpesvirus 2,47,1,0.18295,1,0,0,0,0
+241108_PL4AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Neisseria gonorrhoeae,47,18,157.5,0,1,5,11,1
+241108_PL4AG,Gorge,Neisseria meningitidis,47,37,412.0,0,1,5,22,9
+241108_PL4AG,Gorge,Neisseria spp,47,38,690.0,0,1,2,21,14
+241108_PL4AG,Gorge,Papillomavirus,47,1,0.248473,1,0,0,0,0
+241108_PL4AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Staphylococcus aureus,47,2,19.0748925,0,1,1,0,0
+241108_PL4AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+241108_PL4AG,Gorge,Trichomonas vaginalis,47,6,0.1748895,6,0,0,0,0
+241108_PL4AG,Gorge,Trichophyton spp,47,2,0.1420075,2,0,0,0,0
+241108_PL4AG,Gorge,Ureaplasma spp,47,1,20.802601,0,0,1,0,0
+241108_PL5U,Urine,Campylobacter jejuni,94,1,1.356421,0,1,0,0,0
+241108_PL5U,Urine,Chlamydia spp,94,0,0.0,0,0,0,0,0
+241108_PL5U,Urine,Chlamydia trachomatis,94,0,0.0,0,0,0,0,0
+241108_PL5U,Urine,Clostridioides difficile,94,6,5.7915645,1,3,2,0,0
+241108_PL5U,Urine,Entamoeba histolytica,94,0,0.0,0,0,0,0,0
+241108_PL5U,Urine,Haemophilus ducreyi,94,8,4.3326395,0,6,2,0,0
+241108_PL5U,Urine,Haemophilus influenzae,94,16,33.5,1,6,7,2,0
+241108_PL5U,Urine,Haemophilus parainfluenzae,94,20,32.5,0,2,13,4,1
+241108_PL5U,Urine,Human alphaherpesvirus 1,94,18,0.1293335,17,1,0,0,0
+241108_PL5U,Urine,Human alphaherpesvirus 2,94,0,0.0,0,0,0,0,0
+241108_PL5U,Urine,Mpox,94,0,0.0,0,0,0,0,0
+241108_PL5U,Urine,Mycoplasma genitalium,94,2,1.8458655,0,2,0,0,0
+241108_PL5U,Urine,Mycoplasma hominis,94,2,19.6014395,0,1,1,0,0
+241108_PL5U,Urine,Mycoplasma pneumonae,94,0,0.0,0,0,0,0,0
+241108_PL5U,Urine,Mycoplasma spp,94,2,1.8458655,0,2,0,0,0
+241108_PL5U,Urine,Neisseria gonorrhoeae,94,0,0.0,0,0,0,0,0
+241108_PL5U,Urine,Neisseria meningitidis,94,0,0.0,0,0,0,0,0
+241108_PL5U,Urine,Neisseria spp,94,4,1.1898495,2,1,1,0,0
+241108_PL5U,Urine,Papillomavirus,94,11,0.350456,10,0,1,0,0
+241108_PL5U,Urine,Shigella spp,94,3,59.0,0,0,2,0,1
+241108_PL5U,Urine,Staphylococcus aureus,94,8,4.51325,1,6,1,0,0
+241108_PL5U,Urine,Treponema pallidum,94,1,16.0,0,0,1,0,0
+241108_PL5U,Urine,Trichomonas vaginalis,94,28,1.021911,14,10,4,0,0
+241108_PL5U,Urine,Trichophyton spp,94,0,0.0,0,0,0,0,0
+241108_PL5U,Urine,Ureaplasma spp,94,8,48.0,0,1,6,1,0
+241108_PL6U,Urine,Campylobacter jejuni,94,1,2.009365,0,1,0,0,0
+241108_PL6U,Urine,Chlamydia spp,94,1,7.304549,0,1,0,0,0
+241108_PL6U,Urine,Chlamydia trachomatis,94,1,7.304549,0,1,0,0,0
+241108_PL6U,Urine,Clostridioides difficile,94,5,29.0,0,2,3,0,0
+241108_PL6U,Urine,Entamoeba histolytica,94,0,0.0,0,0,0,0,0
+241108_PL6U,Urine,Haemophilus ducreyi,94,3,20.0,0,1,2,0,0
+241108_PL6U,Urine,Haemophilus influenzae,94,8,54.0,0,2,5,1,0
+241108_PL6U,Urine,Haemophilus parainfluenzae,94,11,53.0,0,2,6,3,0
+241108_PL6U,Urine,Human alphaherpesvirus 1,94,39,0.206269,36,3,0,0,0
+241108_PL6U,Urine,Human alphaherpesvirus 2,94,0,0.0,0,0,0,0,0
+241108_PL6U,Urine,Mpox,94,0,0.0,0,0,0,0,0
+241108_PL6U,Urine,Mycoplasma genitalium,94,0,0.0,0,0,0,0,0
+241108_PL6U,Urine,Mycoplasma hominis,94,2,43.7578545,0,1,1,0,0
+241108_PL6U,Urine,Mycoplasma pneumonae,94,0,0.0,0,0,0,0,0
+241108_PL6U,Urine,Mycoplasma spp,94,0,0.0,0,0,0,0,0
+241108_PL6U,Urine,Neisseria gonorrhoeae,94,2,209.8099275,0,1,0,1,0
+241108_PL6U,Urine,Neisseria meningitidis,94,3,15.0,0,1,2,0,0
+241108_PL6U,Urine,Neisseria spp,94,3,62.165177,0,0,2,1,0
+241108_PL6U,Urine,Papillomavirus,94,20,0.4126495,15,5,0,0,0
+241108_PL6U,Urine,Shigella spp,94,0,0.0,0,0,0,0,0
+241108_PL6U,Urine,Staphylococcus aureus,94,8,46.5,0,1,5,2,0
+241108_PL6U,Urine,Treponema pallidum,94,0,0.0,0,0,0,0,0
+241108_PL6U,Urine,Trichomonas vaginalis,94,30,1.2032045,13,14,3,0,0
+241108_PL6U,Urine,Trichophyton spp,94,5,0.182354,5,0,0,0,0
+241108_PL6U,Urine,Ureaplasma spp,94,5,29.719259,0,0,4,1,0
+241108_PL7U,Urine,Campylobacter jejuni,94,0,0.0,0,0,0,0,0
+241108_PL7U,Urine,Chlamydia spp,94,0,0.0,0,0,0,0,0
+241108_PL7U,Urine,Chlamydia trachomatis,94,0,0.0,0,0,0,0,0
+241108_PL7U,Urine,Clostridioides difficile,94,4,25.0,0,0,4,0,0
+241108_PL7U,Urine,Entamoeba histolytica,94,2,0.27158550000000004,2,0,0,0,0
+241108_PL7U,Urine,Haemophilus ducreyi,94,4,19.0,0,1,3,0,0
+241108_PL7U,Urine,Haemophilus influenzae,94,21,10.0,0,9,12,0,0
+241108_PL7U,Urine,Haemophilus parainfluenzae,94,15,48.0,1,2,7,5,0
+241108_PL7U,Urine,Human alphaherpesvirus 1,94,20,0.12788,20,0,0,0,0
+241108_PL7U,Urine,Human alphaherpesvirus 2,94,0,0.0,0,0,0,0,0
+241108_PL7U,Urine,Mpox,94,0,0.0,0,0,0,0,0
+241108_PL7U,Urine,Mycoplasma genitalium,94,4,20.357019,1,1,2,0,0
+241108_PL7U,Urine,Mycoplasma hominis,94,4,12.412888500000001,0,2,2,0,0
+241108_PL7U,Urine,Mycoplasma pneumonae,94,0,0.0,0,0,0,0,0
+241108_PL7U,Urine,Mycoplasma spp,94,4,20.357019,1,1,2,0,0
+241108_PL7U,Urine,Neisseria gonorrhoeae,94,0,0.0,0,0,0,0,0
+241108_PL7U,Urine,Neisseria meningitidis,94,2,34.0,0,0,2,0,0
+241108_PL7U,Urine,Neisseria spp,94,3,45.0,0,1,1,1,0
+241108_PL7U,Urine,Papillomavirus,94,10,0.2198295,9,0,1,0,0
+241108_PL7U,Urine,Shigella spp,94,1,3.900734,0,1,0,0,0
+241108_PL7U,Urine,Staphylococcus aureus,94,8,31.0,0,1,5,2,0
+241108_PL7U,Urine,Treponema pallidum,94,0,0.0,0,0,0,0,0
+241108_PL7U,Urine,Trichomonas vaginalis,94,31,0.915793,16,9,6,0,0
+241108_PL7U,Urine,Trichophyton spp,94,1,0.081205,1,0,0,0,0
+241108_PL7U,Urine,Ureaplasma spp,94,6,19.5,1,1,4,0,0
+241108_PL8U,Urine,Campylobacter jejuni,94,0,0.0,0,0,0,0,0
+241108_PL8U,Urine,Chlamydia spp,94,1,1.328242,0,1,0,0,0
+241108_PL8U,Urine,Chlamydia trachomatis,94,1,1.328242,0,1,0,0,0
+241108_PL8U,Urine,Clostridioides difficile,94,3,19.0,0,1,2,0,0
+241108_PL8U,Urine,Entamoeba histolytica,94,0,0.0,0,0,0,0,0
+241108_PL8U,Urine,Haemophilus ducreyi,94,2,14.1984495,0,1,1,0,0
+241108_PL8U,Urine,Haemophilus influenzae,94,9,39.0,0,3,4,2,0
+241108_PL8U,Urine,Haemophilus parainfluenzae,94,13,102.0,0,1,5,6,1
+241108_PL8U,Urine,Human alphaherpesvirus 1,94,29,0.177392,29,0,0,0,0
+241108_PL8U,Urine,Human alphaherpesvirus 2,94,0,0.0,0,0,0,0,0
+241108_PL8U,Urine,Mpox,94,0,0.0,0,0,0,0,0
+241108_PL8U,Urine,Mycoplasma genitalium,94,0,0.0,0,0,0,0,0
+241108_PL8U,Urine,Mycoplasma hominis,94,1,93.0,0,0,1,0,0
+241108_PL8U,Urine,Mycoplasma pneumonae,94,0,0.0,0,0,0,0,0
+241108_PL8U,Urine,Mycoplasma spp,94,0,0.0,0,0,0,0,0
+241108_PL8U,Urine,Neisseria gonorrhoeae,94,0,0.0,0,0,0,0,0
+241108_PL8U,Urine,Neisseria meningitidis,94,1,7.304836,0,1,0,0,0
+241108_PL8U,Urine,Neisseria spp,94,2,11.652418,0,1,1,0,0
+241108_PL8U,Urine,Papillomavirus,94,17,0.267661,13,4,0,0,0
+241108_PL8U,Urine,Shigella spp,94,1,7.477064,0,1,0,0,0
+241108_PL8U,Urine,Staphylococcus aureus,94,7,9.3567,0,4,3,0,0
+241108_PL8U,Urine,Treponema pallidum,94,0,0.0,0,0,0,0,0
+241108_PL8U,Urine,Trichomonas vaginalis,94,37,0.559469,24,8,3,2,0
+241108_PL8U,Urine,Trichophyton spp,94,2,0.18965100000000001,2,0,0,0,0
+241108_PL8U,Urine,Ureaplasma spp,94,6,238.0,0,0,1,5,0
+250207_PL1AG,Anal,Campylobacter jejuni,47,33,14.0,2,9,22,0,0
+250207_PL1AG,Anal,Chlamydia spp,47,1,91.0,0,0,1,0,0
+250207_PL1AG,Anal,Chlamydia trachomatis,47,1,91.0,0,0,1,0,0
+250207_PL1AG,Anal,Clostridioides difficile,47,43,135.0,0,2,14,27,0
+250207_PL1AG,Anal,Entamoeba histolytica,47,16,0.352572,13,3,0,0,0
+250207_PL1AG,Anal,Haemophilus ducreyi,47,37,29.0,1,6,27,3,0
+250207_PL1AG,Anal,Haemophilus influenzae,47,18,6.389824,2,8,4,3,1
+250207_PL1AG,Anal,Haemophilus parainfluenzae,47,30,11.5,1,11,10,5,3
+250207_PL1AG,Anal,Human alphaherpesvirus 1,47,23,0.327091,20,2,0,1,0
+250207_PL1AG,Anal,Human alphaherpesvirus 2,47,1,0.121422,1,0,0,0,0
+250207_PL1AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL1AG,Anal,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+250207_PL1AG,Anal,Mycoplasma hominis,47,20,24.0,1,7,9,3,0
+250207_PL1AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL1AG,Anal,Mycoplasma spp,47,1,1.854311,0,1,0,0,0
+250207_PL1AG,Anal,Neisseria gonorrhoeae,47,1,14.0,0,0,1,0,0
+250207_PL1AG,Anal,Neisseria meningitidis,47,5,3.942883,0,5,0,0,0
+250207_PL1AG,Anal,Neisseria spp,47,7,3.056389,0,4,3,0,0
+250207_PL1AG,Anal,Papillomavirus,47,40,11.6142085,9,10,15,6,0
+250207_PL1AG,Anal,Shigella spp,47,22,25.527219,3,4,9,6,0
+250207_PL1AG,Anal,Staphylococcus aureus,47,37,19.0,0,13,20,4,0
+250207_PL1AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250207_PL1AG,Anal,Trichomonas vaginalis,47,44,3.9026950000000005,9,20,13,2,0
+250207_PL1AG,Anal,Trichophyton spp,47,5,0.311183,5,0,0,0,0
+250207_PL1AG,Anal,Ureaplasma spp,47,6,10.802992,0,3,2,1,0
+250207_PL1AG,Gorge,Campylobacter jejuni,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Chlamydia spp,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Chlamydia trachomatis,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Clostridioides difficile,46,1,6.848674,0,1,0,0,0
+250207_PL1AG,Gorge,Entamoeba histolytica,46,4,0.0732305,4,0,0,0,0
+250207_PL1AG,Gorge,Haemophilus ducreyi,46,1,7.732374,0,1,0,0,0
+250207_PL1AG,Gorge,Haemophilus influenzae,46,20,141.0,0,0,4,15,1
+250207_PL1AG,Gorge,Haemophilus parainfluenzae,46,42,799.0,0,0,7,15,20
+250207_PL1AG,Gorge,Human alphaherpesvirus 1,46,14,0.189224,13,1,0,0,0
+250207_PL1AG,Gorge,Human alphaherpesvirus 2,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Mpox,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Mycoplasma genitalium,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Mycoplasma hominis,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Mycoplasma pneumonae,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Mycoplasma spp,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Neisseria gonorrhoeae,46,19,103.0,0,0,9,10,0
+250207_PL1AG,Gorge,Neisseria meningitidis,46,32,413.0,0,1,5,19,7
+250207_PL1AG,Gorge,Neisseria spp,46,34,869.5,0,0,3,17,14
+250207_PL1AG,Gorge,Papillomavirus,46,2,0.196488,2,0,0,0,0
+250207_PL1AG,Gorge,Shigella spp,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Staphylococcus aureus,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Treponema pallidum,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Trichomonas vaginalis,46,6,0.1362905,6,0,0,0,0
+250207_PL1AG,Gorge,Trichophyton spp,46,0,0.0,0,0,0,0,0
+250207_PL1AG,Gorge,Ureaplasma spp,46,1,11.0,0,0,1,0,0
+250207_PL2AG,Anal,Campylobacter jejuni,47,35,10.0,2,15,17,1,0
+250207_PL2AG,Anal,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Anal,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Anal,Clostridioides difficile,47,45,105.0,0,3,19,23,0
+250207_PL2AG,Anal,Entamoeba histolytica,47,19,0.233437,16,3,0,0,0
+250207_PL2AG,Anal,Haemophilus ducreyi,47,42,27.0,0,10,29,3,0
+250207_PL2AG,Anal,Haemophilus influenzae,47,30,11.5,4,9,15,2,0
+250207_PL2AG,Anal,Haemophilus parainfluenzae,47,37,17.0,3,10,17,6,1
+250207_PL2AG,Anal,Human alphaherpesvirus 1,47,30,0.296541,28,1,1,0,0
+250207_PL2AG,Anal,Human alphaherpesvirus 2,47,1,35.0,0,0,1,0,0
+250207_PL2AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Anal,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Anal,Mycoplasma hominis,47,21,6.1257,2,11,5,2,1
+250207_PL2AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Anal,Mycoplasma spp,47,1,0.470257,1,0,0,0,0
+250207_PL2AG,Anal,Neisseria gonorrhoeae,47,4,4.0603855,1,2,1,0,0
+250207_PL2AG,Anal,Neisseria meningitidis,47,10,2.177332,4,4,1,1,0
+250207_PL2AG,Anal,Neisseria spp,47,13,3.828966,2,8,2,1,0
+250207_PL2AG,Anal,Papillomavirus,47,38,4.197096999999999,5,17,14,2,0
+250207_PL2AG,Anal,Shigella spp,47,15,16.3666,1,5,7,2,0
+250207_PL2AG,Anal,Staphylococcus aureus,47,42,15.5,2,13,22,5,0
+250207_PL2AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Anal,Trichomonas vaginalis,47,46,5.870028,9,18,17,2,0
+250207_PL2AG,Anal,Trichophyton spp,47,9,0.125209,9,0,0,0,0
+250207_PL2AG,Anal,Ureaplasma spp,47,9,19.348469,0,3,4,2,0
+250207_PL2AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Clostridioides difficile,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Entamoeba histolytica,47,2,0.1287435,2,0,0,0,0
+250207_PL2AG,Gorge,Haemophilus ducreyi,47,2,54.5,0,0,2,0,0
+250207_PL2AG,Gorge,Haemophilus influenzae,47,20,149.5,0,0,7,12,1
+250207_PL2AG,Gorge,Haemophilus parainfluenzae,47,44,405.0,0,0,3,28,13
+250207_PL2AG,Gorge,Human alphaherpesvirus 1,47,24,0.1459635,24,0,0,0,0
+250207_PL2AG,Gorge,Human alphaherpesvirus 2,47,2,8.6186155,1,0,1,0,0
+250207_PL2AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Neisseria gonorrhoeae,47,14,199.5,0,0,6,7,1
+250207_PL2AG,Gorge,Neisseria meningitidis,47,32,301.5,0,1,7,15,9
+250207_PL2AG,Gorge,Neisseria spp,47,32,699.0,0,0,4,14,14
+250207_PL2AG,Gorge,Papillomavirus,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Staphylococcus aureus,47,1,22.0,0,0,1,0,0
+250207_PL2AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Trichomonas vaginalis,47,7,0.148235,7,0,0,0,0
+250207_PL2AG,Gorge,Trichophyton spp,47,0,0.0,0,0,0,0,0
+250207_PL2AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Anal,Campylobacter jejuni,47,44,9.715286500000001,1,21,21,1,0
+250207_PL3AG,Anal,Chlamydia spp,47,1,15.0,0,0,1,0,0
+250207_PL3AG,Anal,Chlamydia trachomatis,47,1,15.0,0,0,1,0,0
+250207_PL3AG,Anal,Clostridioides difficile,47,46,150.0,0,3,16,26,1
+250207_PL3AG,Anal,Entamoeba histolytica,47,19,0.171833,17,2,0,0,0
+250207_PL3AG,Anal,Haemophilus ducreyi,47,45,17.0,0,13,31,1,0
+250207_PL3AG,Anal,Haemophilus influenzae,47,25,10.0,1,11,12,1,0
+250207_PL3AG,Anal,Haemophilus parainfluenzae,47,40,16.0,0,15,18,7,0
+250207_PL3AG,Anal,Human alphaherpesvirus 1,47,22,0.45911650000000004,21,1,0,0,0
+250207_PL3AG,Anal,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Anal,Mycoplasma genitalium,47,2,7.0958605,1,0,1,0,0
+250207_PL3AG,Anal,Mycoplasma hominis,47,21,7.838839,1,10,9,1,0
+250207_PL3AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Anal,Mycoplasma spp,47,3,0.922965,2,0,1,0,0
+250207_PL3AG,Anal,Neisseria gonorrhoeae,47,1,2.039043,0,1,0,0,0
+250207_PL3AG,Anal,Neisseria meningitidis,47,6,3.8184649999999998,1,5,0,0,0
+250207_PL3AG,Anal,Neisseria spp,47,8,3.1065185,1,6,1,0,0
+250207_PL3AG,Anal,Papillomavirus,47,34,4.8809075,7,14,11,2,0
+250207_PL3AG,Anal,Shigella spp,47,12,6.936894000000001,0,7,5,0,0
+250207_PL3AG,Anal,Staphylococcus aureus,47,47,13.0,2,17,25,3,0
+250207_PL3AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Anal,Trichomonas vaginalis,47,45,4.382556,8,23,12,2,0
+250207_PL3AG,Anal,Trichophyton spp,47,4,0.12224850000000001,4,0,0,0,0
+250207_PL3AG,Anal,Ureaplasma spp,47,11,11.851936,0,5,5,1,0
+250207_PL3AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Clostridioides difficile,47,1,4.21849,0,1,0,0,0
+250207_PL3AG,Gorge,Entamoeba histolytica,47,1,0.101798,1,0,0,0,0
+250207_PL3AG,Gorge,Haemophilus ducreyi,47,2,9.8045455,0,1,1,0,0
+250207_PL3AG,Gorge,Haemophilus influenzae,47,21,180.0,0,1,6,14,0
+250207_PL3AG,Gorge,Haemophilus parainfluenzae,47,45,466.0,0,1,6,27,11
+250207_PL3AG,Gorge,Human alphaherpesvirus 1,47,17,0.120443,17,0,0,0,0
+250207_PL3AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Neisseria gonorrhoeae,47,19,233.0,0,0,6,12,1
+250207_PL3AG,Gorge,Neisseria meningitidis,47,35,231.0,0,0,9,17,9
+250207_PL3AG,Gorge,Neisseria spp,47,37,390.0,0,0,7,16,14
+250207_PL3AG,Gorge,Papillomavirus,47,2,0.7317505,1,1,0,0,0
+250207_PL3AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Staphylococcus aureus,47,2,100.545195,0,1,0,1,0
+250207_PL3AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Trichomonas vaginalis,47,7,0.148576,7,0,0,0,0
+250207_PL3AG,Gorge,Trichophyton spp,47,0,0.0,0,0,0,0,0
+250207_PL3AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Anal,Campylobacter jejuni,47,38,15.0,1,13,23,1,0
+250207_PL4AG,Anal,Chlamydia spp,47,1,0.184853,1,0,0,0,0
+250207_PL4AG,Anal,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Anal,Clostridioides difficile,47,47,136.0,1,4,11,30,1
+250207_PL4AG,Anal,Entamoeba histolytica,47,15,0.297783,12,3,0,0,0
+250207_PL4AG,Anal,Haemophilus ducreyi,47,43,34.0,0,4,34,5,0
+250207_PL4AG,Anal,Haemophilus influenzae,47,16,5.839016,4,5,5,2,0
+250207_PL4AG,Anal,Haemophilus parainfluenzae,47,39,18.0,2,11,23,2,1
+250207_PL4AG,Anal,Human alphaherpesvirus 1,47,22,0.3188705,21,1,0,0,0
+250207_PL4AG,Anal,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Anal,Mycoplasma genitalium,47,2,6.736723,0,1,1,0,0
+250207_PL4AG,Anal,Mycoplasma hominis,47,26,6.225766,3,14,8,1,0
+250207_PL4AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Anal,Mycoplasma spp,47,4,1.8413855,1,2,1,0,0
+250207_PL4AG,Anal,Neisseria gonorrhoeae,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Anal,Neisseria meningitidis,47,4,1.3324165,1,3,0,0,0
+250207_PL4AG,Anal,Neisseria spp,47,5,1.520204,1,4,0,0,0
+250207_PL4AG,Anal,Papillomavirus,47,31,19.795192,5,8,14,4,0
+250207_PL4AG,Anal,Shigella spp,47,14,21.925965500000004,0,6,7,1,0
+250207_PL4AG,Anal,Staphylococcus aureus,47,42,21.5,1,12,25,4,0
+250207_PL4AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Anal,Trichomonas vaginalis,47,47,5.754768,13,15,15,4,0
+250207_PL4AG,Anal,Trichophyton spp,47,4,0.149516,3,1,0,0,0
+250207_PL4AG,Anal,Ureaplasma spp,47,5,18.0,0,2,2,1,0
+250207_PL4AG,Gorge,Campylobacter jejuni,47,1,46.0,0,0,1,0,0
+250207_PL4AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Gorge,Clostridioides difficile,47,3,33.0,0,0,2,1,0
+250207_PL4AG,Gorge,Entamoeba histolytica,47,1,0.210761,1,0,0,0,0
+250207_PL4AG,Gorge,Haemophilus ducreyi,47,3,26.0,0,0,3,0,0
+250207_PL4AG,Gorge,Haemophilus influenzae,47,18,104.0,0,1,8,7,2
+250207_PL4AG,Gorge,Haemophilus parainfluenzae,47,44,574.5,0,1,5,20,18
+250207_PL4AG,Gorge,Human alphaherpesvirus 1,47,25,0.12123,25,0,0,0,0
+250207_PL4AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Gorge,Neisseria gonorrhoeae,47,16,89.0,0,1,8,7,0
+250207_PL4AG,Gorge,Neisseria meningitidis,47,32,481.0,0,1,6,16,9
+250207_PL4AG,Gorge,Neisseria spp,47,35,759.0,0,2,3,17,13
+250207_PL4AG,Gorge,Papillomavirus,47,2,1.555637,1,1,0,0,0
+250207_PL4AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Gorge,Staphylococcus aureus,47,3,17.0,0,0,3,0,0
+250207_PL4AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250207_PL4AG,Gorge,Trichomonas vaginalis,47,7,0.125226,6,1,0,0,0
+250207_PL4AG,Gorge,Trichophyton spp,47,2,1.6041940000000001,1,1,0,0,0
+250207_PL4AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Anal,Campylobacter jejuni,47,33,13.0,0,13,19,1,0
+250207_PL5AG,Anal,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Anal,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Anal,Clostridioides difficile,47,43,92.0,2,2,18,21,0
+250207_PL5AG,Anal,Entamoeba histolytica,47,18,0.265985,16,2,0,0,0
+250207_PL5AG,Anal,Haemophilus ducreyi,47,37,20.0,0,10,25,2,0
+250207_PL5AG,Anal,Haemophilus influenzae,47,23,19.0,1,8,8,5,1
+250207_PL5AG,Anal,Haemophilus parainfluenzae,47,37,25.0,0,13,13,10,1
+250207_PL5AG,Anal,Human alphaherpesvirus 1,47,28,0.2334365,27,1,0,0,0
+250207_PL5AG,Anal,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Anal,Mycoplasma genitalium,47,2,13.3514605,0,1,1,0,0
+250207_PL5AG,Anal,Mycoplasma hominis,47,24,7.777204,1,13,8,2,0
+250207_PL5AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Anal,Mycoplasma spp,47,2,13.3514605,0,1,1,0,0
+250207_PL5AG,Anal,Neisseria gonorrhoeae,47,4,3.297218,0,3,0,1,0
+250207_PL5AG,Anal,Neisseria meningitidis,47,9,3.986515,1,4,4,0,0
+250207_PL5AG,Anal,Neisseria spp,47,12,3.1050104999999997,0,8,3,1,0
+250207_PL5AG,Anal,Papillomavirus,47,39,2.57312,10,16,9,4,0
+250207_PL5AG,Anal,Shigella spp,47,8,17.4969865,0,3,3,2,0
+250207_PL5AG,Anal,Staphylococcus aureus,47,40,18.5,2,8,28,2,0
+250207_PL5AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Anal,Trichomonas vaginalis,47,43,4.452916,7,23,13,0,0
+250207_PL5AG,Anal,Trichophyton spp,47,2,0.075461,2,0,0,0,0
+250207_PL5AG,Anal,Ureaplasma spp,47,9,24.323844,0,3,4,2,0
+250207_PL5AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Clostridioides difficile,47,1,14.0,0,0,1,0,0
+250207_PL5AG,Gorge,Entamoeba histolytica,47,2,0.1360865,2,0,0,0,0
+250207_PL5AG,Gorge,Haemophilus ducreyi,47,1,14.0,0,0,1,0,0
+250207_PL5AG,Gorge,Haemophilus influenzae,47,22,166.0,0,0,6,16,0
+250207_PL5AG,Gorge,Haemophilus parainfluenzae,47,45,514.0,0,0,8,24,13
+250207_PL5AG,Gorge,Human alphaherpesvirus 1,47,22,0.19317600000000001,22,0,0,0,0
+250207_PL5AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Neisseria gonorrhoeae,47,13,180.0,0,1,5,7,0
+250207_PL5AG,Gorge,Neisseria meningitidis,47,33,393.0,0,0,5,17,11
+250207_PL5AG,Gorge,Neisseria spp,47,34,673.5,0,0,3,19,12
+250207_PL5AG,Gorge,Papillomavirus,47,2,0.6255455,1,1,0,0,0
+250207_PL5AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Staphylococcus aureus,47,3,12.0,0,1,2,0,0
+250207_PL5AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250207_PL5AG,Gorge,Trichomonas vaginalis,47,7,0.125554,7,0,0,0,0
+250207_PL5AG,Gorge,Trichophyton spp,47,3,0.255362,3,0,0,0,0
+250207_PL5AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Anal,Campylobacter jejuni,47,34,11.5,2,13,19,0,0
+250207_PL6AG,Anal,Chlamydia spp,47,4,0.9787575000000001,2,2,0,0,0
+250207_PL6AG,Anal,Chlamydia trachomatis,47,2,3.0737430000000003,0,2,0,0,0
+250207_PL6AG,Anal,Clostridioides difficile,47,44,104.5,1,7,12,24,0
+250207_PL6AG,Anal,Entamoeba histolytica,47,14,0.226176,10,3,1,0,0
+250207_PL6AG,Anal,Haemophilus ducreyi,47,39,22.0,3,9,24,3,0
+250207_PL6AG,Anal,Haemophilus influenzae,47,26,5.6015795,2,14,5,5,0
+250207_PL6AG,Anal,Haemophilus parainfluenzae,47,35,9.76998,3,15,13,3,1
+250207_PL6AG,Anal,Human alphaherpesvirus 1,47,25,0.297797,24,1,0,0,0
+250207_PL6AG,Anal,Human alphaherpesvirus 2,47,1,0.284861,1,0,0,0,0
+250207_PL6AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Anal,Mycoplasma genitalium,47,2,2.7269645000000002,1,1,0,0,0
+250207_PL6AG,Anal,Mycoplasma hominis,47,18,12.5,3,5,10,0,0
+250207_PL6AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Anal,Mycoplasma spp,47,5,0.793318,3,2,0,0,0
+250207_PL6AG,Anal,Neisseria gonorrhoeae,47,2,1.539504,0,2,0,0,0
+250207_PL6AG,Anal,Neisseria meningitidis,47,7,3.531996,3,3,1,0,0
+250207_PL6AG,Anal,Neisseria spp,47,11,9.549472,4,3,4,0,0
+250207_PL6AG,Anal,Papillomavirus,47,34,11.456528500000001,2,14,14,3,1
+250207_PL6AG,Anal,Shigella spp,47,17,7.232577000000001,2,7,5,3,0
+250207_PL6AG,Anal,Staphylococcus aureus,47,43,13.0,2,17,21,2,1
+250207_PL6AG,Anal,Treponema pallidum,47,1,8.779602,0,1,0,0,0
+250207_PL6AG,Anal,Trichomonas vaginalis,47,42,4.5205459999999995,8,19,14,1,0
+250207_PL6AG,Anal,Trichophyton spp,47,7,0.15349,6,1,0,0,0
+250207_PL6AG,Anal,Ureaplasma spp,47,8,12.5,1,2,4,1,0
+250207_PL6AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Gorge,Clostridioides difficile,47,1,5.92768,0,1,0,0,0
+250207_PL6AG,Gorge,Entamoeba histolytica,47,1,0.08989,1,0,0,0,0
+250207_PL6AG,Gorge,Haemophilus ducreyi,47,1,50.0,0,0,1,0,0
+250207_PL6AG,Gorge,Haemophilus influenzae,47,33,229.0,0,0,13,16,4
+250207_PL6AG,Gorge,Haemophilus parainfluenzae,47,46,603.0,0,0,11,17,18
+250207_PL6AG,Gorge,Human alphaherpesvirus 1,47,16,0.18549949999999998,15,1,0,0,0
+250207_PL6AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Gorge,Neisseria gonorrhoeae,47,22,190.0,0,1,8,12,1
+250207_PL6AG,Gorge,Neisseria meningitidis,47,34,755.0,0,0,10,14,10
+250207_PL6AG,Gorge,Neisseria spp,47,37,1000.0,0,0,6,12,19
+250207_PL6AG,Gorge,Papillomavirus,47,1,0.197674,1,0,0,0,0
+250207_PL6AG,Gorge,Shigella spp,47,1,5.775689,0,1,0,0,0
+250207_PL6AG,Gorge,Staphylococcus aureus,47,3,9.112792,0,2,1,0,0
+250207_PL6AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250207_PL6AG,Gorge,Trichomonas vaginalis,47,4,0.2693455,4,0,0,0,0
+250207_PL6AG,Gorge,Trichophyton spp,47,1,0.15118,1,0,0,0,0
+250207_PL6AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+250207_PL7U,Urine,Campylobacter jejuni,94,1,4.745085,0,1,0,0,0
+250207_PL7U,Urine,Chlamydia spp,94,0,0.0,0,0,0,0,0
+250207_PL7U,Urine,Chlamydia trachomatis,94,0,0.0,0,0,0,0,0
+250207_PL7U,Urine,Clostridioides difficile,94,11,16.0,0,5,5,1,0
+250207_PL7U,Urine,Entamoeba histolytica,94,1,0.206748,1,0,0,0,0
+250207_PL7U,Urine,Haemophilus ducreyi,94,8,15.5,0,3,5,0,0
+250207_PL7U,Urine,Haemophilus influenzae,94,19,18.0,0,7,9,3,0
+250207_PL7U,Urine,Haemophilus parainfluenzae,94,20,37.0,0,5,10,5,0
+250207_PL7U,Urine,Human alphaherpesvirus 1,94,21,0.130964,21,0,0,0,0
+250207_PL7U,Urine,Human alphaherpesvirus 2,94,0,0.0,0,0,0,0,0
+250207_PL7U,Urine,Mpox,94,0,0.0,0,0,0,0,0
+250207_PL7U,Urine,Mycoplasma genitalium,94,2,34.075075,0,1,1,0,0
+250207_PL7U,Urine,Mycoplasma hominis,94,7,11.0,0,3,4,0,0
+250207_PL7U,Urine,Mycoplasma pneumonae,94,0,0.0,0,0,0,0,0
+250207_PL7U,Urine,Mycoplasma spp,94,2,34.075075,0,1,1,0,0
+250207_PL7U,Urine,Neisseria gonorrhoeae,94,1,7.700757,0,1,0,0,0
+250207_PL7U,Urine,Neisseria meningitidis,94,2,20.136158000000002,0,1,1,0,0
+250207_PL7U,Urine,Neisseria spp,94,2,75.5537525,0,1,0,1,0
+250207_PL7U,Urine,Papillomavirus,94,17,0.344826,13,3,0,1,0
+250207_PL7U,Urine,Shigella spp,94,0,0.0,0,0,0,0,0
+250207_PL7U,Urine,Staphylococcus aureus,94,17,5.913192,0,11,6,0,0
+250207_PL7U,Urine,Treponema pallidum,94,0,0.0,0,0,0,0,0
+250207_PL7U,Urine,Trichomonas vaginalis,94,37,1.536339,15,15,6,1,0
+250207_PL7U,Urine,Trichophyton spp,94,1,0.367237,1,0,0,0,0
+250207_PL7U,Urine,Ureaplasma spp,94,10,41.7226445,0,2,5,3,0
+250207_PL8U,Urine,Campylobacter jejuni,94,0,0.0,0,0,0,0,0
+250207_PL8U,Urine,Chlamydia spp,94,1,24.0,0,0,1,0,0
+250207_PL8U,Urine,Chlamydia trachomatis,94,1,24.0,0,0,1,0,0
+250207_PL8U,Urine,Clostridioides difficile,94,6,5.931998,0,4,2,0,0
+250207_PL8U,Urine,Entamoeba histolytica,94,0,0.0,0,0,0,0,0
+250207_PL8U,Urine,Haemophilus ducreyi,94,5,3.647176,0,4,1,0,0
+250207_PL8U,Urine,Haemophilus influenzae,94,23,14.0,1,9,10,3,0
+250207_PL8U,Urine,Haemophilus parainfluenzae,94,22,24.0,0,6,12,4,0
+250207_PL8U,Urine,Human alphaherpesvirus 1,94,23,0.112116,22,1,0,0,0
+250207_PL8U,Urine,Human alphaherpesvirus 2,94,1,18.0,0,0,1,0,0
+250207_PL8U,Urine,Mpox,94,0,0.0,0,0,0,0,0
+250207_PL8U,Urine,Mycoplasma genitalium,94,5,6.212416,1,3,0,1,0
+250207_PL8U,Urine,Mycoplasma hominis,94,4,42.1573925,0,2,1,1,0
+250207_PL8U,Urine,Mycoplasma pneumonae,94,0,0.0,0,0,0,0,0
+250207_PL8U,Urine,Mycoplasma spp,94,5,6.212416,1,3,0,1,0
+250207_PL8U,Urine,Neisseria gonorrhoeae,94,1,36.0,0,0,1,0,0
+250207_PL8U,Urine,Neisseria meningitidis,94,2,4.3079635,0,2,0,0,0
+250207_PL8U,Urine,Neisseria spp,94,4,26.9554105,1,0,3,0,0
+250207_PL8U,Urine,Papillomavirus,94,17,0.227717,16,1,0,0,0
+250207_PL8U,Urine,Shigella spp,94,2,66.501843,0,0,1,1,0
+250207_PL8U,Urine,Staphylococcus aureus,94,29,11.0,0,14,12,3,0
+250207_PL8U,Urine,Treponema pallidum,94,0,0.0,0,0,0,0,0
+250207_PL8U,Urine,Trichomonas vaginalis,94,37,0.784812,20,14,3,0,0
+250207_PL8U,Urine,Trichophyton spp,94,2,0.286886,2,0,0,0,0
+250207_PL8U,Urine,Ureaplasma spp,94,5,69.0,0,0,4,1,0
+250528_PL1AG,Anal,Campylobacter jejuni,47,33,15.0,2,13,16,2,0
+250528_PL1AG,Anal,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250528_PL1AG,Anal,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250528_PL1AG,Anal,Clostridioides difficile,47,44,143.0,1,3,12,28,0
+250528_PL1AG,Anal,Entamoeba histolytica,47,14,0.19737549999999998,12,2,0,0,0
+250528_PL1AG,Anal,Haemophilus ducreyi,47,39,32.0,2,5,30,2,0
+250528_PL1AG,Anal,Haemophilus influenzae,47,21,11.0,1,9,7,3,1
+250528_PL1AG,Anal,Haemophilus parainfluenzae,47,37,15.0,4,12,12,7,2
+250528_PL1AG,Anal,Human alphaherpesvirus 1,47,26,0.397777,26,0,0,0,0
+250528_PL1AG,Anal,Human alphaherpesvirus 2,47,2,10.495124,0,1,1,0,0
+250528_PL1AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250528_PL1AG,Anal,Mycoplasma genitalium,47,3,17.0,1,0,2,0,0
+250528_PL1AG,Anal,Mycoplasma hominis,47,27,9.511848,1,13,11,2,0
+250528_PL1AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250528_PL1AG,Anal,Mycoplasma spp,47,4,9.0000485,1,1,2,0,0
+250528_PL1AG,Anal,Neisseria gonorrhoeae,47,1,47.0,0,0,1,0,0
+250528_PL1AG,Anal,Neisseria meningitidis,47,10,1.5495545,3,7,0,0,0
+250528_PL1AG,Anal,Neisseria spp,47,12,2.8280425,3,7,2,0,0
+250528_PL1AG,Anal,Papillomavirus,47,38,9.699786,7,12,12,6,1
+250528_PL1AG,Anal,Shigella spp,47,19,42.26502,2,1,8,8,0
+250528_PL1AG,Anal,Staphylococcus aureus,47,40,30.0,4,6,23,7,0
+250528_PL1AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250528_PL1AG,Anal,Trichomonas vaginalis,47,43,7.773704,8,14,17,4,0
+250528_PL1AG,Anal,Trichophyton spp,47,8,0.1221875,7,1,0,0,0
+250528_PL1AG,Anal,Ureaplasma spp,47,6,20.501213,0,3,1,2,0
+250528_PL1AG,Gorge,Campylobacter jejuni,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Chlamydia spp,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Chlamydia trachomatis,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Clostridioides difficile,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Entamoeba histolytica,46,1,0.156839,1,0,0,0,0
+250528_PL1AG,Gorge,Haemophilus ducreyi,46,1,4.721539,0,1,0,0,0
+250528_PL1AG,Gorge,Haemophilus influenzae,46,19,208.0,0,0,7,11,1
+250528_PL1AG,Gorge,Haemophilus parainfluenzae,46,41,610.0,0,0,3,23,15
+250528_PL1AG,Gorge,Human alphaherpesvirus 1,46,15,0.076704,15,0,0,0,0
+250528_PL1AG,Gorge,Human alphaherpesvirus 2,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Mpox,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Mycoplasma genitalium,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Mycoplasma hominis,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Mycoplasma pneumonae,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Mycoplasma spp,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Neisseria gonorrhoeae,46,13,59.0,0,1,7,5,0
+250528_PL1AG,Gorge,Neisseria meningitidis,46,28,259.0,0,0,3,17,8
+250528_PL1AG,Gorge,Neisseria spp,46,33,328.0,0,0,4,21,8
+250528_PL1AG,Gorge,Papillomavirus,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Shigella spp,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Staphylococcus aureus,46,1,458.0,0,0,0,1,0
+250528_PL1AG,Gorge,Treponema pallidum,46,0,0.0,0,0,0,0,0
+250528_PL1AG,Gorge,Trichomonas vaginalis,46,4,0.107489,4,0,0,0,0
+250528_PL1AG,Gorge,Trichophyton spp,46,1,0.045977,1,0,0,0,0
+250528_PL1AG,Gorge,Ureaplasma spp,46,0,0.0,0,0,0,0,0
+250528_PL2AG,Anal,Campylobacter jejuni,47,38,14.0,2,14,19,2,1
+250528_PL2AG,Anal,Chlamydia spp,47,2,30.297198,0,1,1,0,0
+250528_PL2AG,Anal,Chlamydia trachomatis,47,2,30.297198,0,1,1,0,0
+250528_PL2AG,Anal,Clostridioides difficile,47,44,117.5,0,3,18,23,0
+250528_PL2AG,Anal,Entamoeba histolytica,47,16,0.1861565,13,3,0,0,0
+250528_PL2AG,Anal,Haemophilus ducreyi,47,42,28.5,1,8,31,2,0
+250528_PL2AG,Anal,Haemophilus influenzae,47,22,5.314686999999999,3,9,6,3,1
+250528_PL2AG,Anal,Haemophilus parainfluenzae,47,37,11.0,3,15,10,7,2
+250528_PL2AG,Anal,Human alphaherpesvirus 1,47,29,0.215984,28,1,0,0,0
+250528_PL2AG,Anal,Human alphaherpesvirus 2,47,2,594.2051385,0,1,0,0,1
+250528_PL2AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Anal,Mycoplasma genitalium,47,2,5.6242745,0,1,1,0,0
+250528_PL2AG,Anal,Mycoplasma hominis,47,29,7.183899,3,14,10,2,0
+250528_PL2AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Anal,Mycoplasma spp,47,2,5.6242745,0,1,1,0,0
+250528_PL2AG,Anal,Neisseria gonorrhoeae,47,4,68.5,0,1,2,1,0
+250528_PL2AG,Anal,Neisseria meningitidis,47,10,5.1245365,2,4,3,1,0
+250528_PL2AG,Anal,Neisseria spp,47,11,32.0,1,3,4,3,0
+250528_PL2AG,Anal,Papillomavirus,47,37,6.074518,6,18,13,0,0
+250528_PL2AG,Anal,Shigella spp,47,12,14.4658215,0,5,6,1,0
+250528_PL2AG,Anal,Staphylococcus aureus,47,40,21.0,1,12,25,2,0
+250528_PL2AG,Anal,Treponema pallidum,47,1,23.0,0,0,1,0,0
+250528_PL2AG,Anal,Trichomonas vaginalis,47,46,6.935143,9,19,14,4,0
+250528_PL2AG,Anal,Trichophyton spp,47,1,0.215267,1,0,0,0,0
+250528_PL2AG,Anal,Ureaplasma spp,47,5,61.925053,0,1,4,0,0
+250528_PL2AG,Gorge,Campylobacter jejuni,47,1,9.609228,0,1,0,0,0
+250528_PL2AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Clostridioides difficile,47,1,153.0,0,0,0,1,0
+250528_PL2AG,Gorge,Entamoeba histolytica,47,1,0.20392,1,0,0,0,0
+250528_PL2AG,Gorge,Haemophilus ducreyi,47,1,10.0,0,0,1,0,0
+250528_PL2AG,Gorge,Haemophilus influenzae,47,14,154.5,0,0,3,11,0
+250528_PL2AG,Gorge,Haemophilus parainfluenzae,47,41,604.0,0,1,3,22,15
+250528_PL2AG,Gorge,Human alphaherpesvirus 1,47,33,0.183621,33,0,0,0,0
+250528_PL2AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Mycoplasma hominis,47,1,4.218685,0,1,0,0,0
+250528_PL2AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Neisseria gonorrhoeae,47,9,164.0,0,0,3,5,1
+250528_PL2AG,Gorge,Neisseria meningitidis,47,28,250.5,0,0,7,14,7
+250528_PL2AG,Gorge,Neisseria spp,47,30,416.5,0,0,3,16,11
+250528_PL2AG,Gorge,Papillomavirus,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Staphylococcus aureus,47,2,57.7265285,0,1,0,1,0
+250528_PL2AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Trichomonas vaginalis,47,6,0.0815,5,1,0,0,0
+250528_PL2AG,Gorge,Trichophyton spp,47,0,0.0,0,0,0,0,0
+250528_PL2AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+250528_PL3AG,Anal,Campylobacter jejuni,47,38,20.0,1,11,22,4,0
+250528_PL3AG,Anal,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250528_PL3AG,Anal,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250528_PL3AG,Anal,Clostridioides difficile,47,47,164.0,1,2,10,34,0
+250528_PL3AG,Anal,Entamoeba histolytica,47,19,0.221012,18,1,0,0,0
+250528_PL3AG,Anal,Haemophilus ducreyi,47,42,49.0,1,2,31,8,0
+250528_PL3AG,Anal,Haemophilus influenzae,47,28,11.308109,2,12,8,6,0
+250528_PL3AG,Anal,Haemophilus parainfluenzae,47,40,21.0,2,9,12,14,3
+250528_PL3AG,Anal,Human alphaherpesvirus 1,47,29,0.432591,28,1,0,0,0
+250528_PL3AG,Anal,Human alphaherpesvirus 2,47,1,0.252082,1,0,0,0,0
+250528_PL3AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250528_PL3AG,Anal,Mycoplasma genitalium,47,2,74.0607995,0,1,0,1,0
+250528_PL3AG,Anal,Mycoplasma hominis,47,30,13.5,3,9,18,0,0
+250528_PL3AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250528_PL3AG,Anal,Mycoplasma spp,47,2,74.0607995,0,1,0,1,0
+250528_PL3AG,Anal,Neisseria gonorrhoeae,47,2,99.0681525,0,1,0,1,0
+250528_PL3AG,Anal,Neisseria meningitidis,47,11,2.016062,2,7,2,0,0
+250528_PL3AG,Anal,Neisseria spp,47,12,4.9243635,1,8,1,2,0
+250528_PL3AG,Anal,Papillomavirus,47,32,12.7487935,8,6,11,6,1
+250528_PL3AG,Anal,Shigella spp,47,16,5.8771085,0,11,5,0,0
+250528_PL3AG,Anal,Staphylococcus aureus,47,44,36.0,0,7,30,7,0
+250528_PL3AG,Anal,Treponema pallidum,47,1,2.274749,0,1,0,0,0
+250528_PL3AG,Anal,Trichomonas vaginalis,47,47,16.0,5,14,22,6,0
+250528_PL3AG,Anal,Trichophyton spp,47,4,0.091089,3,1,0,0,0
+250528_PL3AG,Anal,Ureaplasma spp,47,8,26.361935499999998,0,3,5,0,0
+250528_PL3AG,Gorge,Campylobacter jejuni,43,0,0.0,0,0,0,0,0
+250528_PL3AG,Gorge,Chlamydia spp,43,0,0.0,0,0,0,0,0
+250528_PL3AG,Gorge,Chlamydia trachomatis,43,0,0.0,0,0,0,0,0
+250528_PL3AG,Gorge,Clostridioides difficile,43,0,0.0,0,0,0,0,0
+250528_PL3AG,Gorge,Entamoeba histolytica,43,2,0.09455749999999999,2,0,0,0,0
+250528_PL3AG,Gorge,Haemophilus ducreyi,43,2,44.5,0,0,2,0,0
+250528_PL3AG,Gorge,Haemophilus influenzae,43,19,325.0,0,1,6,9,3
+250528_PL3AG,Gorge,Haemophilus parainfluenzae,43,39,1970.0,0,1,4,7,27
+250528_PL3AG,Gorge,Human alphaherpesvirus 1,43,22,0.1785,22,0,0,0,0
+250528_PL3AG,Gorge,Human alphaherpesvirus 2,43,0,0.0,0,0,0,0,0
+250528_PL3AG,Gorge,Mpox,43,0,0.0,0,0,0,0,0
+250528_PL3AG,Gorge,Mycoplasma genitalium,43,1,3.269338,0,1,0,0,0
+250528_PL3AG,Gorge,Mycoplasma hominis,43,0,0.0,0,0,0,0,0
+250528_PL3AG,Gorge,Mycoplasma pneumonae,43,0,0.0,0,0,0,0,0
+250528_PL3AG,Gorge,Mycoplasma spp,43,1,3.269338,0,1,0,0,0
+250528_PL3AG,Gorge,Neisseria gonorrhoeae,43,14,215.0,0,0,4,6,4
+250528_PL3AG,Gorge,Neisseria meningitidis,43,36,1200.5,0,0,3,14,19
+250528_PL3AG,Gorge,Neisseria spp,43,38,1435.0,0,0,1,14,23
+250528_PL3AG,Gorge,Papillomavirus,43,1,0.125744,1,0,0,0,0
+250528_PL3AG,Gorge,Shigella spp,43,0,0.0,0,0,0,0,0
+250528_PL3AG,Gorge,Staphylococcus aureus,43,1,3.583698,0,1,0,0,0
+250528_PL3AG,Gorge,Treponema pallidum,43,0,0.0,0,0,0,0,0
+250528_PL3AG,Gorge,Trichomonas vaginalis,43,4,0.12279799999999999,4,0,0,0,0
+250528_PL3AG,Gorge,Trichophyton spp,43,1,0.045089,1,0,0,0,0
+250528_PL3AG,Gorge,Ureaplasma spp,43,0,0.0,0,0,0,0,0
+250528_PL4AG,Anal,Campylobacter jejuni,45,38,16.0,3,11,22,2,0
+250528_PL4AG,Anal,Chlamydia spp,45,2,65.0865385,0,1,0,1,0
+250528_PL4AG,Anal,Chlamydia trachomatis,45,2,65.0865385,0,1,0,1,0
+250528_PL4AG,Anal,Clostridioides difficile,45,44,139.5,0,2,16,26,0
+250528_PL4AG,Anal,Entamoeba histolytica,45,19,0.195443,16,3,0,0,0
+250528_PL4AG,Anal,Haemophilus ducreyi,45,42,30.0,1,6,30,5,0
+250528_PL4AG,Anal,Haemophilus influenzae,45,20,1.5683189999999998,4,9,4,3,0
+250528_PL4AG,Anal,Haemophilus parainfluenzae,45,36,13.5,6,9,16,3,2
+250528_PL4AG,Anal,Human alphaherpesvirus 1,45,25,0.310378,25,0,0,0,0
+250528_PL4AG,Anal,Human alphaherpesvirus 2,45,3,0.107524,2,0,1,0,0
+250528_PL4AG,Anal,Mpox,45,0,0.0,0,0,0,0,0
+250528_PL4AG,Anal,Mycoplasma genitalium,45,4,2.6186755,0,4,0,0,0
+250528_PL4AG,Anal,Mycoplasma hominis,45,27,7.102387,3,12,9,2,1
+250528_PL4AG,Anal,Mycoplasma pneumonae,45,0,0.0,0,0,0,0,0
+250528_PL4AG,Anal,Mycoplasma spp,45,7,1.395225,3,4,0,0,0
+250528_PL4AG,Anal,Neisseria gonorrhoeae,45,5,27.0,1,0,2,2,0
+250528_PL4AG,Anal,Neisseria meningitidis,45,6,3.4644325,1,4,1,0,0
+250528_PL4AG,Anal,Neisseria spp,45,8,14.336908000000001,1,1,4,2,0
+250528_PL4AG,Anal,Papillomavirus,45,33,11.35325,4,11,12,5,1
+250528_PL4AG,Anal,Shigella spp,45,10,6.679256499999999,1,5,3,1,0
+250528_PL4AG,Anal,Staphylococcus aureus,45,39,16.0,0,12,22,5,0
+250528_PL4AG,Anal,Treponema pallidum,45,1,0.060356,1,0,0,0,0
+250528_PL4AG,Anal,Trichomonas vaginalis,45,44,8.280361500000001,3,20,21,0,0
+250528_PL4AG,Anal,Trichophyton spp,45,4,0.169041,4,0,0,0,0
+250528_PL4AG,Anal,Ureaplasma spp,45,6,18.0,0,2,2,2,0
+250528_PL4AG,Gorge,Campylobacter jejuni,46,1,154.0,0,0,0,1,0
+250528_PL4AG,Gorge,Chlamydia spp,46,0,0.0,0,0,0,0,0
+250528_PL4AG,Gorge,Chlamydia trachomatis,46,0,0.0,0,0,0,0,0
+250528_PL4AG,Gorge,Clostridioides difficile,46,2,118.321571,0,1,0,1,0
+250528_PL4AG,Gorge,Entamoeba histolytica,46,5,0.060043,5,0,0,0,0
+250528_PL4AG,Gorge,Haemophilus ducreyi,46,2,113.236767,0,1,0,1,0
+250528_PL4AG,Gorge,Haemophilus influenzae,46,17,222.0,0,1,3,12,1
+250528_PL4AG,Gorge,Haemophilus parainfluenzae,46,41,908.0,0,0,5,16,20
+250528_PL4AG,Gorge,Human alphaherpesvirus 1,46,26,0.1092715,26,0,0,0,0
+250528_PL4AG,Gorge,Human alphaherpesvirus 2,46,0,0.0,0,0,0,0,0
+250528_PL4AG,Gorge,Mpox,46,0,0.0,0,0,0,0,0
+250528_PL4AG,Gorge,Mycoplasma genitalium,46,0,0.0,0,0,0,0,0
+250528_PL4AG,Gorge,Mycoplasma hominis,46,1,35.0,0,0,1,0,0
+250528_PL4AG,Gorge,Mycoplasma pneumonae,46,0,0.0,0,0,0,0,0
+250528_PL4AG,Gorge,Mycoplasma spp,46,0,0.0,0,0,0,0,0
+250528_PL4AG,Gorge,Neisseria gonorrhoeae,46,12,183.5,0,0,4,8,0
+250528_PL4AG,Gorge,Neisseria meningitidis,46,29,490.0,0,2,4,14,9
+250528_PL4AG,Gorge,Neisseria spp,46,31,684.0,0,1,3,14,13
+250528_PL4AG,Gorge,Papillomavirus,46,3,1.762675,1,1,1,0,0
+250528_PL4AG,Gorge,Shigella spp,46,0,0.0,0,0,0,0,0
+250528_PL4AG,Gorge,Staphylococcus aureus,46,2,134.4721825,0,1,0,1,0
+250528_PL4AG,Gorge,Treponema pallidum,46,0,0.0,0,0,0,0,0
+250528_PL4AG,Gorge,Trichomonas vaginalis,46,11,0.096302,10,0,0,1,0
+250528_PL4AG,Gorge,Trichophyton spp,46,1,0.059534,1,0,0,0,0
+250528_PL4AG,Gorge,Ureaplasma spp,46,0,0.0,0,0,0,0,0
+250528_PL5AG,Anal,Campylobacter jejuni,47,34,14.0,1,10,22,1,0
+250528_PL5AG,Anal,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Anal,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Anal,Clostridioides difficile,47,44,133.0,0,2,16,25,1
+250528_PL5AG,Anal,Entamoeba histolytica,47,19,0.094654,17,2,0,0,0
+250528_PL5AG,Anal,Haemophilus ducreyi,47,40,32.5,1,7,28,4,0
+250528_PL5AG,Anal,Haemophilus influenzae,47,27,16.0,1,10,12,3,1
+250528_PL5AG,Anal,Haemophilus parainfluenzae,47,37,60.0,2,7,14,12,2
+250528_PL5AG,Anal,Human alphaherpesvirus 1,47,32,0.29968799999999995,30,2,0,0,0
+250528_PL5AG,Anal,Human alphaherpesvirus 2,47,2,69.412083,1,0,0,1,0
+250528_PL5AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Anal,Mycoplasma genitalium,47,3,2.805049,0,2,1,0,0
+250528_PL5AG,Anal,Mycoplasma hominis,47,25,7.00431,1,15,9,0,0
+250528_PL5AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Anal,Mycoplasma spp,47,3,2.805049,0,2,1,0,0
+250528_PL5AG,Anal,Neisseria gonorrhoeae,47,6,13.5,1,1,4,0,0
+250528_PL5AG,Anal,Neisseria meningitidis,47,8,12.464276,0,4,2,2,0
+250528_PL5AG,Anal,Neisseria spp,47,12,19.464275999999998,0,6,3,3,0
+250528_PL5AG,Anal,Papillomavirus,47,36,10.894584,4,13,15,4,0
+250528_PL5AG,Anal,Shigella spp,47,7,5.317954,1,3,3,0,0
+250528_PL5AG,Anal,Staphylococcus aureus,47,39,18.0,0,7,28,4,0
+250528_PL5AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Anal,Trichomonas vaginalis,47,46,6.2597765,7,19,18,2,0
+250528_PL5AG,Anal,Trichophyton spp,47,3,0.129027,3,0,0,0,0
+250528_PL5AG,Anal,Ureaplasma spp,47,8,34.0,1,2,5,0,0
+250528_PL5AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Clostridioides difficile,47,1,25.0,0,0,1,0,0
+250528_PL5AG,Gorge,Entamoeba histolytica,47,6,0.1059925,6,0,0,0,0
+250528_PL5AG,Gorge,Haemophilus ducreyi,47,1,63.0,0,0,1,0,0
+250528_PL5AG,Gorge,Haemophilus influenzae,47,27,254.0,0,0,7,15,5
+250528_PL5AG,Gorge,Haemophilus parainfluenzae,47,45,473.0,0,0,3,27,15
+250528_PL5AG,Gorge,Human alphaherpesvirus 1,47,26,0.103384,26,0,0,0,0
+250528_PL5AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Neisseria gonorrhoeae,47,11,53.0,0,0,7,4,0
+250528_PL5AG,Gorge,Neisseria meningitidis,47,35,266.0,0,0,6,23,6
+250528_PL5AG,Gorge,Neisseria spp,47,39,455.0,0,0,4,27,8
+250528_PL5AG,Gorge,Papillomavirus,47,5,0.196241,4,1,0,0,0
+250528_PL5AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Staphylococcus aureus,47,1,159.0,0,0,0,1,0
+250528_PL5AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Trichomonas vaginalis,47,5,0.115979,5,0,0,0,0
+250528_PL5AG,Gorge,Trichophyton spp,47,0,0.0,0,0,0,0,0
+250528_PL5AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Anal,Campylobacter jejuni,47,28,15.5,2,9,16,1,0
+250528_PL6AG,Anal,Chlamydia spp,47,3,9.364881,0,2,0,1,0
+250528_PL6AG,Anal,Chlamydia trachomatis,47,3,9.364881,0,2,0,1,0
+250528_PL6AG,Anal,Clostridioides difficile,47,42,119.5,1,6,11,24,0
+250528_PL6AG,Anal,Entamoeba histolytica,47,11,0.153541,10,1,0,0,0
+250528_PL6AG,Anal,Haemophilus ducreyi,47,35,40.0,1,8,22,4,0
+250528_PL6AG,Anal,Haemophilus influenzae,47,18,5.3714175,1,10,4,3,0
+250528_PL6AG,Anal,Haemophilus parainfluenzae,47,23,13.0,1,8,10,1,3
+250528_PL6AG,Anal,Human alphaherpesvirus 1,47,26,0.253914,26,0,0,0,0
+250528_PL6AG,Anal,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Anal,Mpox,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Anal,Mycoplasma genitalium,47,2,14.5,0,0,2,0,0
+250528_PL6AG,Anal,Mycoplasma hominis,47,19,7.949245,1,10,7,1,0
+250528_PL6AG,Anal,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Anal,Mycoplasma spp,47,2,14.5,0,0,2,0,0
+250528_PL6AG,Anal,Neisseria gonorrhoeae,47,2,625.0,0,0,0,2,0
+250528_PL6AG,Anal,Neisseria meningitidis,47,8,4.1632265,0,7,1,0,0
+250528_PL6AG,Anal,Neisseria spp,47,10,6.885549500000001,1,4,3,2,0
+250528_PL6AG,Anal,Papillomavirus,47,42,11.766036500000002,7,13,15,7,0
+250528_PL6AG,Anal,Shigella spp,47,12,39.715858499999996,1,2,6,2,1
+250528_PL6AG,Anal,Staphylococcus aureus,47,33,16.0,4,9,16,4,0
+250528_PL6AG,Anal,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Anal,Trichomonas vaginalis,47,43,4.234515,3,22,16,2,0
+250528_PL6AG,Anal,Trichophyton spp,47,5,0.110709,5,0,0,0,0
+250528_PL6AG,Anal,Ureaplasma spp,47,4,25.145329,0,2,2,0,0
+250528_PL6AG,Gorge,Campylobacter jejuni,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Chlamydia spp,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Chlamydia trachomatis,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Clostridioides difficile,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Entamoeba histolytica,47,3,0.081262,3,0,0,0,0
+250528_PL6AG,Gorge,Haemophilus ducreyi,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Haemophilus influenzae,47,26,201.0,0,0,6,17,3
+250528_PL6AG,Gorge,Haemophilus parainfluenzae,47,45,983.0,0,0,4,19,22
+250528_PL6AG,Gorge,Human alphaherpesvirus 1,47,19,0.114648,19,0,0,0,0
+250528_PL6AG,Gorge,Human alphaherpesvirus 2,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Mpox,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Mycoplasma genitalium,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Mycoplasma hominis,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Mycoplasma pneumonae,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Mycoplasma spp,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Neisseria gonorrhoeae,47,13,148.0,0,0,4,9,0
+250528_PL6AG,Gorge,Neisseria meningitidis,47,33,398.0,0,0,7,16,10
+250528_PL6AG,Gorge,Neisseria spp,47,37,825.0,0,0,3,17,17
+250528_PL6AG,Gorge,Papillomavirus,47,7,0.200973,7,0,0,0,0
+250528_PL6AG,Gorge,Shigella spp,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Staphylococcus aureus,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Treponema pallidum,47,0,0.0,0,0,0,0,0
+250528_PL6AG,Gorge,Trichomonas vaginalis,47,6,0.0889665,6,0,0,0,0
+250528_PL6AG,Gorge,Trichophyton spp,47,1,0.035598,1,0,0,0,0
+250528_PL6AG,Gorge,Ureaplasma spp,47,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Campylobacter jejuni,94,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Chlamydia spp,94,1,2.979529,0,1,0,0,0
+250528_PL7U,Urine,Chlamydia trachomatis,94,1,2.979529,0,1,0,0,0
+250528_PL7U,Urine,Clostridioides difficile,94,5,22.0,0,1,4,0,0
+250528_PL7U,Urine,Entamoeba histolytica,94,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Haemophilus ducreyi,94,4,6.314337,0,2,2,0,0
+250528_PL7U,Urine,Haemophilus influenzae,94,10,32.5,1,3,3,3,0
+250528_PL7U,Urine,Haemophilus parainfluenzae,94,17,27.0,2,4,8,3,0
+250528_PL7U,Urine,Human alphaherpesvirus 1,94,31,0.117771,31,0,0,0,0
+250528_PL7U,Urine,Human alphaherpesvirus 2,94,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Mpox,94,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Mycoplasma genitalium,94,1,0.587417,1,0,0,0,0
+250528_PL7U,Urine,Mycoplasma hominis,94,4,49.0,0,0,3,1,0
+250528_PL7U,Urine,Mycoplasma pneumonae,94,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Mycoplasma spp,94,1,0.587417,1,0,0,0,0
+250528_PL7U,Urine,Neisseria gonorrhoeae,94,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Neisseria meningitidis,94,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Neisseria spp,94,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Papillomavirus,94,16,0.2383275,15,0,0,1,0
+250528_PL7U,Urine,Shigella spp,94,1,1.674105,0,1,0,0,0
+250528_PL7U,Urine,Staphylococcus aureus,94,9,4.20872,1,6,2,0,0
+250528_PL7U,Urine,Treponema pallidum,94,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Trichomonas vaginalis,94,43,0.946479,23,17,3,0,0
+250528_PL7U,Urine,Trichophyton spp,94,0,0.0,0,0,0,0,0
+250528_PL7U,Urine,Ureaplasma spp,94,6,69.5,0,2,1,3,0
+250528_PL8U,Urine,Campylobacter jejuni,94,2,2.8974265,0,2,0,0,0
+250528_PL8U,Urine,Chlamydia spp,94,0,0.0,0,0,0,0,0
+250528_PL8U,Urine,Chlamydia trachomatis,94,0,0.0,0,0,0,0,0
+250528_PL8U,Urine,Clostridioides difficile,94,11,32.0,0,3,5,3,0
+250528_PL8U,Urine,Entamoeba histolytica,94,2,0.0835105,2,0,0,0,0
+250528_PL8U,Urine,Haemophilus ducreyi,94,11,13.0,2,2,7,0,0
+250528_PL8U,Urine,Haemophilus influenzae,94,11,46.0,0,2,8,1,0
+250528_PL8U,Urine,Haemophilus parainfluenzae,94,16,35.5,1,2,9,4,0
+250528_PL8U,Urine,Human alphaherpesvirus 1,94,30,0.110728,29,1,0,0,0
+250528_PL8U,Urine,Human alphaherpesvirus 2,94,0,0.0,0,0,0,0,0
+250528_PL8U,Urine,Mpox,94,0,0.0,0,0,0,0,0
+250528_PL8U,Urine,Mycoplasma genitalium,94,3,7.377131,0,3,0,0,0
+250528_PL8U,Urine,Mycoplasma hominis,94,8,12.0,1,2,5,0,0
+250528_PL8U,Urine,Mycoplasma pneumonae,94,0,0.0,0,0,0,0,0
+250528_PL8U,Urine,Mycoplasma spp,94,3,7.377131,0,3,0,0,0
+250528_PL8U,Urine,Neisseria gonorrhoeae,94,0,0.0,0,0,0,0,0
+250528_PL8U,Urine,Neisseria meningitidis,94,4,11.5,0,1,3,0,0
+250528_PL8U,Urine,Neisseria spp,94,4,29.496716499999998,0,1,3,0,0
+250528_PL8U,Urine,Papillomavirus,94,13,0.295804,10,3,0,0,0
+250528_PL8U,Urine,Shigella spp,94,0,0.0,0,0,0,0,0
+250528_PL8U,Urine,Staphylococcus aureus,94,21,12.0,1,7,10,3,0
+250528_PL8U,Urine,Treponema pallidum,94,0,0.0,0,0,0,0,0
+250528_PL8U,Urine,Trichomonas vaginalis,94,44,1.4002485,21,13,10,0,0
+250528_PL8U,Urine,Trichophyton spp,94,3,0.334775,3,0,0,0,0
+250528_PL8U,Urine,Ureaplasma spp,94,11,36.0,0,3,5,3,0
+250627_PL1AG,Anal,Campylobacter jejuni,35,25,16.0,3,7,11,4,0
+250627_PL1AG,Anal,Chlamydia spp,35,3,53.0,0,0,3,0,0
+250627_PL1AG,Anal,Chlamydia trachomatis,35,3,53.0,0,0,3,0,0
+250627_PL1AG,Anal,Clostridioides difficile,35,33,106.0,0,4,11,18,0
+250627_PL1AG,Anal,Entamoeba histolytica,35,12,0.158217,12,0,0,0,0
+250627_PL1AG,Anal,Haemophilus ducreyi,35,33,43.0,3,3,21,6,0
+250627_PL1AG,Anal,Haemophilus influenzae,35,17,5.809589,2,8,3,2,2
+250627_PL1AG,Anal,Haemophilus parainfluenzae,35,27,17.0,1,8,11,4,3
+250627_PL1AG,Anal,Human alphaherpesvirus 1,35,15,0.168545,15,0,0,0,0
+250627_PL1AG,Anal,Human alphaherpesvirus 2,35,1,81.0,0,0,1,0,0
+250627_PL1AG,Anal,Mpox,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Anal,Mycoplasma genitalium,35,3,1.445705,0,2,0,1,0
+250627_PL1AG,Anal,Mycoplasma hominis,35,24,6.376612,2,12,10,0,0
+250627_PL1AG,Anal,Mycoplasma pneumonae,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Anal,Mycoplasma spp,35,3,1.445705,0,2,0,1,0
+250627_PL1AG,Anal,Neisseria gonorrhoeae,35,1,6.029294,0,1,0,0,0
+250627_PL1AG,Anal,Neisseria meningitidis,35,4,5.2902275,0,3,0,1,0
+250627_PL1AG,Anal,Neisseria spp,35,7,3.782785,1,4,1,1,0
+250627_PL1AG,Anal,Papillomavirus,35,30,10.2908325,1,14,13,2,0
+250627_PL1AG,Anal,Shigella spp,35,12,34.4690575,0,4,7,1,0
+250627_PL1AG,Anal,Staphylococcus aureus,35,33,35.0,2,5,20,6,0
+250627_PL1AG,Anal,Treponema pallidum,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Anal,Trichomonas vaginalis,35,34,15.5,2,14,14,4,0
+250627_PL1AG,Anal,Trichophyton spp,35,4,0.0948165,3,1,0,0,0
+250627_PL1AG,Anal,Ureaplasma spp,35,7,10.0,1,2,3,1,0
+250627_PL1AG,Gorge,Campylobacter jejuni,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Chlamydia spp,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Chlamydia trachomatis,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Clostridioides difficile,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Entamoeba histolytica,35,2,0.040615,2,0,0,0,0
+250627_PL1AG,Gorge,Haemophilus ducreyi,35,1,18.0,0,0,1,0,0
+250627_PL1AG,Gorge,Haemophilus influenzae,35,23,152.0,0,1,6,15,1
+250627_PL1AG,Gorge,Haemophilus parainfluenzae,35,32,606.0,0,0,4,13,15
+250627_PL1AG,Gorge,Human alphaherpesvirus 1,35,12,0.0873545,12,0,0,0,0
+250627_PL1AG,Gorge,Human alphaherpesvirus 2,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Mpox,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Mycoplasma genitalium,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Mycoplasma hominis,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Mycoplasma pneumonae,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Mycoplasma spp,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Neisseria gonorrhoeae,35,12,311.0,0,3,2,6,1
+250627_PL1AG,Gorge,Neisseria meningitidis,35,28,201.5,0,1,9,10,8
+250627_PL1AG,Gorge,Neisseria spp,35,28,502.5,0,0,3,16,9
+250627_PL1AG,Gorge,Papillomavirus,35,2,5.312875000000001,1,0,1,0,0
+250627_PL1AG,Gorge,Shigella spp,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Staphylococcus aureus,35,3,56.0,0,1,1,0,1
+250627_PL1AG,Gorge,Treponema pallidum,35,0,0.0,0,0,0,0,0
+250627_PL1AG,Gorge,Trichomonas vaginalis,35,6,0.075316,5,1,0,0,0
+250627_PL1AG,Gorge,Trichophyton spp,35,2,0.125586,2,0,0,0,0
+250627_PL1AG,Gorge,Ureaplasma spp,35,1,23.0,0,0,1,0,0
+250627_PL11,1,Campylobacter jejuni,16,4,14.482427,0,2,2,0,0
+250627_PL11,1,Chlamydia spp,16,1,17.0,0,0,1,0,0
+250627_PL11,1,Chlamydia trachomatis,16,1,17.0,0,0,1,0,0
+250627_PL11,1,Clostridioides difficile,16,7,141.0,0,1,2,4,0
+250627_PL11,1,Entamoeba histolytica,16,3,0.133017,2,1,0,0,0
+250627_PL11,1,Haemophilus ducreyi,16,6,40.0,1,1,3,1,0
+250627_PL11,1,Haemophilus influenzae,16,7,282.0,0,1,2,4,0
+250627_PL11,1,Haemophilus parainfluenzae,16,16,210.0,1,3,3,6,3
+250627_PL11,1,Human alphaherpesvirus 1,16,5,0.458348,4,0,0,0,1
+250627_PL11,1,Human alphaherpesvirus 2,16,1,1.402198,0,1,0,0,0
+250627_PL11,1,Mpox,16,0,0.0,0,0,0,0,0
+250627_PL11,1,Mycoplasma genitalium,16,0,0.0,0,0,0,0,0
+250627_PL11,1,Mycoplasma hominis,16,5,9.698534,0,3,2,0,0
+250627_PL11,1,Mycoplasma pneumonae,16,0,0.0,0,0,0,0,0
+250627_PL11,1,Mycoplasma spp,16,0,0.0,0,0,0,0,0
+250627_PL11,1,Neisseria gonorrhoeae,16,2,141.5,0,0,1,1,0
+250627_PL11,1,Neisseria meningitidis,16,7,477.0,0,1,0,4,2
+250627_PL11,1,Neisseria spp,16,7,716.0,0,1,0,4,2
+250627_PL11,1,Papillomavirus,16,6,20.1581875,1,1,3,1,0
+250627_PL11,1,Shigella spp,16,1,76.251782,0,0,1,0,0
+250627_PL11,1,Staphylococcus aureus,16,5,72.0,0,1,2,2,0
+250627_PL11,1,Treponema pallidum,16,0,0.0,0,0,0,0,0
+250627_PL11,1,Trichomonas vaginalis,16,10,2.882779,3,3,4,0,0
+250627_PL11,1,Trichophyton spp,16,1,0.076537,1,0,0,0,0
+250627_PL11,1,Ureaplasma spp,16,1,4.247796,0,1,0,0,0
+250627_PL12,2,Campylobacter jejuni,6,2,125.685911,0,1,0,1,0
+250627_PL12,2,Chlamydia spp,6,1,5.52339,0,1,0,0,0
+250627_PL12,2,Chlamydia trachomatis,6,1,5.52339,0,1,0,0,0
+250627_PL12,2,Clostridioides difficile,6,3,131.0,0,0,1,2,0
+250627_PL12,2,Entamoeba histolytica,6,1,0.088867,1,0,0,0,0
+250627_PL12,2,Haemophilus ducreyi,6,3,26.0,0,0,2,1,0
+250627_PL12,2,Haemophilus influenzae,6,3,18.0,0,1,1,1,0
+250627_PL12,2,Haemophilus parainfluenzae,6,5,1075.0,0,1,0,1,3
+250627_PL12,2,Human alphaherpesvirus 1,6,5,0.105202,5,0,0,0,0
+250627_PL12,2,Human alphaherpesvirus 2,6,0,0.0,0,0,0,0,0
+250627_PL12,2,Mpox,6,0,0.0,0,0,0,0,0
+250627_PL12,2,Mycoplasma genitalium,6,0,0.0,0,0,0,0,0
+250627_PL12,2,Mycoplasma hominis,6,2,102.1588015,0,1,0,1,0
+250627_PL12,2,Mycoplasma pneumonae,6,0,0.0,0,0,0,0,0
+250627_PL12,2,Mycoplasma spp,6,0,0.0,0,0,0,0,0
+250627_PL12,2,Neisseria gonorrhoeae,6,1,1491.0,0,0,0,0,1
+250627_PL12,2,Neisseria meningitidis,6,3,24.0,0,1,1,1,0
+250627_PL12,2,Neisseria spp,6,3,847.0,0,0,1,1,1
+250627_PL12,2,Papillomavirus,6,3,10.433207,0,1,1,1,0
+250627_PL12,2,Shigella spp,6,1,3.393456,0,1,0,0,0
+250627_PL12,2,Staphylococcus aureus,6,3,32.0,0,0,2,1,0
+250627_PL12,2,Treponema pallidum,6,0,0.0,0,0,0,0,0
+250627_PL12,2,Trichomonas vaginalis,6,4,15.0,1,0,2,1,0
+250627_PL12,2,Trichophyton spp,6,0,0.0,0,0,0,0,0
+250627_PL12,2,Ureaplasma spp,6,0,0.0,0,0,0,0,0
+250627_PL13,3,Campylobacter jejuni,2,1,5.158107,0,1,0,0,0
+250627_PL13,3,Chlamydia spp,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Chlamydia trachomatis,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Clostridioides difficile,2,1,38.0,0,0,1,0,0
+250627_PL13,3,Entamoeba histolytica,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Haemophilus ducreyi,2,1,38.0,0,0,1,0,0
+250627_PL13,3,Haemophilus influenzae,2,2,54.0,0,0,2,0,0
+250627_PL13,3,Haemophilus parainfluenzae,2,2,327.5,0,0,1,1,0
+250627_PL13,3,Human alphaherpesvirus 1,2,2,0.0853145,2,0,0,0,0
+250627_PL13,3,Human alphaherpesvirus 2,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Mpox,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Mycoplasma genitalium,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Mycoplasma hominis,2,1,5.593128,0,1,0,0,0
+250627_PL13,3,Mycoplasma pneumonae,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Mycoplasma spp,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Neisseria gonorrhoeae,2,1,256.0,0,0,0,1,0
+250627_PL13,3,Neisseria meningitidis,2,2,91.9830015,0,1,0,1,0
+250627_PL13,3,Neisseria spp,2,2,219.9830015,0,0,0,2,0
+250627_PL13,3,Papillomavirus,2,1,134.12136800000002,0,0,0,1,0
+250627_PL13,3,Shigella spp,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Staphylococcus aureus,2,1,29.0,0,0,1,0,0
+250627_PL13,3,Treponema pallidum,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Trichomonas vaginalis,2,1,3.449096,0,1,0,0,0
+250627_PL13,3,Trichophyton spp,2,0,0.0,0,0,0,0,0
+250627_PL13,3,Ureaplasma spp,2,1,16.0,0,0,1,0,0
+250627_PL2R,Repasse,Campylobacter jejuni,32,12,22.5,0,1,11,0,0
+250627_PL2R,Repasse,Chlamydia spp,32,0,0.0,0,0,0,0,0
+250627_PL2R,Repasse,Chlamydia trachomatis,32,0,0.0,0,0,0,0,0
+250627_PL2R,Repasse,Clostridioides difficile,32,19,175.0,0,0,4,15,0
+250627_PL2R,Repasse,Entamoeba histolytica,32,11,0.11201,11,0,0,0,0
+250627_PL2R,Repasse,Haemophilus ducreyi,32,18,102.5,0,0,8,10,0
+250627_PL2R,Repasse,Haemophilus influenzae,32,12,101.5,0,1,5,5,1
+250627_PL2R,Repasse,Haemophilus parainfluenzae,32,25,235.0,0,2,6,11,6
+250627_PL2R,Repasse,Human alphaherpesvirus 1,32,21,0.23746,18,3,0,0,0
+250627_PL2R,Repasse,Human alphaherpesvirus 2,32,0,0.0,0,0,0,0,0
+250627_PL2R,Repasse,Mpox,32,0,0.0,0,0,0,0,0
+250627_PL2R,Repasse,Mycoplasma genitalium,32,0,0.0,0,0,0,0,0
+250627_PL2R,Repasse,Mycoplasma hominis,32,7,26.0,0,1,4,2,0
+250627_PL2R,Repasse,Mycoplasma pneumonae,32,0,0.0,0,0,0,0,0
+250627_PL2R,Repasse,Mycoplasma spp,32,0,0.0,0,0,0,0,0
+250627_PL2R,Repasse,Neisseria gonorrhoeae,32,5,100.0,0,0,2,3,0
+250627_PL2R,Repasse,Neisseria meningitidis,32,9,176.0,0,0,2,6,1
+250627_PL2R,Repasse,Neisseria spp,32,13,253.0,0,0,6,3,4
+250627_PL2R,Repasse,Papillomavirus,32,20,14.7777195,4,4,8,3,1
+250627_PL2R,Repasse,Shigella spp,32,4,97.5,0,1,1,2,0
+250627_PL2R,Repasse,Staphylococcus aureus,32,19,163.0,0,0,8,11,0
+250627_PL2R,Repasse,Treponema pallidum,32,0,0.0,0,0,0,0,0
+250627_PL2R,Repasse,Trichomonas vaginalis,32,25,13.0,5,6,11,2,1
+250627_PL2R,Repasse,Trichophyton spp,32,2,0.186689,2,0,0,0,0
+250627_PL2R,Repasse,Ureaplasma spp,32,3,3.994366,0,2,1,0,0
+250627_PL22,2,Campylobacter jejuni,10,4,7.6628625,0,2,2,0,0
+250627_PL22,2,Chlamydia spp,10,1,77.0,0,0,1,0,0
+250627_PL22,2,Chlamydia trachomatis,10,1,77.0,0,0,1,0,0
+250627_PL22,2,Clostridioides difficile,10,5,153.0,0,0,2,3,0
+250627_PL22,2,Entamoeba histolytica,10,4,0.251459,3,1,0,0,0
+250627_PL22,2,Haemophilus ducreyi,10,5,38.0,0,1,4,0,0
+250627_PL22,2,Haemophilus influenzae,10,8,10.8434285,0,4,1,2,1
+250627_PL22,2,Haemophilus parainfluenzae,10,10,97.5,0,1,4,4,1
+250627_PL22,2,Human alphaherpesvirus 1,10,6,0.1362815,6,0,0,0,0
+250627_PL22,2,Human alphaherpesvirus 2,10,0,0.0,0,0,0,0,0
+250627_PL22,2,Mpox,10,0,0.0,0,0,0,0,0
+250627_PL22,2,Mycoplasma genitalium,10,1,0.623263,1,0,0,0,0
+250627_PL22,2,Mycoplasma hominis,10,4,8.807763,1,1,2,0,0
+250627_PL22,2,Mycoplasma pneumonae,10,0,0.0,0,0,0,0,0
+250627_PL22,2,Mycoplasma spp,10,1,0.623263,1,0,0,0,0
+250627_PL22,2,Neisseria gonorrhoeae,10,6,150.0,0,0,2,4,0
+250627_PL22,2,Neisseria meningitidis,10,6,700.5,0,1,0,3,2
+250627_PL22,2,Neisseria spp,10,7,1192.0,0,1,1,1,4
+250627_PL22,2,Papillomavirus,10,4,4.683387000000001,0,3,1,0,0
+250627_PL22,2,Shigella spp,10,2,17.5431005,1,0,1,0,0
+250627_PL22,2,Staphylococcus aureus,10,5,32.0,0,1,4,0,0
+250627_PL22,2,Treponema pallidum,10,1,110.0,0,0,0,1,0
+250627_PL22,2,Trichomonas vaginalis,10,6,10.7772265,1,2,3,0,0
+250627_PL22,2,Trichophyton spp,10,1,0.069582,1,0,0,0,0
+250627_PL22,2,Ureaplasma spp,10,2,118.447208,0,0,1,1,0
+250627_PL2AG,Anal,Campylobacter jejuni,24,20,16.5,0,6,14,0,0
+250627_PL2AG,Anal,Chlamydia spp,24,1,17.0,0,0,1,0,0
+250627_PL2AG,Anal,Chlamydia trachomatis,24,1,17.0,0,0,1,0,0
+250627_PL2AG,Anal,Clostridioides difficile,24,23,186.0,0,0,8,15,0
+250627_PL2AG,Anal,Entamoeba histolytica,24,14,0.0998395,13,1,0,0,0
+250627_PL2AG,Anal,Haemophilus ducreyi,24,24,32.0,0,1,19,4,0
+250627_PL2AG,Anal,Haemophilus influenzae,24,12,20.5,0,5,6,1,0
+250627_PL2AG,Anal,Haemophilus parainfluenzae,24,19,32.0,0,3,12,4,0
+250627_PL2AG,Anal,Human alphaherpesvirus 1,24,14,0.3285425,13,1,0,0,0
+250627_PL2AG,Anal,Human alphaherpesvirus 2,24,2,1540.5,0,0,0,1,1
+250627_PL2AG,Anal,Mpox,24,0,0.0,0,0,0,0,0
+250627_PL2AG,Anal,Mycoplasma genitalium,24,0,0.0,0,0,0,0,0
+250627_PL2AG,Anal,Mycoplasma hominis,24,12,26.0,1,3,6,2,0
+250627_PL2AG,Anal,Mycoplasma pneumonae,24,0,0.0,0,0,0,0,0
+250627_PL2AG,Anal,Mycoplasma spp,24,2,0.806231,2,0,0,0,0
+250627_PL2AG,Anal,Neisseria gonorrhoeae,24,1,161.0,0,0,0,1,0
+250627_PL2AG,Anal,Neisseria meningitidis,24,3,2.331476,0,3,0,0,0
+250627_PL2AG,Anal,Neisseria spp,24,4,5.678614,0,3,0,1,0
+250627_PL2AG,Anal,Papillomavirus,24,19,18.0,3,4,10,2,0
+250627_PL2AG,Anal,Shigella spp,24,7,45.341969,0,1,4,1,1
+250627_PL2AG,Anal,Staphylococcus aureus,24,22,52.5,0,3,14,5,0
+250627_PL2AG,Anal,Treponema pallidum,24,0,0.0,0,0,0,0,0
+250627_PL2AG,Anal,Trichomonas vaginalis,24,24,11.0,3,8,11,2,0
+250627_PL2AG,Anal,Trichophyton spp,24,0,0.0,0,0,0,0,0
+250627_PL2AG,Anal,Ureaplasma spp,24,2,43.594671,0,1,1,0,0
+250627_PL2AG,Gorge,Campylobacter jejuni,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Chlamydia spp,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Chlamydia trachomatis,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Clostridioides difficile,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Entamoeba histolytica,25,1,0.059329,1,0,0,0,0
+250627_PL2AG,Gorge,Haemophilus ducreyi,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Haemophilus influenzae,25,14,167.5,0,0,3,9,2
+250627_PL2AG,Gorge,Haemophilus parainfluenzae,25,21,848.0,0,0,1,11,9
+250627_PL2AG,Gorge,Human alphaherpesvirus 1,25,14,0.0841915,14,0,0,0,0
+250627_PL2AG,Gorge,Human alphaherpesvirus 2,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Mpox,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Mycoplasma genitalium,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Mycoplasma hominis,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Mycoplasma pneumonae,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Mycoplasma spp,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Neisseria gonorrhoeae,25,9,195.0,0,0,2,6,1
+250627_PL2AG,Gorge,Neisseria meningitidis,25,19,429.0,0,0,4,8,7
+250627_PL2AG,Gorge,Neisseria spp,25,20,877.5,0,0,2,9,9
+250627_PL2AG,Gorge,Papillomavirus,25,6,0.118174,5,1,0,0,0
+250627_PL2AG,Gorge,Shigella spp,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Staphylococcus aureus,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Treponema pallidum,25,0,0.0,0,0,0,0,0
+250627_PL2AG,Gorge,Trichomonas vaginalis,25,5,0.070879,5,0,0,0,0
+250627_PL2AG,Gorge,Trichophyton spp,25,1,0.040642,1,0,0,0,0
+250627_PL2AG,Gorge,Ureaplasma spp,25,0,0.0,0,0,0,0,0
+250627_PL3U,Urine,Campylobacter jejuni,94,0,0.0,0,0,0,0,0
+250627_PL3U,Urine,Chlamydia spp,94,1,0.99974,1,0,0,0,0
+250627_PL3U,Urine,Chlamydia trachomatis,94,1,0.99974,1,0,0,0,0
+250627_PL3U,Urine,Clostridioides difficile,94,7,9.745359,1,3,2,1,0
+250627_PL3U,Urine,Entamoeba histolytica,94,1,0.086206,1,0,0,0,0
+250627_PL3U,Urine,Haemophilus ducreyi,94,5,14.0,0,2,3,0,0
+250627_PL3U,Urine,Haemophilus influenzae,94,18,66.0,0,3,9,6,0
+250627_PL3U,Urine,Haemophilus parainfluenzae,94,21,38.0,1,4,9,7,0
+250627_PL3U,Urine,Human alphaherpesvirus 1,94,45,0.069323,44,1,0,0,0
+250627_PL3U,Urine,Human alphaherpesvirus 2,94,0,0.0,0,0,0,0,0
+250627_PL3U,Urine,Mpox,94,0,0.0,0,0,0,0,0
+250627_PL3U,Urine,Mycoplasma genitalium,94,1,748.0,0,0,0,1,0
+250627_PL3U,Urine,Mycoplasma hominis,94,5,16.0,0,0,5,0,0
+250627_PL3U,Urine,Mycoplasma pneumonae,94,0,0.0,0,0,0,0,0
+250627_PL3U,Urine,Mycoplasma spp,94,1,748.0,0,0,0,1,0
+250627_PL3U,Urine,Neisseria gonorrhoeae,94,1,1079.0,0,0,0,0,1
+250627_PL3U,Urine,Neisseria meningitidis,94,1,21.0,0,0,1,0,0
+250627_PL3U,Urine,Neisseria spp,94,1,1102.824124,0,0,0,0,1
+250627_PL3U,Urine,Papillomavirus,94,37,0.12922,31,6,0,0,0
+250627_PL3U,Urine,Shigella spp,94,2,20.2917645,0,1,1,0,0
+250627_PL3U,Urine,Staphylococcus aureus,94,12,8.652262,1,6,5,0,0
+250627_PL3U,Urine,Treponema pallidum,94,0,0.0,0,0,0,0,0
+250627_PL3U,Urine,Trichomonas vaginalis,94,53,1.207588,25,24,2,2,0
+250627_PL3U,Urine,Trichophyton spp,94,3,0.091799,3,0,0,0,0
+250627_PL3U,Urine,Ureaplasma spp,94,7,76.578273,0,1,3,3,0
+250627_PL4B,Bq,Campylobacter jejuni,11,1,12.0,0,0,1,0,0
+250627_PL4B,Bq,Chlamydia spp,11,0,0.0,0,0,0,0,0
+250627_PL4B,Bq,Chlamydia trachomatis,11,0,0.0,0,0,0,0,0
+250627_PL4B,Bq,Clostridioides difficile,11,2,179.5,0,0,1,1,0
+250627_PL4B,Bq,Entamoeba histolytica,11,0,0.0,0,0,0,0,0
+250627_PL4B,Bq,Haemophilus ducreyi,11,2,61.257322,0,1,0,1,0
+250627_PL4B,Bq,Haemophilus influenzae,11,2,527.0,0,0,0,2,0
+250627_PL4B,Bq,Haemophilus parainfluenzae,11,5,142.0,0,0,2,2,1
+250627_PL4B,Bq,Human alphaherpesvirus 1,11,7,0.097362,6,1,0,0,0
+250627_PL4B,Bq,Human alphaherpesvirus 2,11,0,0.0,0,0,0,0,0
+250627_PL4B,Bq,Mpox,11,0,0.0,0,0,0,0,0
+250627_PL4B,Bq,Mycoplasma genitalium,11,0,0.0,0,0,0,0,0
+250627_PL4B,Bq,Mycoplasma hominis,11,1,79.0,0,0,1,0,0
+250627_PL4B,Bq,Mycoplasma pneumonae,11,0,0.0,0,0,0,0,0
+250627_PL4B,Bq,Mycoplasma spp,11,0,0.0,0,0,0,0,0
+250627_PL4B,Bq,Neisseria gonorrhoeae,11,3,194.0,0,0,1,2,0
+250627_PL4B,Bq,Neisseria meningitidis,11,3,784.0,0,0,0,3,0
+250627_PL4B,Bq,Neisseria spp,11,4,1090.0,0,0,1,1,2
+250627_PL4B,Bq,Papillomavirus,11,3,0.470992,2,0,1,0,0
+250627_PL4B,Bq,Shigella spp,11,0,0.0,0,0,0,0,0
+250627_PL4B,Bq,Staphylococcus aureus,11,2,52.2843695,0,1,0,1,0
+250627_PL4B,Bq,Treponema pallidum,11,0,0.0,0,0,0,0,0
+250627_PL4B,Bq,Trichomonas vaginalis,11,6,0.1603505,4,1,1,0,0
+250627_PL4B,Bq,Trichophyton spp,11,1,0.194725,1,0,0,0,0
+250627_PL4B,Bq,Ureaplasma spp,11,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Campylobacter jejuni,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Chlamydia spp,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Chlamydia trachomatis,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Clostridioides difficile,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Entamoeba histolytica,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Haemophilus ducreyi,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Haemophilus influenzae,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Haemophilus parainfluenzae,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Human alphaherpesvirus 1,7,2,0.2238715,2,0,0,0,0
+250627_PL4R,Repasse,Human alphaherpesvirus 2,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Mpox,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Mycoplasma genitalium,7,1,114.0,0,0,0,1,0
+250627_PL4R,Repasse,Mycoplasma hominis,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Mycoplasma pneumonae,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Mycoplasma spp,7,1,114.0,0,0,0,1,0
+250627_PL4R,Repasse,Neisseria gonorrhoeae,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Neisseria meningitidis,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Neisseria spp,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Papillomavirus,7,4,0.174987,4,0,0,0,0
+250627_PL4R,Repasse,Shigella spp,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Staphylococcus aureus,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Treponema pallidum,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Trichomonas vaginalis,7,5,0.254125,3,1,1,0,0
+250627_PL4R,Repasse,Trichophyton spp,7,0,0.0,0,0,0,0,0
+250627_PL4R,Repasse,Ureaplasma spp,7,0,0.0,0,0,0,0,0
+250627_PL4U,Urine,Campylobacter jejuni,61,1,4.46909,0,1,0,0,0
+250627_PL4U,Urine,Chlamydia spp,61,3,2.026407,1,1,1,0,0
+250627_PL4U,Urine,Chlamydia trachomatis,61,2,9.0132035,0,1,1,0,0
+250627_PL4U,Urine,Clostridioides difficile,61,4,44.0,0,1,3,0,0
+250627_PL4U,Urine,Entamoeba histolytica,61,2,0.1043395,2,0,0,0,0
+250627_PL4U,Urine,Haemophilus ducreyi,61,5,12.0,1,1,3,0,0
+250627_PL4U,Urine,Haemophilus influenzae,61,8,73.0,0,1,5,2,0
+250627_PL4U,Urine,Haemophilus parainfluenzae,61,11,44.0,1,3,2,4,1
+250627_PL4U,Urine,Human alphaherpesvirus 1,61,22,0.1119575,21,1,0,0,0
+250627_PL4U,Urine,Human alphaherpesvirus 2,61,0,0.0,0,0,0,0,0
+250627_PL4U,Urine,Mpox,61,0,0.0,0,0,0,0,0
+250627_PL4U,Urine,Mycoplasma genitalium,61,1,123.0,0,0,0,1,0
+250627_PL4U,Urine,Mycoplasma hominis,61,2,30.5,0,0,2,0,0
+250627_PL4U,Urine,Mycoplasma pneumonae,61,0,0.0,0,0,0,0,0
+250627_PL4U,Urine,Mycoplasma spp,61,1,123.0,0,0,0,1,0
+250627_PL4U,Urine,Neisseria gonorrhoeae,61,4,486.0,0,0,0,3,1
+250627_PL4U,Urine,Neisseria meningitidis,61,5,10.0,0,2,3,0,0
+250627_PL4U,Urine,Neisseria spp,61,5,492.0,0,1,0,3,1
+250627_PL4U,Urine,Papillomavirus,61,21,0.24822899999999998,20,1,0,0,0
+250627_PL4U,Urine,Shigella spp,61,3,17.533099999999997,0,1,1,0,1
+250627_PL4U,Urine,Staphylococcus aureus,61,8,21.5,2,1,4,1,0
+250627_PL4U,Urine,Treponema pallidum,61,0,0.0,0,0,0,0,0
+250627_PL4U,Urine,Trichomonas vaginalis,61,26,0.8253185000000001,14,5,7,0,0
+250627_PL4U,Urine,Trichophyton spp,61,2,0.0602525,2,0,0,0,0
+250627_PL4U,Urine,Ureaplasma spp,61,7,210.0,0,1,2,4,0
+250627_PL41,1,Campylobacter jejuni,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Chlamydia spp,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Chlamydia trachomatis,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Clostridioides difficile,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Entamoeba histolytica,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Haemophilus ducreyi,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Haemophilus influenzae,7,3,39.0,0,0,3,0,0
+250627_PL41,1,Haemophilus parainfluenzae,7,3,79.0,0,0,2,1,0
+250627_PL41,1,Human alphaherpesvirus 1,7,1,0.664708,1,0,0,0,0
+250627_PL41,1,Human alphaherpesvirus 2,7,1,74.0,0,0,1,0,0
+250627_PL41,1,Mpox,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Mycoplasma genitalium,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Mycoplasma hominis,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Mycoplasma pneumonae,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Mycoplasma spp,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Neisseria gonorrhoeae,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Neisseria meningitidis,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Neisseria spp,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Papillomavirus,7,1,0.087507,1,0,0,0,0
+250627_PL41,1,Shigella spp,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Staphylococcus aureus,7,2,12.8137205,0,1,1,0,0
+250627_PL41,1,Treponema pallidum,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Trichomonas vaginalis,7,3,0.159394,2,1,0,0,0
+250627_PL41,1,Trichophyton spp,7,0,0.0,0,0,0,0,0
+250627_PL41,1,Ureaplasma spp,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Campylobacter jejuni,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Chlamydia spp,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Chlamydia trachomatis,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Clostridioides difficile,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Entamoeba histolytica,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Haemophilus ducreyi,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Haemophilus influenzae,7,2,23.769716,1,0,1,0,0
+250627_PL42,2,Haemophilus parainfluenzae,7,2,76.438878,0,1,0,1,0
+250627_PL42,2,Human alphaherpesvirus 1,7,2,0.17710700000000001,2,0,0,0,0
+250627_PL42,2,Human alphaherpesvirus 2,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Mpox,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Mycoplasma genitalium,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Mycoplasma hominis,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Mycoplasma pneumonae,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Mycoplasma spp,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Neisseria gonorrhoeae,7,1,376.0,0,0,0,1,0
+250627_PL42,2,Neisseria meningitidis,7,1,8.63091,0,1,0,0,0
+250627_PL42,2,Neisseria spp,7,1,385.372629,0,0,0,1,0
+250627_PL42,2,Papillomavirus,7,5,0.279909,4,1,0,0,0
+250627_PL42,2,Shigella spp,7,1,0.067429,1,0,0,0,0
+250627_PL42,2,Staphylococcus aureus,7,2,32.067429,1,0,1,0,0
+250627_PL42,2,Treponema pallidum,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Trichomonas vaginalis,7,3,0.894168,2,1,0,0,0
+250627_PL42,2,Trichophyton spp,7,0,0.0,0,0,0,0,0
+250627_PL42,2,Ureaplasma spp,7,0,0.0,0,0,0,0,0
+250627_PL43,3,Campylobacter jejuni,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Chlamydia spp,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Chlamydia trachomatis,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Clostridioides difficile,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Entamoeba histolytica,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Haemophilus ducreyi,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Haemophilus influenzae,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Haemophilus parainfluenzae,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Human alphaherpesvirus 1,1,1,0.040669,1,0,0,0,0
+250627_PL43,3,Human alphaherpesvirus 2,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Mpox,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Mycoplasma genitalium,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Mycoplasma hominis,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Mycoplasma pneumonae,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Mycoplasma spp,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Neisseria gonorrhoeae,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Neisseria meningitidis,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Neisseria spp,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Papillomavirus,1,1,0.162677,1,0,0,0,0
+250627_PL43,3,Shigella spp,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Staphylococcus aureus,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Treponema pallidum,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Trichomonas vaginalis,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Trichophyton spp,1,0,0.0,0,0,0,0,0
+250627_PL43,3,Ureaplasma spp,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Campylobacter jejuni,1,1,3.260624,0,1,0,0,0
+240419_PL7AG,Anal,Chlamydia spp,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Chlamydia trachomatis,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Clostridioides difficile,1,1,145.0,0,0,0,1,0
+240419_PL7AG,Anal,Entamoeba histolytica,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Haemophilus ducreyi,1,1,26.0,0,0,1,0,0
+240419_PL7AG,Anal,Haemophilus influenzae,1,1,156.0,0,0,0,1,0
+240419_PL7AG,Anal,Haemophilus parainfluenzae,1,1,59.0,0,0,1,0,0
+240419_PL7AG,Anal,Human alphaherpesvirus 1,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Human alphaherpesvirus 2,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Mpox,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Mycoplasma genitalium,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Mycoplasma hominis,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Mycoplasma pneumonae,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Mycoplasma spp,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Neisseria gonorrhoeae,1,1,0.860442,1,0,0,0,0
+240419_PL7AG,Anal,Neisseria meningitidis,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Neisseria spp,1,1,1.8114569999999999,0,1,0,0,0
+240419_PL7AG,Anal,Papillomavirus,1,1,264.0,0,0,0,1,0
+240419_PL7AG,Anal,Shigella spp,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Staphylococcus aureus,1,1,0.317005,1,0,0,0,0
+240419_PL7AG,Anal,Treponema pallidum,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Trichomonas vaginalis,1,1,0.090573,1,0,0,0,0
+240419_PL7AG,Anal,Trichophyton spp,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Anal,Ureaplasma spp,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Campylobacter jejuni,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Chlamydia spp,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Chlamydia trachomatis,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Clostridioides difficile,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Entamoeba histolytica,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Haemophilus ducreyi,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Haemophilus influenzae,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Haemophilus parainfluenzae,1,1,782.0,0,0,0,1,0
+240419_PL7AG,Gorge,Human alphaherpesvirus 1,1,1,0.169748,1,0,0,0,0
+240419_PL7AG,Gorge,Human alphaherpesvirus 2,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Mpox,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Mycoplasma genitalium,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Mycoplasma hominis,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Mycoplasma pneumonae,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Mycoplasma spp,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Neisseria gonorrhoeae,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Neisseria meningitidis,1,1,949.0,0,0,0,1,0
+240419_PL7AG,Gorge,Neisseria spp,1,1,1229.0,0,0,0,0,1
+240419_PL7AG,Gorge,Papillomavirus,1,1,0.113166,1,0,0,0,0
+240419_PL7AG,Gorge,Shigella spp,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Staphylococcus aureus,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Treponema pallidum,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Trichomonas vaginalis,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Trichophyton spp,1,0,0.0,0,0,0,0,0
+240419_PL7AG,Gorge,Ureaplasma spp,1,0,0.0,0,0,0,0,0
