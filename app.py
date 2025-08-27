@@ -188,7 +188,7 @@ st.sidebar.markdown(f"**Chemin d'ecriture** : `{RESPONSES_PATH}`")
 st.sidebar.caption('La zone temporaire est volatile. Telechargez vos reponses pour les conserver localement.')
 
 # Optional: Reset button for TEST mode
-if mode == 'Test':
+if _mode == 'Test':
     if st.sidebar.button('🧹 Reset fichier de test'):
         try:
             if os.path.exists(RESPONSES_PATH):
