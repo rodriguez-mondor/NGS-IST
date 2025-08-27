@@ -13,7 +13,7 @@ from matplotlib.ticker import FixedLocator, FixedFormatter, MaxNLocator
 
 
 # ===== Added: manifest_batch_stats loader and helpers =====
-LOCAL_MANIFEST = "manifest_batch_pathogen_stats_from_raw.csv"  # nouveau manifest complet (batch×site×pathogène)
+LOCAL_MANIFEST = "manifest_batch_pathogen_stats.csv"  # nouveau manifest complet (batch×site×pathogène)
 MANIFEST_BATCH_STATS_URL = "https://raw.githubusercontent.com/rodriguez-mondor/NGS-IST/main/manifest_batch_stats.csv"  # fallback
 
 
