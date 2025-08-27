@@ -16,7 +16,7 @@ from matplotlib.ticker import FixedLocator, FixedFormatter, MaxNLocator
 
 # ===== Added: manifest_batch_stats loader and helpers =====
 LOCAL_MANIFEST = "manifest_batch_pathogen_stats_from_raw.csv"  # nouveau manifest complet (batch×site×pathogène)
-MANIFEST_BATCH_STATS_URL = "https://raw.githubusercontent.com/rodriguez-mondor/NGS-IST/main/manifest_batch_stats.csv"  # fallback
+MANIFEST_BATCH_STATS_URL = "https://raw.githubusercontent.com/rodriguez-mondor/NGS-IST/main/manifest_batch_pathogen_stats.csv"  # fallback
 
 
 def load_manifest_batch_stats():
@@ -24,7 +24,7 @@ def load_manifest_batch_stats():
     Normalise les colonnes pour compatibilité avec l'app.
     """
     import pandas as pd
-    MANIFEST_LOCAL = "manifest_batch_pathogen_stats_from_raw.csv"
+    MANIFEST_LOCAL = "manifest_batch_pathogen_stats.csv"
     try:
         df = pd.read_csv(MANIFEST_LOCAL)
     except Exception as e:
