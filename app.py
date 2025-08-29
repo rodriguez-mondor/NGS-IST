@@ -482,4 +482,4 @@ else:
     pc1.metric('Total pour vous (avec redondance)', f'{total_for_op}')
     pc2.metric('Vos réponses', f'{answered_instances}/{total_for_op}')
     pc3.metric('Restantes', f'{remaining_for_op}')
-)
+
